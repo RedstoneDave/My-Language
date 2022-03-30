@@ -10,8 +10,8 @@ k:
 sk:
   type: m.
   trans:
-    ja: -ta koto aru
-    en: have been doing
+    ja: -ta koto aru / (..made) -te iru
+    en: used to do / have been doing
   usage:
     conj form + ~
 

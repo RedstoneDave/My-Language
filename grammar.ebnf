@@ -19,6 +19,7 @@ noun = stem
     | (verb | stative verb), "as" # the absolutive of a verb or stative verb
     | stative verb, "yu"          # the abstracted property of a stative verb
     | adjective stem, "van"       # the abstracted property of an adjective
+    | adjective stem, "vei"       # some instance of an object satisfying the adjective
     | numeral, "k";               # the noun form of a numeral 
 
 (*
@@ -53,6 +54,7 @@ called garasu
 
 adjective stem = stem
     | noun, "nu"            # form an adjective from a noun as "like ..."
+    | noun, "lu"            # form an adjective from a noun as "about ..."
     | adjective stem, "kse" # more
     | adjective stem, "gru" # most
     | adjective stem, "na"  # negative form of an adjective
@@ -82,7 +84,7 @@ case partical = "zu" # the topic indecator
     | "do"  # the dative indecator
     | "cu"  # the position indecator
     | "ye"  # the ablative / ergative (in passive form of verbs) indecator
-    | "we"  # the terminative indecator (as "until" in English and "made" in Japanese)
+    | "we"; # the terminative indecator (as "until" in English and "made" in Japanese)
 
 single modifier = noun phrase, "ma"
     | verb clause, "o"
@@ -118,7 +120,7 @@ complex type = noun phrase, "kwa" # this is used in special adverbial clauses
     | adjective phrase stem, "ve";
 
 complex adverbial indecator = "vi" # "if"
-    | "vo" # "as" or "since" or "given"
+    | "vo"; # "as" or "since" or "given"
 
 quotation = ANYTHING, SPACE, "t" | "p", SPACE, ANYTHING, SPACE, "sat";
 

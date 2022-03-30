@@ -96,4 +96,15 @@ beu:
   trans:
     en: the world, the society
 
+lav:
+  type: s.
+  trans:
+    en: book, record
+
+furva:
+  type: g.
+  trans:
+    ja: osanai
+    en: young (and naïve)
+
 ...
