@@ -1,0 +1,27 @@
+0: na
+1: u
+2: ne
+3: ki
+4: do
+5: ta
+6: ri
+7: su
+8: fe
+9: gu
+10: da
+100: mu
+1e3: ke
+1e4: de
+1e5: to
+
+all: wo
+many: mo 
+some: me
+little: lo 
+part: ecu
+another: le
+other: lai
+same: wa
+common: hwa
+ordinal: lwa
+# e.g. 998244353: guke gumu feda ne to dode doke kimu tada ki

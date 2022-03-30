@@ -1,0 +1,27 @@
+
+{| class="wikitable" style="text-align: center;"
+!
+! Bilabial
+! Labialdental
+! Alveolar
+! PastAlveolar
+! Palatal
+! Velar
+! Glottal
+|-
+! Plosive
+| p b ||     || t d ||     ||     || k ɡ || 
+|-
+! Nasal 
+|   m ||     ||   n ||     ||     ||     || N/A
+|-
+! Fricative
+|     || f v || s z || ʃ ʒ ||     ||     || h
+|-
+! Tap or flap
+|     ||     ||   ɾ ||     ||     || N/A || N/A
+|-
+! Approximant
+|     ||     ||     ||     ||   j ||   ɰ || N/A
+|}
+

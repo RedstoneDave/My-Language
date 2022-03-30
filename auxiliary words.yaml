@@ -1,0 +1,88 @@
+---
+k:
+  type: m.
+  trans:
+    ja: -ta
+    en: did
+  usage:
+    conj form + ~
+
+sk:
+  type: m.
+  trans:
+    ja: -ta koto aru
+    en: have been doing
+  usage:
+    conj form + ~
+
+tas:
+  type: m.
+  trans:
+    en: will
+  usage:
+    conj form + ~
+
+mest: 
+  type: m.
+  trans:
+    ja: beshi 
+    en: must
+  note: indecates concluded truth instead of rules
+  usage:
+    conj form + ~
+
+dit: 
+  type: m.
+  trans:
+    ja: -te shimatta
+    en: to have done
+  usage:
+    b. conj form + ~
+
+nak:
+  type: m.
+  trans:
+    ja: -te iru
+    en: to be doing
+  note: stresses the condition
+  usage:
+    b. conj form + ~
+
+tez:
+  type: m.
+  trans:
+    ja: -dekiru / -eru / -rareru
+    en: to be able to
+  note: indecates possibility instead of allowance
+  usage:
+    b. conj form + ~
+
+der:
+  type: b.
+  trans:
+    ja: naru
+    en: to become
+  usage:
+    m. conj form + ~
+    g. & s. adv form + ~
+
+
+yu:
+  type: s.
+  trans:
+    ja: koto
+    en: -ing / -tion / -ness
+
+ku:
+  type: s.
+  trans:
+    ja: mono
+    en: thing
+
+
+#bru:
+#  type: s. u.
+#bruva vg.
+#brub  vb.
+#bruk  vm.
+...

@@ -1,0 +1,97 @@
+---
+tesin: 
+  type: m. 
+  trans: 
+    ja: suki
+
+tesam:
+  type: m.
+  trans:
+    ja: tanoshii
+    en: happy
+
+vusm:
+  type: m.
+  trans:
+    en: satisfied
+
+skud:
+  type: m.
+  trans:
+    en: to live happily and fullfilled
+    ja: shiawase, saiwai
+
+nagāp:
+  type: m.
+  trans: 
+    ja: kirai
+
+naguf:
+  type: m. 
+  trans:
+    ja: kanashii
+    en: sad
+
+nayup:
+  type: m.
+  trans:
+    ja: itai
+    en: painful
+
+vaswa: 
+  type: s.
+  trans:
+    en: view
+
+medo:
+  type: s.
+  trans: 
+    en: Logic
+
+mait:
+  type: b.
+  trans:
+    en: think 
+    ja: omou
+
+maita:
+  type: s.
+  trans:
+    en: thought
+    ja: omoi
+
+pat: 
+  type: m.
+  trans:
+    ja: au
+
+yoti:
+  type: s.
+  trans:
+    en: value
+
+aren:
+  type: s.
+  trans:
+    ja: kouritsu
+
+cem:
+  type: m.
+  trans:
+    en: niau
+
+deuva:
+  type: g.
+  trans:
+    en: old and useful, classic
+
+frova:
+  type: g.
+  trans:
+    en: old and useless
+
+avrova:
+  type: g.
+  trans:
+    en: out-of-date, harmful
+...

@@ -1,0 +1,99 @@
+---
+luva:
+  type: g.
+  trans:
+    ja: hayai
+
+zuk:
+  type: b.
+  trans:
+    ja: kiru, maku
+    en: wear, wrap
+
+vuk:
+  type: b.
+  trans:
+    ja: nuku
+
+wait:
+  type: m.
+  trans:
+    en: agree
+
+nerac:
+  type: b.
+  trans:
+    ja: inoru
+
+mip:
+  type: b.
+  trans:
+    ja: kieru
+    en: vanish
+
+syava:
+  type: g.
+  trans:
+    en: bright
+
+vof:
+  type: b.
+  trans:
+    en: contain for after use
+
+yem:
+  type: m.
+  trans:
+    ja: niteiru
+    en: to resemble
+
+skavip:
+  type: b.
+  trans:
+    ja: nigeru
+    en: escape
+
+pazek:
+  type: b.
+  trans:
+    en: find
+
+pazes:
+  type: b.
+  trans:
+    ja: sagasu
+    en: look for
+
+irep:
+  type: b.
+  trans:
+    en: to continue and to preserve
+
+kas:
+  type: b.
+  trans:
+    en: to arise and to fight against
+
+zyavim:
+  type: m.
+  trans:
+    en: to be hungry
+
+zazo:
+  type: s.
+  trans:
+    en: food
+    ja: tabemono
+
+skep:
+  type: b.
+  trans:
+    en: to boil; to surge
+    ja: waku
+
+beu:
+  type: s.
+  trans:
+    en: the world, the society
+
+...

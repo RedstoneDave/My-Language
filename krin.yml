@@ -1,0 +1,30 @@
+krin:
+  type: s.
+
+krink:
+  type: m.
+  trans:
+    en: with krin
+  lit-zh: 克灵珂
+
+krinaf:
+  type: m.
+  trans:
+    en: without krin
+  lit-zh: 克里纳弗
+
+krim:
+  type: b.
+  trans:
+    en: to cast a krin
+
+kritom:
+  type: b.
+  trans:
+    en: to cast a spell of krin
+
+krov:
+  type: s.
+  trans:
+    en: krin container
+

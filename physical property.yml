@@ -1,0 +1,87 @@
+---
+vimva: 
+  type: g.
+  trans:
+    en: hard
+
+rusva:
+  type: g.
+  trans: 
+    en: large; strong
+    ja: ookii; tsuyoi
+
+rul:
+  type: s.
+  trans:
+    en: size
+
+susva:
+  type: g.
+  trans: 
+    en: small
+    ja: chiisai
+
+udava:
+  type: g.
+  trans: 
+    en: long
+    ja: nagai
+  
+uda:
+  type: s.
+  trans:
+    en: length
+
+dukeva:
+  type: g.
+  trans: 
+    en: wide
+
+duke:
+  type: s.
+  trans: 
+    en: width
+
+fureva:
+  type: g.
+  trans:
+    en: thick
+
+fure:
+  type: s.
+  trans: 
+    en: the measure of being thick
+
+sureva:
+  type: g.
+  trans: 
+    ja: usui
+
+kuneva:
+  type: g.
+  trans: 
+    en: narrow
+
+goeva:
+  type: g.
+  trans: 
+    en: heavy
+    ja: omoi
+
+goe:
+  type: s. 
+  trans:
+    en: weight
+
+niteva:
+  type: g.
+  trans: 
+    en: short
+
+raeva:
+  type: g.
+  trans:
+    en: tall
+    ja: takai
+
+...

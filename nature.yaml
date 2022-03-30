@@ -1,0 +1,233 @@
+ruyamola:
+  type: s.
+  trans:
+    en: animal
+
+kila:
+  type: s.
+  trans:
+    en: fish
+
+tofala:
+  type: s.
+  trans:
+    en: bird
+    ja: tori
+
+yawola:
+  type: s.
+  trans:
+    en: dog
+    ja: inu
+
+kibro:
+  type: s.
+  trans:
+    en: louse
+
+sukaro:
+  type: s.
+  trans:
+    en: snake
+
+gubiro:
+  type: s.
+  trans:
+    en: bug
+    ja: mushi
+
+reca:
+  type: s.
+  trans:
+    en: tree
+    ja: ki
+
+mocamu:
+  type: s.
+  trans:
+    en: wood / forest
+    ja: hayashi / mori
+
+cade:
+  type: s.
+  trans:
+    en: stick
+
+cagatu:
+  type: s.
+  trans:
+    en: fruit
+    ja: kudamono
+
+caco:
+  type: s.
+  trans:
+    en: seed
+
+ra:
+  type: s.
+  trans:
+    en: leaf
+    ja: ha
+
+cabe:
+  type: s.
+  trans: 
+    en: bark
+
+pabu:
+  type: s.
+  trans:
+    en: flower
+    ja: hana
+
+pabo:
+  type: s.
+  trans:
+    en: grass
+    ja: kusa
+---
+saya:
+  type: s.
+  trans:
+    en: sun
+    ja: hi
+
+tuya: 
+  type: s.
+  trans:
+    en: moon
+    ja: tsuki
+
+suya:
+  type: s.
+  trans:
+    en: star
+    ja: hoshi
+
+kre: 
+  type: s.
+  trans:
+    en: water
+    ja: mizu
+
+reta:
+  type: s.
+  trans:
+    en: rain
+
+retar:
+  type: b.
+  trans:
+    en: rain
+
+krosi:
+  type: s.
+  trans:  
+    en: river
+    ja: kawa
+
+krora: 
+  type: s.
+  trans: 
+    en: lake
+    ja: mizuumi
+
+krova: 
+  type: s.
+  trans:
+    en: ocean
+    ja: umi
+
+vem: 
+  type: s.
+  trans:
+    en: salt
+    ja: shiwo
+
+vifra: 
+  type: s.
+  trans:
+    en: stone
+    ja: ishi
+    
+nero:
+  type: s.
+  trans:
+    en: sand
+
+snen:
+  type: s.
+  trans:
+    en: dust
+
+mek:
+  type: s.
+  trans:
+    en: land
+
+tarin:
+  type: s.
+  trans:
+    en: cloud
+    ja: kumo
+
+trak:
+  type: s.
+  trans:
+    en: fog
+    ja: kiri
+
+yal:
+  type: s.
+  trans:
+    en: sky
+    ja: sora
+
+fū:
+  type: s.
+  trans:
+    en: wind
+    ja: kaze
+
+itram: 
+  type: s.
+  trasn:
+    en: snow
+    ja: yuki
+
+ita:
+  type: s.
+  trans:
+    en: ice
+    ja: koori
+
+tram:
+  type: s.
+  trans: 
+    en: smoke
+
+ruk:
+  type: s.
+  trans:
+    en: fire
+
+trasn: 
+  type: s.
+  trans: 
+    en: ash
+
+---
+kof:
+  type: s.
+  trans:
+    en: north
+    ja: kita
+
+sal:
+  type: s.
+  trans:
+    en: east
+    ja: higashi
+
+...

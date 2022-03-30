@@ -1,0 +1,30 @@
+far:
+  trans:
+    en: color
+    ja: iro
+kra: 
+  trans:
+    en : blue
+    ja : ao
+  note : of kri
+kruka:
+  trans:
+    en : blue
+    ja : ao
+  note: of umi / water
+rum:
+  trans:
+    en : red
+    ja : aka
+  note : of blood
+rai:
+  trans:
+    en : green
+    ja : midori
+  note : of Leaf
+thea:
+  trans:
+    en: yellow
+    ja: ki
+  note: of old Leaf
+
