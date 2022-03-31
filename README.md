@@ -141,3 +141,66 @@ There are two parts of speech correspond to verbs in English, `burab` and `mosra
 - `vebo`
   - `-o` enables a `burab` to modify a noun
   - e.g. `kasepo fesa` means “running person” where `kasep` means “to run”.
+- `vebai`
+  - `-ai` means will or wish.
+  - e.g. `kasai` means “Arise!”, and `retarai` means “Please rain!”
+- `veban`
+  - `-an` means negative will or wish.
+  - e.g. `retaran` means “Please don't rain!”
+
+### Stative Verbs
+
+This section is about `mosrab`, the stative verbs that cannot tell apart “before” or “after”. An example of `mosrab` is `muk` (meaning “to be; to exist”). Here are the forms of the word `muk`.
+
+- `muke`
+  - `e` after a `mosrab` enables it to join with other words, to modify the predicate and to form a dependent clause, just like `u` after a `burab`
+- `on`
+  - `on` means “not to be”, and with words other than `muk`, its straightly used after the word, yet `on` is used instead of `mukon`. `on` is a `mosrab`.
+  - e.g. `fozu kavon` means “I'm not standing” where `kav` means “to be standing”
+- `mukas`
+  - this is the same as the `as` above, representing the absolutive.
+- `mukyu`
+  - `-yu` transforms a `mosrab` to a noun, the same as `veba` above.
+- `mukumva`
+  - `-umva` transforms a `mosrab` to an adjective, this allows it to use comparison.
+- `muki`
+  - `-i` enables a `mosrab` to modify a noun, just like `o` after a `burab`.
+  - e.g. `muki fesa` means “existing person”
+
+### Adjectives
+
+Adjectives in Kratoma are called `gasaru`, the semantic division between `gasaru` and `mosrab` is not clear, and these two can transform to each other. An example of `gasaru` is `krava` (meaning “blue; azure; cute”).
+
+Adjectives have two basic forms, one is the modifier form, the other is the predicative form. In dictionaries, adjectives are shown in the first form, which ends in `-va`, the second form is obtained by replacing the `-va` into `-z`. For example, the modifier form `krava` has a corresponding predicative form `kraz`. Other variants are shown below.
+
+- `kravu`
+  - this form is the same as the `muke` and `vebu` form.
+  - e.g. `luvu kasep` means “to walk fast” where `luva` means “fast” and `kasep` means “to walk”
+- `kranava`
+  - `-nava` is the negative suffix, and `kranava` means “not blue”
+  - e.g. `fozu furnava` means “I'm not young”
+- `krakseva`
+  - `-kseva` is the comparative suffix, and `krakseva` means “more blue”
+  - e.g. `krinzu kreye kraksez` means “Krin is more blue than water”, a proverb which means “the younger generation have more energy and opportunities”
+- `kragruva`
+  - `-gruva` is the superlative suffix, and `kragruva` means “most blue”
+  - e.g. `fozu lugruvu kasep` means “I walk the fastest”.
+- `kravan`
+  - `-van` makes the adjective an abstract noun, yet `kra` it self is the noun “blue” so `kravan` is basically never used.
+- `kravei`
+  - `-vei` makes the adjective an instance noun, and `kravei` means “something blue”
+  - e.g. `fozu kraveibu tesin` means “I like blue things” or “I like cute things”
+
+### Numerals
+
+Numerals in Kratoma are called `unekin`, this word is formed from the words for 1, 2 and 3. However, `unekin` has more words than numbers, concepts like “many” `mo`, “part” `ecu`, “same” `wa`, common `hwa` are also `unekin`s. Let's take the word `u` (meaning “one”) for example. Here are the forms of the word.
+
+- `un`
+  - `-n` enables an `unekin` to modify a noun.
+  - e.g. `un fesa` means “a person”
+- `uk`
+  - `-k` transforms an `unekin` into a noun
+  - e.g. `fonzu wok` means “this is all”, where `fon` means “this” and `wo` means “all”.
+- `uceva`
+  - `-ceva` transforms an `unekin` into an adjective
+  - e.g. `mocekseva` means “more”

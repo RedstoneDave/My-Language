@@ -1,4 +1,6 @@
+---
 far:
+  type: s.
   trans:
     en: color
     ja: iro
@@ -22,9 +24,9 @@ rai:
     en : green
     ja : midori
   note : of Leaf
-thea:
+cea:
   trans:
     en: yellow
     ja: ki
   note: of old Leaf
-
+...
