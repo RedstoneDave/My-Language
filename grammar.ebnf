@@ -149,9 +149,9 @@ clause = noun clause
 dependent clause = verb clause, "uc"
     | stative verb clause, "ec"
     | adjective phrase stem, "vuc"
-    | verb clause, "g"
+    | noun clause, "g"
     | complex adverbial
 
 sentence = [ noun phrase, "yoo, ", ]
     { dependent clause, ", ", }
-    ( clause | verb clause, "ai" );
+    ( clause | verb clause, "ai" | verb clause, "an" );
