@@ -1,4 +1,6 @@
 ---
+__default__:
+  type: g.
 far:
   type: s.
   trans:

@@ -1,0 +1,125 @@
+fo:
+  type: s.
+  trans:
+    en: I
+    ja: watashi
+
+fomu:
+  type: s.
+  trans:
+    en: we (exclusive)
+    ja: watashi tachi
+
+pom:
+  type: s.
+  trans:
+    en: we (inclusive)
+    ja: watashi tachi
+
+fon:
+  type: s.
+  trans:
+    en: this
+    ja: kore
+
+fova:
+  type: g.
+  trans:
+    en: this
+    ja: kono
+
+foke:
+  type: s.
+  trans:
+    en: here
+    ja: koko
+
+ka:
+  type: s.
+  trans:
+    en: you (sing.)
+    ja: kimi / anata
+
+kamu:
+  type: s.
+  trans:
+    en: you (pl.)
+    ja: anata tachi / kimi tachi
+
+kan:
+  type: s.
+  trans:
+    en: that
+    ja: sore
+
+kava:
+  type: g.
+  trans:
+    en: that
+    ja: sono
+
+kake:
+  type: s.
+  trans:
+    en: there
+    ja: soko
+
+ze:
+  type: s.
+  trans:
+    en: they / it (sing.)
+    ja: ano hito
+
+zemu:
+  type: s.
+  trans:
+    en: they (pl.)
+    ja: ano hito tachi
+
+zen:
+  type: s.
+  trans:
+    en: that
+    ja: are
+
+zeva:
+  type: g.
+  trans:
+    en: that
+    ja: ano
+
+zeke:
+  type: s.
+  trans:
+    en: there
+    ja: asoko
+
+nī:
+  type: s.
+  trans:
+    en: who
+    ja: dare
+
+nin:
+  type: s.
+  trans:
+    en: what
+    ja: nani
+
+nimva:
+  type: g.
+  trans:
+    en: what / how
+    ja: don'na / dou
+
+nike:
+  type: s.
+  trans:
+    en: where
+    ja: doko
+
+nigo:
+  type: s.
+  trans:
+    en: when
+    ja: itsuka

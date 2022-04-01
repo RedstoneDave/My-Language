@@ -101,10 +101,37 @@ lav:
   trans:
     en: book, record
 
-furva:
+ebus:
+  type: b.
+  trans:
+    en: to change
+    ja: kawaru
+
+mok:
+  type: m.
+  trans:
+    en: to own
+
+iko:
+  type: s.
+  trans:
+    en: group
+
+ikwas:
+  type: b.
+  trans:
+    en: to unite
+
+kyova:
   type: g.
   trans:
-    ja: osanai
-    en: young (and naïve)
+    ja: subeteno
+    en: entire / whole / thorough
+
+ireg:
+  type: s.
+  trans:
+    en: god
+    ja: kami
 
 ...

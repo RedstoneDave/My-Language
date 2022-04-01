@@ -94,4 +94,36 @@ avrova:
   type: g.
   trans:
     en: out-of-date, harmful
+
+furva:
+  type: g.
+  trans:
+    ja: osanai
+    en: young (and naïve)
+
+rimot:
+  type: s.
+  trans:
+    en: to abuse; to enslave; to exploit
+
+rasyava:
+  type: g.
+  trans:
+    en: final; before victory
+
+emea:
+  type: s.
+  trans:
+    en: reality
+
+irenva:
+  type: g.
+  trans:
+    en: holy (usually pejorative)
+
+megat:
+  type: b.
+  trans:
+    en: to help; to save
+    ja: tasukeru
 ...
