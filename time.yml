@@ -1,4 +1,10 @@
 ---
+go:
+  type: s.
+  trans:
+    en: time
+    ja: toki
+
 saya:
   type: s.
   trans:

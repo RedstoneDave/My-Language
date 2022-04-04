@@ -1,0 +1,35 @@
+rag:
+  type: s.
+  trans:
+    en: top
+    ja: ue
+
+daz:
+  type: s.
+  trans:
+    en: bottom
+    ja: shita
+
+wat:
+  type: s.
+  trans:
+    en: left
+    ja: hidari
+
+yed:
+  type: s.
+  trans:
+    en: right
+    ja: migi
+
+kof:
+  type: s.
+  trans:
+    en: north
+    ja: kita
+
+sal:
+  type: s.
+  trans:
+    en: east
+    ja: higashi

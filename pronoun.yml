@@ -123,3 +123,8 @@ nigo:
   trans:
     en: when
     ja: itsuka
+
+a:
+  type: s.
+  trans:
+    en: self

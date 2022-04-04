@@ -221,16 +221,3 @@ trasn:
   type: s.
   trans:
     en: ash
-
----
-kof:
-  type: s.
-  trans:
-    en: north
-    ja: kita
-
-sal:
-  type: s.
-  trans:
-    en: east
-    ja: higashi

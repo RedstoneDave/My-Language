@@ -15,11 +15,6 @@ vuk:
   trans:
     ja: nuku
 
-wait:
-  type: m.
-  trans:
-    en: agree
-
 nerac:
   type: b.
   trans:
@@ -133,5 +128,29 @@ ireg:
   trans:
     en: god
     ja: kami
+
+edak:
+  type: m.
+  trans:
+    en: to be crying
+    ja: naiteru
+
+deg:
+  type: s.
+  trans:
+    en: umbrella
+    ja: kasa
+
+skuc:
+  type: m.
+  trans:
+    en: to smile (from the heart)
+    ja: (kokorokara) hohoemu
+
+utol:
+  tyoe: b.
+  trans:
+    en: to work, to produce.
+    ja: hataraku
 
 ...

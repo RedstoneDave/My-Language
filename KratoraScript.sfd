@@ -1,9 +1,9 @@
 SplineFontDB: 3.2
-FontName: KratoraScript
-FullName: KratoraScript
-FamilyName: KratoraScript
+FontName: Hwancuma
+FullName: Hwancuma
+FamilyName: Kratoma
 Weight: Regular
-Copyright: CC-BY-NC-SD 4.0\nAuthor: RedstoneDave
+Copyright: CC BY-SA 4.0 International\nAuthor: RedstoneDave
 UComments: "2021-9-4: Created with FontForge (http://fontforge.org)"
 Version: 001.250
 ItalicAngle: 0
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1630759693
-ModificationTime: 1634742477
+ModificationTime: 1648862097
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -64,7 +64,7 @@ EndFPST
 ChainSub2: coverage "nasal_before_conso_rule-dap" 0 0 0 1
  1 0 1
   Coverage: 1 n
-  FCoverage: 19 t d s z n thorn eth
+  FCoverage: 13 t d s z n c l
  1
   SeqLookup: 0 "dap_nas_rule"
 EndFPST
@@ -99,14 +99,14 @@ EndFPST
 ChainSub2: coverage "after_conso_rule-bil" 0 0 0 1
  1 1 0
   Coverage: 9 a i u e o
-  BCoverage: 74 p.before_vowel b.before_vowel f.before_vowel v.before_vowel m.before_vowel
+  BCoverage: 76 p.before_vowel b.before_vowel f.before_vowel v.before_vowel m.before_vowel y
  1
   SeqLookup: 0 "vowel_after_bil"
 EndFPST
 ChainSub2: coverage "after_conso_rule-dap" 0 0 0 1
  1 1 0
   Coverage: 9 a e i o u
-  BCoverage: 114 t.before_vowel d.before_vowel s.before_vowel z.before_vowel n.before_vowel w y eth.before_vowel thorn.before_vowel
+  BCoverage: 106 t.before_vowel d.before_vowel s.before_vowel z.before_vowel n.before_vowel w l.before_vowel c.before_vowel
  1
   SeqLookup: 0 "vowel_after_dap"
 EndFPST
@@ -119,7 +119,7 @@ ChainSub2: coverage "before_vowel_rule-bil" 0 0 0 1
 EndFPST
 ChainSub2: coverage "before_vowel_rule-dap" 0 0 0 1
  1 0 1
-  Coverage: 21 d n s t z r eth thorn
+  Coverage: 15 d n s t z r c l
   FCoverage: 9 a e i o u
  1
   SeqLookup: 0 "before_vowel"
@@ -132,11 +132,11 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 150
-WinInfo: 96 32 8
+WinInfo: 64 32 8
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 344 296
+BeginChars: 344 294
 
 StartChar: t
 Encoding: 116 116 0
@@ -159,6 +159,7 @@ SplineSet
  450 0 l 5
  290 0 l 5
 EndSplineSet
+Validated: 1
 Substitution2: "before_vowel-dap" t.before_vowel
 EndChar
 
@@ -254,18 +255,17 @@ SplineSet
  545 1300 590 1255 590 1200 c 24
  590 1145 545 1100 490 1100 c 24
  435 1100 390 1145 390 1200 c 24
-450 500 m 5
- 150 0 l 5
- -10 0 l 5
- 140 250 l 5
- 215 372 290 500 450 500 c 5
-90 500 m 5
- 390 1000 l 5
- 550 1000 l 5
- 400 750 l 5
- 325 628 250 500 90 500 c 5
+470 500 m 5
+ 170 0 l 5
+ -10 0 l 1
+ 140 250 l 1
+ 215 372 310 500 470 500 c 5
+70 500 m 1
+ 370 1000 l 1
+ 550 1000 l 1
+ 400 750 l 1
+ 325 628 230 500 70 500 c 1
 EndSplineSet
-Validated: 1
 Substitution2: "vegl_nas_rule-all" n.before_vegl
 Substitution2: "dap_nas_rule-all" n.before_dap
 Substitution2: "before_vowel-dap" n.before_vowel
@@ -278,17 +278,15 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-40 500 m 5
- 90 1000 l 5
- 257 1000 383 1000 550 1000 c 5
+-10 0 m 5
+ 240 1000 l 5
+ 407 1000 273 1000 440 1000 c 5
  450 0 l 5
  290 0 l 5
- 375 850 l 5
- 235 850 l 5
- 198 500 l 5
- 40 500 l 5
+ 298 600 l 5
+ 148 0 l 5
+ -10 0 l 5
 EndSplineSet
-Validated: 1
 Substitution2: "vowel_after_r-all" a.after_r
 Substitution2: "vowel_after_vegl-all" a.after_vegl
 Substitution2: "vowel_after_bil-all" a.after_bil
@@ -302,22 +300,20 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-40 500 m 1
- 90 1000 l 1
- 257 1000 383 1000 550 1000 c 1
+-10 0 m 1
+ 240 1000 l 1
+ 407 1000 273 1000 440 1000 c 1
  450 0 l 1
  290 0 l 1
- 375 850 l 1
- 235 850 l 1
- 198 500 l 1
- 40 500 l 1
-400 1100 m 5
- 430 1400 l 5
- 590 1400 l 5
- 560 1100 l 5
- 400 1100 l 5
+ 298 600 l 1
+ 148 0 l 1
+ -10 0 l 1
+270 1100 m 1
+ 300 1400 l 1
+ 460 1400 l 1
+ 430 1100 l 1
+ 270 1100 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "vowel_after_r-all" u.after_r
 Substitution2: "vowel_after_vegl-all" u.after_vegl
 Substitution2: "vowel_after_bil-all" u.after_bil
@@ -331,27 +327,25 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-40 500 m 1
- 90 1000 l 1
- 257 1000 383 1000 550 1000 c 1
+-10 0 m 1
+ 240 1000 l 1
+ 407 1000 273 1000 440 1000 c 1
  450 0 l 1
  290 0 l 1
- 375 850 l 1
- 235 850 l 1
- 198 500 l 1
- 40 500 l 1
-100 1100 m 1
- 128 1390 l 5
- 288 1390 l 5
- 260 1100 l 1
- 100 1100 l 1
-400 1100 m 1
- 428 1390 l 5
- 588 1390 l 5
- 560 1100 l 1
- 400 1100 l 1
+ 298 600 l 1
+ 148 0 l 1
+ -10 0 l 1
+120 1100 m 5
+ 148 1390 l 5
+ 308 1390 l 5
+ 280 1100 l 5
+ 120 1100 l 5
+420 1100 m 5
+ 448 1390 l 5
+ 608 1390 l 5
+ 580 1100 l 5
+ 420 1100 l 5
 EndSplineSet
-Validated: 1
 Substitution2: "vowel_after_r-all" o.after_r
 Substitution2: "vowel_after_vegl-all" o.after_vegl
 Substitution2: "vowel_after_bil-all" o.after_bil
@@ -365,22 +359,20 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-40 500 m 1
- 90 1000 l 1
- 257 1000 383 1000 550 1000 c 1
+-10 0 m 1
+ 240 1000 l 1
+ 407 1000 273 1000 440 1000 c 1
  450 0 l 1
  290 0 l 1
- 375 850 l 1
- 235 850 l 1
- 198 500 l 1
- 40 500 l 1
-100 1100 m 5
- 112 1220 l 5
- 572 1220 l 5
- 560 1100 l 5
- 100 1100 l 5
+ 298 600 l 1
+ 148 0 l 1
+ -10 0 l 1
+110 1100 m 1
+ 122 1220 l 1
+ 582 1220 l 1
+ 570 1100 l 1
+ 110 1100 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "vowel_after_r-all" i.after_r
 Substitution2: "vowel_after_vegl-all" i.after_vegl
 Substitution2: "vowel_after_bil-all" i.after_bil
@@ -394,27 +386,25 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-40 500 m 1
- 90 1000 l 1
- 257 1000 383 1000 550 1000 c 1
+-10 0 m 1
+ 240 1000 l 1
+ 407 1000 273 1000 440 1000 c 1
  450 0 l 1
  290 0 l 1
- 375 850 l 1
- 235 850 l 1
- 198 500 l 1
- 40 500 l 1
-118 1280 m 5
- 130 1400 l 5
- 590 1400 l 5
- 578 1280 l 5
- 118 1280 l 5
-100 1100 m 5
- 112 1220 l 5
- 572 1220 l 5
- 560 1100 l 5
- 100 1100 l 5
+ 298 600 l 1
+ 148 0 l 1
+ -10 0 l 1
+138 1280 m 1
+ 150 1400 l 1
+ 610 1400 l 1
+ 598 1280 l 1
+ 138 1280 l 1
+120 1100 m 1
+ 132 1220 l 1
+ 592 1220 l 1
+ 580 1100 l 1
+ 120 1100 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "vowel_after_r-all" e.after_r
 Substitution2: "vowel_after_vegl-all" e.after_vegl
 Substitution2: "vowel_after_bil-all" e.after_bil
@@ -469,6 +459,7 @@ SplineSet
  590 1145 545 1100 490 1100 c 24
  435 1100 390 1145 390 1200 c 24
 EndSplineSet
+Validated: 1
 Substitution2: "before_vowel-bil" p.before_vowel
 EndChar
 
@@ -1196,6 +1187,7 @@ SplineSet
  484 730 420 680 370 680 c 1
  70 680 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: A
@@ -1492,7 +1484,26 @@ Width: 600
 Flags: HW
 LayerCount: 2
 Fore
+SplineSet
+-20 200 m 5
+ 30 700 l 5
+ 190 700 l 5
+ 174 444 99 200 -20 200 c 5
+390 1200 m 24
+ 390 1255 435 1300 490 1300 c 24
+ 545 1300 590 1255 590 1200 c 24
+ 590 1145 545 1100 490 1100 c 24
+ 435 1100 390 1145 390 1200 c 24
+-50 0 m 5
+ -50 0 287 90 340 500 c 5
+ 390 1000 390 1000 390 1000 c 5
+ 550 1000 l 5
+ 500 500 l 5
+ 457 155 254 0 0 0 c 5
+ -17 0 -36 0 -50 0 c 5
+EndSplineSet
 Validated: 1
+Substitution2: "before_vowel-dap" c.before_vowel
 EndChar
 
 StartChar: g
@@ -1576,6 +1587,7 @@ SplineSet
  150 0 l 1
  -10 0 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "before_vowel-vegl" k.before_vowel
 EndChar
 
@@ -1585,7 +1597,31 @@ Width: 600
 Flags: HW
 LayerCount: 2
 Fore
+SplineSet
+-10 200 m 5
+ 40 700 l 5
+ 200 700 l 5
+ 184 444 109 200 -10 200 c 5
+390 1200 m 24
+ 390 1255 435 1300 490 1300 c 24
+ 545 1300 590 1255 590 1200 c 24
+ 590 1145 545 1100 490 1100 c 24
+ 435 1100 390 1145 390 1200 c 24
+-50 0 m 5
+ -50 0 287 90 340 500 c 5
+ 390 1000 390 1000 390 1000 c 5
+ 550 1000 l 5
+ 500 500 l 5
+ 457 155 254 0 0 0 c 5
+ -17 0 -36 0 -50 0 c 5
+40 900 m 28
+ 40 955 85 1000 140 1000 c 28
+ 195 1000 240 955 240 900 c 28
+ 240 845 195 800 140 800 c 28
+ 85 800 40 845 40 900 c 28
+EndSplineSet
 Validated: 1
+Substitution2: "before_vowel-dap" l.before_vowel
 EndChar
 
 StartChar: q
@@ -1600,26 +1636,25 @@ EndChar
 StartChar: w
 Encoding: 119 119 120
 Width: 600
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-40 500 m 1
+-14 0 m 1
+ 0 140 l 1
+ 167 140 293 140 460 140 c 1
+ 444 0 l 1
+ -14 0 l 1
+11 290 m 1
  90 1000 l 1
  257 1000 383 1000 550 1000 c 1
- 450 0 l 1
- 290 0 l 1
- 375 850 l 1
- 235 850 l 1
- 198 500 l 1
- 40 500 l 1
--20 100 m 24
- -20 155 25 200 80 200 c 24
- 135 200 180 155 180 100 c 24
- 180 45 135 0 80 0 c 24
- 25 0 -20 45 -20 100 c 24
+ 469 290 l 1
+ 415.666992188 290 362.333007812 290 309 290 c 1
+ 379 860 l 1
+ 239 860 l 1
+ 169 290 l 1
+ 11 290 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: x
@@ -1638,22 +1673,21 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-70 900 m 24
- 70 955 115 1000 170 1000 c 24
- 225 1000 270 955 270 900 c 24
- 270 845 225 800 170 800 c 24
- 115 800 70 845 70 900 c 24
--10 0 m 1
- 40 500 l 1
- 200 500 l 1
- 166 160 l 1
- 306 160 l 1
- 390 1000 l 1
- 550 1000 l 1
- 450 0 l 1
- 283 0 157 0 -10 0 c 1
+76 850 m 1
+ 86 992 l 1
+ 253 992 389 992 556 992 c 1
+ 544 850 l 1
+ 76 850 l 1
+61 700 m 1
+ -10 0 l 1
+ 157 0 283 0 450 0 c 1
+ 529 700 l 1
+ 475.666992188 700 423.333007812 700 370 700 c 5
+ 304 141 l 1
+ 159 141 l 1
+ 221 700 l 1
+ 61 700 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: braceleft
@@ -2721,41 +2755,8 @@ Fore
 Validated: 1
 EndChar
 
-StartChar: eth
-Encoding: 240 240 240
-Width: 600
-Flags: HW
-LayerCount: 2
-Fore
-SplineSet
--10 200 m 5
- 40 700 l 5
- 200 700 l 5
- 184 444 109 200 -10 200 c 5
-390 1200 m 24
- 390 1255 435 1300 490 1300 c 24
- 545 1300 590 1255 590 1200 c 24
- 590 1145 545 1100 490 1100 c 24
- 435 1100 390 1145 390 1200 c 24
--50 0 m 5
- -50 0 287 90 340 500 c 5
- 390 1000 390 1000 390 1000 c 5
- 550 1000 l 5
- 500 500 l 5
- 457 155 254 0 0 0 c 5
- -17 0 -36 0 -50 0 c 5
-40 900 m 28
- 40 955 85 1000 140 1000 c 28
- 195 1000 240 955 240 900 c 28
- 240 845 195 800 140 800 c 28
- 85 800 40 845 40 900 c 28
-EndSplineSet
-Validated: 1
-Substitution2: "before_vowel-dap" eth.before_vowel
-EndChar
-
 StartChar: ntilde
-Encoding: 241 241 241
+Encoding: 241 241 240
 Width: 307
 Flags: HW
 LayerCount: 2
@@ -2764,7 +2765,7 @@ Validated: 1
 EndChar
 
 StartChar: ograve
-Encoding: 242 242 242
+Encoding: 242 242 241
 Width: 307
 Flags: HW
 LayerCount: 2
@@ -2773,7 +2774,7 @@ Validated: 1
 EndChar
 
 StartChar: oacute
-Encoding: 243 243 243
+Encoding: 243 243 242
 Width: 307
 Flags: HW
 LayerCount: 2
@@ -2782,7 +2783,7 @@ Validated: 1
 EndChar
 
 StartChar: ocircumflex
-Encoding: 244 244 244
+Encoding: 244 244 243
 Width: 307
 Flags: HW
 LayerCount: 2
@@ -2791,7 +2792,7 @@ Validated: 1
 EndChar
 
 StartChar: otilde
-Encoding: 245 245 245
+Encoding: 245 245 244
 Width: 307
 Flags: HW
 LayerCount: 2
@@ -2800,7 +2801,7 @@ Validated: 1
 EndChar
 
 StartChar: odieresis
-Encoding: 246 246 246
+Encoding: 246 246 245
 Width: 307
 Flags: HW
 LayerCount: 2
@@ -2809,7 +2810,7 @@ Validated: 1
 EndChar
 
 StartChar: divide
-Encoding: 247 247 247
+Encoding: 247 247 246
 Width: 307
 Flags: HW
 LayerCount: 2
@@ -2818,7 +2819,7 @@ Validated: 1
 EndChar
 
 StartChar: oslash
-Encoding: 248 248 248
+Encoding: 248 248 247
 Width: 307
 Flags: HW
 LayerCount: 2
@@ -2827,7 +2828,7 @@ Validated: 1
 EndChar
 
 StartChar: ugrave
-Encoding: 249 249 249
+Encoding: 249 249 248
 Width: 307
 Flags: HW
 LayerCount: 2
@@ -2836,7 +2837,7 @@ Validated: 1
 EndChar
 
 StartChar: uacute
-Encoding: 250 250 250
+Encoding: 250 250 249
 Width: 307
 Flags: HW
 LayerCount: 2
@@ -2845,7 +2846,7 @@ Validated: 1
 EndChar
 
 StartChar: ucircumflex
-Encoding: 251 251 251
+Encoding: 251 251 250
 Width: 307
 Flags: HW
 LayerCount: 2
@@ -2854,7 +2855,7 @@ Validated: 1
 EndChar
 
 StartChar: udieresis
-Encoding: 252 252 252
+Encoding: 252 252 251
 Width: 307
 Flags: HW
 LayerCount: 2
@@ -2863,7 +2864,7 @@ Validated: 1
 EndChar
 
 StartChar: yacute
-Encoding: 253 253 253
+Encoding: 253 253 252
 Width: 307
 Flags: HW
 LayerCount: 2
@@ -2871,36 +2872,8 @@ Fore
 Validated: 1
 EndChar
 
-StartChar: thorn
-Encoding: 254 254 254
-Width: 600
-Flags: HW
-LayerCount: 2
-Fore
-SplineSet
--20 200 m 5
- 30 700 l 5
- 190 700 l 5
- 174 444 99 200 -20 200 c 5
-390 1200 m 24
- 390 1255 435 1300 490 1300 c 24
- 545 1300 590 1255 590 1200 c 24
- 590 1145 545 1100 490 1100 c 24
- 435 1100 390 1145 390 1200 c 24
--50 0 m 5
- -50 0 287 90 340 500 c 5
- 390 1000 390 1000 390 1000 c 5
- 550 1000 l 5
- 500 500 l 5
- 457 155 254 0 0 0 c 5
- -17 0 -36 0 -50 0 c 5
-EndSplineSet
-Validated: 1
-Substitution2: "before_vowel-dap" thorn.before_vowel
-EndChar
-
 StartChar: ydieresis
-Encoding: 255 255 255
+Encoding: 255 255 253
 Width: 307
 Flags: HW
 LayerCount: 2
@@ -2909,30 +2882,26 @@ Validated: 1
 EndChar
 
 StartChar: t.before_vowel
-Encoding: 320 -1 256
+Encoding: 320 -1 254
 Width: 600
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-390 1200 m 28
- 390 1255 435 1300 490 1300 c 28
- 545 1300 590 1255 590 1200 c 28
- 590 1145 545 1100 490 1100 c 28
- 435 1100 390 1145 390 1200 c 28
-290 0 m 5
- 367 770 l 5
- 117 510 l 5
- 140 740 l 5
- 390 1000 l 5
- 550 1000 l 5
- 450 0 l 5
- 290 0 l 5
+290 0 m 1
+ 367 770 l 1
+ 117 510 l 1
+ 140 740 l 1
+ 390 1000 l 1
+ 550 1000 l 1
+ 450 0 l 1
+ 290 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: d.before_vowel
-Encoding: 321 -1 257
+Encoding: 321 -1 255
 Width: 600
 Flags: HW
 LayerCount: 2
@@ -2953,7 +2922,7 @@ Validated: 1
 EndChar
 
 StartChar: s.before_vowel
-Encoding: 322 -1 258
+Encoding: 322 -1 256
 Width: 600
 Flags: HW
 LayerCount: 2
@@ -2971,7 +2940,7 @@ Validated: 1
 EndChar
 
 StartChar: z.before_vowel
-Encoding: 323 -1 259
+Encoding: 323 -1 257
 Width: 600
 Flags: HW
 LayerCount: 2
@@ -2994,28 +2963,27 @@ Validated: 1
 EndChar
 
 StartChar: n.before_vowel
-Encoding: 324 -1 260
+Encoding: 324 -1 258
 Width: 600
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-450 500 m 5
- 150 0 l 5
- -10 0 l 5
- 140 250 l 5
- 215 372 290 500 450 500 c 5
-90 500 m 5
- 390 1000 l 5
- 550 1000 l 5
- 400 750 l 5
- 325 628 250 500 90 500 c 5
+470 500 m 1
+ 170 0 l 1
+ -10 0 l 1
+ 140 250 l 1
+ 215 372 310 500 470 500 c 1
+70 500 m 1
+ 370 1000 l 1
+ 550 1000 l 1
+ 400 750 l 1
+ 325 628 230 500 70 500 c 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: r.before_vowel
-Encoding: 325 -1 261
+Encoding: 325 -1 259
 Width: 600
 Flags: HW
 LayerCount: 2
@@ -3035,8 +3003,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: eth.before_vowel
-Encoding: 326 -1 262
+StartChar: l.before_vowel
+Encoding: 326 -1 260
 Width: 600
 Flags: HW
 LayerCount: 2
@@ -3062,8 +3030,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: thorn.before_vowel
-Encoding: 327 -1 263
+StartChar: c.before_vowel
+Encoding: 327 -1 261
 Width: 600
 Flags: HW
 LayerCount: 2
@@ -3085,7 +3053,7 @@ Validated: 1
 EndChar
 
 StartChar: a.after_dap
-Encoding: 256 -1 264
+Encoding: 256 -1 262
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3094,7 +3062,7 @@ Validated: 1
 EndChar
 
 StartChar: u.after_dap
-Encoding: 257 -1 265
+Encoding: 257 -1 263
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3110,7 +3078,7 @@ Validated: 1
 EndChar
 
 StartChar: o.after_dap
-Encoding: 258 -1 266
+Encoding: 258 -1 264
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3131,7 +3099,7 @@ Validated: 1
 EndChar
 
 StartChar: i.after_dap
-Encoding: 259 -1 267
+Encoding: 259 -1 265
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3147,7 +3115,7 @@ Validated: 1
 EndChar
 
 StartChar: e.after_dap
-Encoding: 260 -1 268
+Encoding: 260 -1 266
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3168,7 +3136,7 @@ Validated: 1
 EndChar
 
 StartChar: NameMe.261
-Encoding: 261 -1 269
+Encoding: 261 -1 267
 Width: 2048
 Flags: HW
 LayerCount: 2
@@ -3177,7 +3145,7 @@ Validated: 1
 EndChar
 
 StartChar: a.after_bil
-Encoding: 262 -1 270
+Encoding: 262 -1 268
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3186,7 +3154,7 @@ Validated: 1
 EndChar
 
 StartChar: u.after_bil
-Encoding: 263 -1 271
+Encoding: 263 -1 269
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3202,7 +3170,7 @@ Validated: 1
 EndChar
 
 StartChar: o.after_bil
-Encoding: 264 -1 272
+Encoding: 264 -1 270
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3223,7 +3191,7 @@ Validated: 1
 EndChar
 
 StartChar: i.after_bil
-Encoding: 265 -1 273
+Encoding: 265 -1 271
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3239,7 +3207,7 @@ Validated: 1
 EndChar
 
 StartChar: e.after_bil
-Encoding: 266 -1 274
+Encoding: 266 -1 272
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3260,7 +3228,7 @@ Validated: 1
 EndChar
 
 StartChar: p.before_vowel
-Encoding: 268 -1 275
+Encoding: 268 -1 273
 Width: 600
 Flags: HW
 LayerCount: 2
@@ -3275,10 +3243,11 @@ SplineSet
  410 -400 l 1
  250 -400 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: b.before_vowel
-Encoding: 269 -1 276
+Encoding: 269 -1 274
 Width: 600
 Flags: HW
 LayerCount: 2
@@ -3299,7 +3268,7 @@ Validated: 1
 EndChar
 
 StartChar: f.before_vowel
-Encoding: 270 -1 277
+Encoding: 270 -1 275
 Width: 600
 Flags: HW
 LayerCount: 2
@@ -3317,7 +3286,7 @@ Validated: 1
 EndChar
 
 StartChar: v.before_vowel
-Encoding: 271 -1 278
+Encoding: 271 -1 276
 Width: 600
 Flags: HW
 LayerCount: 2
@@ -3340,7 +3309,7 @@ Validated: 1
 EndChar
 
 StartChar: m.before_vowel
-Encoding: 272 -1 279
+Encoding: 272 -1 277
 Width: 600
 Flags: HW
 LayerCount: 2
@@ -3361,7 +3330,7 @@ Validated: 1
 EndChar
 
 StartChar: a.after_r
-Encoding: 294 -1 280
+Encoding: 294 -1 278
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3370,7 +3339,7 @@ Validated: 1
 EndChar
 
 StartChar: k.before_vowel
-Encoding: 274 -1 281
+Encoding: 274 -1 279
 Width: 600
 Flags: HW
 LayerCount: 2
@@ -3385,10 +3354,11 @@ SplineSet
  150 0 l 1
  -10 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: g.before_vowel
-Encoding: 275 -1 282
+Encoding: 275 -1 280
 Width: 600
 Flags: HW
 LayerCount: 2
@@ -3409,7 +3379,7 @@ Validated: 1
 EndChar
 
 StartChar: h.before_vowel
-Encoding: 276 -1 283
+Encoding: 276 -1 281
 Width: 600
 Flags: HW
 LayerCount: 2
@@ -3427,7 +3397,7 @@ Validated: 1
 EndChar
 
 StartChar: a.after_vegl
-Encoding: 288 -1 284
+Encoding: 288 -1 282
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3436,7 +3406,7 @@ Validated: 1
 EndChar
 
 StartChar: u.after_vegl
-Encoding: 289 -1 285
+Encoding: 289 -1 283
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3452,7 +3422,7 @@ Validated: 1
 EndChar
 
 StartChar: o.after_vegl
-Encoding: 290 -1 286
+Encoding: 290 -1 284
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3473,7 +3443,7 @@ Validated: 1
 EndChar
 
 StartChar: i.after_vegl
-Encoding: 291 -1 287
+Encoding: 291 -1 285
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3489,7 +3459,7 @@ Validated: 1
 EndChar
 
 StartChar: e.after_vegl
-Encoding: 292 -1 288
+Encoding: 292 -1 286
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3510,7 +3480,7 @@ Validated: 1
 EndChar
 
 StartChar: u.after_r
-Encoding: 295 -1 289
+Encoding: 295 -1 287
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3526,7 +3496,7 @@ Validated: 1
 EndChar
 
 StartChar: o.after_r
-Encoding: 296 -1 290
+Encoding: 296 -1 288
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3547,7 +3517,7 @@ Validated: 1
 EndChar
 
 StartChar: i.after_r
-Encoding: 297 -1 291
+Encoding: 297 -1 289
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3563,7 +3533,7 @@ Validated: 1
 EndChar
 
 StartChar: e.after_r
-Encoding: 298 -1 292
+Encoding: 298 -1 290
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3584,9 +3554,9 @@ Validated: 1
 EndChar
 
 StartChar: n.before_dap
-Encoding: 278 -1 293
+Encoding: 278 -1 291
 Width: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3599,10 +3569,11 @@ SplineSet
  210 -220 l 1
  310 -50 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: m.before_bil
-Encoding: 279 -1 294
+Encoding: 279 -1 292
 Width: 0
 Flags: HW
 LayerCount: 2
@@ -3618,7 +3589,7 @@ Validated: 1
 EndChar
 
 StartChar: n.before_vegl
-Encoding: 280 -1 295
+Encoding: 280 -1 293
 Width: 0
 Flags: HW
 LayerCount: 2

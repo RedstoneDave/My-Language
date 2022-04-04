@@ -1,21 +1,20 @@
-# Kratoma 语法
+# Special Kratoma Grammar
 
-写在前面：这里面对 Kratoma 语法的分析只是若干分析方法中的一种，存在若干等价或近似等价的表述。
+This document is for the pieces of grammar that are hard to be put into `grammar.ebnf`.
 
-## 词形与词性
+## Reflexive Prefix
 
-Kratoma 有三种词形：状语形，定语形，谓语形（或称结句形）；有五种实词词性：名词，动词，形容词，静动词（或称形容动词），数词。注意此处词形与词性的不同。
+A reflexive prefix could be added to a verb or stative verb to indecate the accusative or dative of the verb to be a reflexive pronoun. The rule of the prefix is shown below:
 
-语法结构如下：
+- accusative:
+  - if the word begins with a consonant, then an `a` is added to the beginning;
+  - if the word begins with a vowel, then an `ak` is added to the beginning;
+- dative:
+  - if the word begins with a consonant, then an `aw` is added to the beginning;
+  - if the word begins with a vowel, then an `ab` is added to the beginning.
 
-- 简单状语形 = `([名词][状语助词] | [动词]u | [静动词]e | [形容词词干]vu)`
-- 条件类 = `([动词]i | [静动词]a | [形容词词干]ve)`
-- 条件状语形 = `[条件类](vi | vo)`
-- 状语形 = `([简单状语形] | [条件状语形])`
-- 原始定语形 = `([名词]ma | [形容词词干]pa | [数词]n | [动词]o | [静动词]i)`
-- 简单定语形 = `[原始定语形](名词)`
-- 子句定语形 = ``
-- 代入定语形 = `<含代入代词小句>[条件类]bam`
-- 定语形 = `([简单定语形]v)* ([简单定语形] | [数词]n)`
-- 谓语形
-- 单句 = `[状语形]*[谓语形]`
+## “Plug-in” Clause
+
+This consept is similar to the “noun clause” in English, however, “plug-in” clauses can take place of any part of speech. This allows speakers to refer to some uncertain actions or properties without the form of auxiliary verbs with nouns.
+
+The “plug-in” words are `bru` for `sokan` and `unekin`, `brub` for `burab`, `bruk` for `mosrab` and `bruva` for `gasaru`. A clause with a “plug-in” word can change the predicate into the “complex type” (the one used in the conditional clause) and add an `-m` to it to modify the same “plug-in” word.
