@@ -1,66 +1,55 @@
----
 go:
-  type: s.
   trans:
     en: time
     ja: toki
-
-saya:
   type: s.
-  trans:
-    en: day
-    ja: hi
-
-tuya:
-  type: s.
-  trans:
-    en: month
-    ja: getsu
-
 kona:
-  type: s.
   trans:
     en: year
     ja: toshi
-
-suya:
   type: s.
-  trans:
-    en: night
-    ja: yoru
-
-raut:
-  type: b.
-  trans:
-    en: begin
-    ja: hajimaru
-
-rusya:
-  type: s.
-  trans:
-    en: today
-    ja: kyou
-
-syaf:
-  type: b.
-  trans:
-    en: end
-    ja: owaru
-
-sasya:
-  type: s.
-  trans:
-    en: yesterday
-    ja: kinou
-
-tasya:
-  type: s.
-  trans:
-    en: tomorrow
-    ja: ashita
-
 rasyu:
-  type: s
   trans:
     en: dawn
     ja: yoake
+  type: s
+raut:
+  trans:
+    en: begin
+    ja: hajimaru
+  type: b.
+rusya:
+  trans:
+    en: today
+    ja: kyou
+  type: s.
+sasya:
+  trans:
+    en: yesterday
+    ja: kinou
+  type: s.
+saya:
+  trans:
+    en: day
+    ja: hi
+  type: s.
+suya:
+  trans:
+    en: night
+    ja: yoru
+  type: s.
+syaf:
+  trans:
+    en: end
+    ja: owaru
+  type: b.
+tasya:
+  trans:
+    en: tomorrow
+    ja: ashita
+  type: s.
+tuya:
+  trans:
+    en: month
+    ja: getsu
+  type: s.

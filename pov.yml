@@ -1,148 +1,120 @@
----
-tesin:
-  type: m.
+aren:
   trans:
-    ja: suki
-
-tesam:
-  type: m.
-  trans:
-    ja: tanoshii
-    en: happy
-
-vusm:
-  type: m.
-  trans:
-    en: satisfied
-
-skud:
-  type: m.
-  trans:
-    en: to live happily and fullfilled
-    ja: shiawase, saiwai
-
-nagāp:
-  type: m.
-  trans:
-    ja: kirai
-
-naguf:
-  type: m.
-  trans:
-    ja: kanashii
-    en: sad
-
-nayup:
-  type: m.
-  trans:
-    ja: itai
-    en: painful
-
-vaswa:
+    ja: kouritsu
   type: s.
+avrova:
   trans:
-    en: view
-
-medo:
+    en: out-of-date, harmful
+  type: g.
+cem:
+  trans:
+    en: niau
+  type: m.
+deuva:
+  trans:
+    en: old and useful, classic
+  type: g.
+dyan:
+  trans:
+    en: to worship (esp. with out mind)
+  type: m
+emea:
+  trans:
+    en: reality
   type: s.
+frova:
   trans:
-    en: Logic
-
+    en: old and useless
+  type: g.
+furva:
+  trans:
+    en: young (and naïve)
+    ja: osanai
+  type: g.
+irenva:
+  trans:
+    en: holy (usually pejorative)
+  type: g.
 mait:
-  type: b.
   trans:
     en: think
     ja: omou
-
+  type: b.
 maita:
-  type: s.
   trans:
     en: thought
     ja: omoi
-
-pat:
-  type: m.
-  trans:
-    ja: au
-
-yoti:
   type: s.
+medo:
   trans:
-    en: value
-
-aren:
+    en: Logic
   type: s.
-  trans:
-    ja: kouritsu
-
-cem:
-  type: m.
-  trans:
-    en: niau
-
-deuva:
-  type: g.
-  trans:
-    en: old and useful, classic
-
-frova:
-  type: g.
-  trans:
-    en: old and useless
-
-avrova:
-  type: g.
-  trans:
-    en: out-of-date, harmful
-
-furva:
-  type: g.
-  trans:
-    ja: osanai
-    en: young (and naïve)
-
-rimot:
-  type: s.
-  trans:
-    en: to abuse; to enslave; to exploit
-
-rasyava:
-  type: g.
-  trans:
-    en: final; before victory
-
-resnyuva:
-  type: g.
-  trans:
-    en: final; some action taken under unbearable situation
-
-emea:
-  type: s.
-  trans:
-    en: reality
-
-irenva:
-  type: g.
-  trans:
-    en: holy (usually pejorative)
-
 megat:
-  type: b.
   trans:
     en: to help; to save
     ja: tasukeru
-
-dyan:
-  type: m
-  trans:
-    en: to worship (esp. with out mind)
-
-wait:
-  type: m.
-  trans:
-    en: agree
-
-tafep:
   type: b.
+naguf:
+  trans:
+    en: sad
+    ja: kanashii
+  type: m.
+nagāp:
+  trans:
+    ja: kirai
+  type: m.
+nayup:
+  trans:
+    en: painful
+    ja: itai
+  type: m.
+pat:
+  trans:
+    ja: au
+  type: m.
+rasyava:
+  trans:
+    en: final; before victory
+  type: g.
+resnyuva:
+  trans:
+    en: final; some action taken under unbearable situation
+  type: g.
+rimot:
+  trans:
+    en: to abuse; to enslave; to exploit
+  type: s.
+skud:
+  trans:
+    en: to live happily and fullfilled
+    ja: shiawase, saiwai
+  type: m.
+tafep:
   trans:
     en: to free
+  type: b.
+tesam:
+  trans:
+    en: happy
+    ja: tanoshii
+  type: m.
+tesin:
+  trans:
+    ja: suki
+  type: m.
+vaswa:
+  trans:
+    en: view
+  type: s.
+vusm:
+  trans:
+    en: satisfied
+  type: m.
+wait:
+  trans:
+    en: agree
+  type: m.
+yoti:
+  trans:
+    en: value
+  type: s.

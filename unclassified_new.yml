@@ -1,166 +1,139 @@
----
-luva:
-  type: g.
-  trans:
-    ja: hayai
-
-zuk:
-  type: b.
-  trans:
-    ja: kiru, maku
-    en: wear, wrap
-
-vuk:
-  type: b.
-  trans:
-    ja: nuku
-
-nerac:
-  type: b.
-  trans:
-    ja: inoru
-
-mip:
-  type: b.
-  trans:
-    ja: kieru
-    en: vanish
-
-syava:
-  type: g.
-  trans:
-    en: bright
-
-vof:
-  type: b.
-  trans:
-    en: contain for after use
-
-yem:
-  type: m.
-  trans:
-    ja: niteiru
-    en: to resemble
-
-skavip:
-  type: b.
-  trans:
-    ja: nigeru
-    en: escape
-
-pazek:
-  type: b.
-  trans:
-    en: find
-
-pazes:
-  type: b.
-  trans:
-    ja: sagasu
-    en: look for
-
-irep:
-  type: b.
-  trans:
-    en: to continue and to preserve
-
-kas:
-  type: b.
-  trans:
-    en: to arise and to fight against
-
-zyavim:
-  type: m.
-  trans:
-    en: to be hungry
-
-zazo:
-  type: s.
-  trans:
-    en: food
-    ja: tabemono
-
-skep:
-  type: b.
-  trans:
-    en: to boil; to surge
-    ja: waku
-
 beu:
-  type: s.
   trans:
     en: the world, the society
-
-lav:
   type: s.
-  trans:
-    en: book, record
-
-ebus:
-  type: b.
-  trans:
-    en: to change
-    ja: kawaru
-
-mok:
-  type: m.
-  trans:
-    en: to own
-
-iko:
-  type: s.
-  trans:
-    en: group
-
-ikwas:
-  type: b.
-  trans:
-    en: to unite
-
-kyova:
-  type: g.
-  trans:
-    ja: subeteno
-    en: entire / whole / thorough
-
-ireg:
-  type: s.
-  trans:
-    en: god
-    ja: kami
-
-edak:
-  type: m.
-  trans:
-    en: to be crying
-    ja: naiteru
-
 deg:
-  type: s.
   trans:
     en: umbrella
     ja: kasa
-
-skuc:
+  type: s.
+ebus:
+  trans:
+    en: to change
+    ja: kawaru
+  type: b.
+edak:
+  trans:
+    en: to be crying
+    ja: naiteru
   type: m.
+iko:
+  trans:
+    en: group
+  type: s.
+ikwas:
+  trans:
+    en: to unite
+  type: b.
+ireg:
+  trans:
+    en: god
+    ja: kami
+  type: s.
+irep:
+  trans:
+    en: to continue and to preserve
+  type: b.
+kas:
+  trans:
+    en: to arise and to fight against
+  type: b.
+kodes:
+  trans:
+    en: to create
+    ja: tsukuru
+  type: b.
+kyova:
+  trans:
+    en: entire / whole / thorough
+    ja: subeteno
+  type: g.
+lav:
+  trans:
+    en: book, record
+  type: s.
+luva:
+  trans:
+    ja: hayai
+  type: g.
+mip:
+  trans:
+    en: vanish
+    ja: kieru
+  type: b.
+mok:
+  trans:
+    en: to own
+  type: m.
+nerac:
+  trans:
+    ja: inoru
+  type: b.
+pazek:
+  trans:
+    en: find
+  type: b.
+pazes:
+  trans:
+    en: look for
+    ja: sagasu
+  type: b.
+skavip:
+  trans:
+    en: escape
+    ja: nigeru
+  type: b.
+skep:
+  trans:
+    en: to boil; to surge
+    ja: waku
+  type: b.
+skov:
+  trans:
+    en: cage
+  type: s.
+skuc:
   trans:
     en: to smile (from the heart)
     ja: (kokorokara) hohoemu
-
-utol:
+  type: m.
+syava:
+  trans:
+    en: bright
+  type: g.
+twak:
+  trans:
+    en: to seize; to possess by force
   type: b.
+utol:
   trans:
     en: to work, to produce.
     ja: hataraku
-
-twak:
   type: b.
+vof:
   trans:
-    en: to seize; to possess by force
-
-skov:
+    en: contain for after use
+  type: b.
+vuk:
+  trans:
+    ja: nuku
+  type: b.
+yem:
+  trans:
+    en: to resemble
+    ja: niteiru
+  type: m.
+zazo:
+  trans:
+    en: food
+    ja: tabemono
   type: s.
+zuk:
   trans:
-    en: cage
-
-...
+    en: wear, wrap
+    ja: kiru, maku
+  type: b.
+zyavim:
+  trans:
+    en: to be hungry
+  type: m.

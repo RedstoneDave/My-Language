@@ -1,118 +1,94 @@
----
-vimva: 
-  type: g.
-  trans:
-    en: hard
-
-rusva:
-  type: g.
-  trans: 
-    en: large; strong
-    ja: ookii; tsuyoi
-
-rul:
-  type: s.
-  trans:
-    en: size
-
-susva:
-  type: g.
-  trans: 
-    en: small
-    ja: chiisai
-
-udava:
-  type: g.
-  trans: 
-    en: long
-    ja: nagai
-  
-uda:
-  type: s.
-  trans:
-    en: length
-
-dukeva:
-  type: g.
-  trans: 
-    en: wide
-
-duke:
-  type: s.
-  trans: 
-    en: width
-
-fureva:
-  type: g.
-  trans:
-    en: thick
-
-fure:
-  type: s.
-  trans: 
-    en: the measure of being thick
-
-sureva:
-  type: g.
-  trans: 
-    ja: usui
-
-kuneva:
-  type: g.
-  trans: 
-    en: narrow
-
-goeva:
-  type: g.
-  trans: 
-    en: heavy
-    ja: omoi
-
-goe:
-  type: s. 
-  trans:
-    en: weight
-
-niteva:
-  type: g.
-  trans: 
-    en: short
-
-raeva:
-  type: g.
-  trans:
-    en: tall
-    ja: takai
-
 cursava:
-  type: g.
   trans:
     en: loud
     ja: oogoe
-
-
-saeva:
   type: g.
+duke:
   trans:
-    en: warm
-    ja: atatakai
-
-roava:
+    en: width
+  type: s.
+dukeva:
+  trans:
+    en: wide
   type: g.
-  trans:
-    en: hot
-    ja: atsui
-
-remva:
-  type: g.
-  trans:
-    en: cool
-    ja: suzushii
-
 ecava:
-  type: g.
   trans:
     en: cold
     ja: samui
-
-...
+  type: g.
+fure:
+  trans:
+    en: the measure of being thick
+  type: s.
+fureva:
+  trans:
+    en: thick
+  type: g.
+goe:
+  trans:
+    en: weight
+  type: s.
+goeva:
+  trans:
+    en: heavy
+    ja: omoi
+  type: g.
+kuneva:
+  trans:
+    en: narrow
+  type: g.
+niteva:
+  trans:
+    en: short
+  type: g.
+raeva:
+  trans:
+    en: tall
+    ja: takai
+  type: g.
+remva:
+  trans:
+    en: cool
+    ja: suzushii
+  type: g.
+roava:
+  trans:
+    en: hot
+    ja: atsui
+  type: g.
+rul:
+  trans:
+    en: size
+  type: s.
+rusva:
+  trans:
+    en: large; strong
+    ja: ookii; tsuyoi
+  type: g.
+saeva:
+  trans:
+    en: warm
+    ja: atatakai
+  type: g.
+sureva:
+  trans:
+    ja: usui
+  type: g.
+susva:
+  trans:
+    en: small
+    ja: chiisai
+  type: g.
+uda:
+  trans:
+    en: length
+  type: s.
+udava:
+  trans:
+    en: long
+    ja: nagai
+  type: g.
+vimva:
+  trans:
+    en: hard
+  type: g.

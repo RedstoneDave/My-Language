@@ -1,216 +1,272 @@
-ruyamola:
-  type: s.
+alol:
   trans:
-    en: animal
-
-kila:
-  type: s.
+    en: to feed
+  type: b.
+bese:
   trans:
-    en: fish
-
-tofala:
+    en: skin
   type: s.
+birok:
   trans:
-    en: bird
-    ja: tori
-
-yawola:
-  type: s.
-  trans:
-    en: dog
-    ja: inu
-
-kibro:
-  type: s.
-  trans:
-    en: louse
-
-sukaro:
-  type: s.
-  trans:
-    en: snake
-
-gubiro:
-  type: s.
-  trans:
-    en: bug
-    ja: mushi
-
-reca:
-  type: s.
-  trans:
-    en: tree
-    ja: ki
-
-mocamu:
-  type: s.
-  trans:
-    en: wood / forest
-    ja: hayashi / mori
-
-cade:
-  type: s.
-  trans:
-    en: stick
-
+    en: swell
+  type: m.
 bras:
-  type: s.
   trans:
     en: root
-
-cagatu:
   type: s.
+cabe:
+  trans:
+    en: bark
+  type: s.
+caco:
+  trans:
+    en: seed
+  type: s.
+cade:
+  trans:
+    en: stick
+  type: s.
+cagatu:
   trans:
     en: fruit
     ja: kudamono
-
-caco:
   type: s.
+carit:
   trans:
-    en: seed
-
-ra:
+    en: ear
+    ja: mimi
   type: s.
+cebo:
   trans:
-    en: leaf
-    ja: ha
-
-cabe:
+    en: tail
   type: s.
+cotfa:
   trans:
-    en: bark
-
-pabu:
+    en: egg
+    ja: tamago
   type: s.
+cov:
   trans:
-    en: flower
+    en: breast
+  type: s.
+duse:
+  trans:
+    en: meat
+  type: s.
+farit:
+  trans:
+    en: eye
+    ja: me
+  type: s.
+fesa:
+  trans:
+    en: human
+    ja: hito
+  type: s.
+fuco:
+  trans:
+    en: child
+    ja: kodomo
+  type: s.
+gubiro:
+  trans:
+    en: bug
+    ja: mushi
+  type: s.
+habe:
+  trans:
+    en: back
+  type: s.
+ham:
+  trans:
+    en: hair
+    ja: kami
+  type: s.
+kan'ya:
+  trans:
+    en: liver
+  type: s.
+karit:
+  trans:
+    en: nose
     ja: hana
-
-pabo:
   type: s.
+kasa:
+  trans:
+    en: leg
+  type: s.
+kasda:
+  trans:
+    en: foot
+    ja: ashi
+  type: s.
+kasma:
+  trans:
+    en: knee
+  type: s.
+kibro:
+  trans:
+    en: louse
+  type: s.
+kila:
+  trans:
+    en: fish
+  type: s.
+koru:
+  trans:
+    en: neck
+  type: s.
+lakde:
+  trans:
+    en: horn
+  type: s.
+miro:
+  trans:
+    ja: hara
+  type: s.
+mirota:
+  trans:
+    en: bowel
+  type: s.
+mocamu:
+  trans:
+    en: wood / forest
+    ja: hayashi / mori
+  type: s.
+pabo:
   trans:
     en: grass
     ja: kusa
-
-tuzeva:
-  g. Female
-
-tuzeni:
   type: s.
+pabu:
   trans:
-    en: lady
-    ja: josei
-
-tuze:
+    en: flower
+    ja: hana
   type: s.
+ra:
   trans:
-    en: woman
-    ja: on'na-no-hito
-
-sazeva:
-  g. Male
-
-sazeni:
+    en: leaf
+    ja: ha
   type: s.
+reca:
   trans:
-    en: gentleman
-    ja: dansei
-
+    en: tree
+    ja: ki
+  type: s.
+run'ya:
+  trans:
+    en: heart
+  type: s.
+ruse:
+  trans:
+    en: blood
+    ja: chi
+  type: s.
+rusip:
+  trans:
+    en: to bleed
+  type: b.
+ruyamola:
+  trans:
+    en: animal
+  type: s.
 saze:
-  type: s.
   trans:
     en: (male) man
     ja: otoko-no-hito
-
-fuco:
-  s. Child
-
-fesa:
-  s. Human
-
-zera:
-  s. Partner
-
+  type: s.
+sazeni:
+  trans:
+    en: gentleman
+    ja: dansei
+  type: s.
+sazeva:
+  trans:
+    en: male
+  type: g.
+sukaro:
+  trans:
+    en: snake
+  type: s.
+tofala:
+  trans:
+    en: bird
+    ja: tori
+  type: s.
+tofayu:
+  trans:
+    en: wing
+  type: s.
+tokar:
+  trans:
+    en: tongue
+  type: s.
+tora:
+  trans:
+    en: feather
+  type: s.
+torit:
+  trans:
+    en: mouth
+    ja: kuchi
+  type: s.
+toza:
+  trans:
+    en: teeth
+    ja: ha
+  type: s.
+tusa:
+  trans:
+    en: fat
+  type: s.
+tusava:
+  trans:
+    en: fat
+    ja: futoi
+  type: g.
+tuze:
+  trans:
+    en: woman
+    ja: on'na-no-hito
+  type: s.
+tuzeni:
+  trans:
+    en: lady
+    ja: josei
+  type: s.
+tuzeva:
+  trans:
+    en: female
+  type: g.
 vyomp:
-  type: b.
   trans:
     en: to give birth to
     ja: umaru
-
-alol:
   type: b.
-  trans:
-    en: to feed
-
 vyompwalolin:
-  s. Parent
-
-bese:
-  s. Skin
-duse:
-  s. Meat
-ruse:
-  s. Blood
-rusip:
-  b. Bleed
-zase:
-  s. Bone
-tusa:
-  s. Fat
-tusava:
-  g. Fat
-cotfa:
-  s. Egg
-lakde:
-  s. Horn
-cebo:
-  s. Tail
-tora:
-  s. Feather
-ham:
-  s. Hair
-
-carit:
-  s. Ear
-farit:
-  s. Eye
-karit:
-  s. Nose
-torit:
-  s. Mouth
-toza:
-  s. Teeth
-tokar:
-  s. Tongue
-yukar:
-  s. Finger
-kasda:
-  s. Foot
-kasa:
-  s. Leg
-kasma:
-  s. Knee
-
-yusi:
-  s. Hand
-tofayu:
-  s. Wing
-miro:
-  s. hara
-mirota:
-  s. Bowel
-koru:
-  s. Neck
-habe:
-  s. Back
-cov:
-  s. Breast
-run'ya:
-  s. Heart
-kan'ya:
-  s. Liver
-
-birok:
-  type: m.
   trans:
-    en: swell
+    en: (genetical and social) parent
+  type: s.
+yawola:
+  trans:
+    en: dog
+    ja: inu
+  type: s.
+yukar:
+  trans:
+    en: finger
+    ja: yubi
+  type: s.
+yusi:
+  trans:
+    en: hand
+  type: s.
+zase:
+  trans:
+    en: bone
+    ja: hone
+  type: s.
+zera:
+  trans:
+    en: partner
+  type: s.

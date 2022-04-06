@@ -1,41 +1,38 @@
-rag:
+__default__:
   type: s.
-  trans:
-    en: top
-    ja: ue
-
+__doc__: The direction words can add a "-va" to it to become a gasaru
 daz:
-  type: s.
   trans:
     en: bottom
     ja: shita
-
-wat:
   type: s.
-  trans:
-    en: left
-    ja: hidari
-
-yed:
-  type: s.
-  trans:
-    en: right
-    ja: migi
-
 dosa:
-  type: s.
   trans:
     en: mid
     ja: naka
-
-kof:
   type: s.
+kof:
   trans:
     en: north
     ja: kita
-
-sal:
   type: s.
+rag:
+  trans:
+    en: top
+    ja: ue
+  type: s.
+sal:
   trans:
     en: east
     ja: higashi
+  type: s.
+wat:
+  trans:
+    en: left
+    ja: hidari
+  type: s.
+yed:
+  trans:
+    en: right
+    ja: migi
+  type: s.

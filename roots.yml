@@ -1,68 +1,48 @@
-# poresma torazu muk.
-
-t:
-  tu: Moon, Feminine
-
-d:
-  du:
-  de: Stick n.
-
-s:
-  sa: Sun, Masculine
-  se: Of Animals
-
-z:
-  ze: kare, asoko
-  zo: Up
-
-"n":
-  "n": No, nai
-  ni: dore, nani
-
+a:
+  u: one
+b:
+  be: Skin
+  bo: Rope
 c:
   ca:
     - Tree
     - aud
   co: Child
-
-l:
-  la: Animal
-
-r:
-  r: = kr
-  ra: Leaf
-  ro: Damaging Things
-
-p:
-  pab: Small Plants
-
-b:
-  be: Skin
-  bo: Rope
-
+d:
+  de: Stick n.
+  du: null
 f:
   fa: vis
   fo: wa, koko
-
-v:
-
-m:
-  m: "no"
-  mu: = mo
-  mo: many
-
+g: null
+h: null
 k:
+  ka: anata, soko
   kr: mizu
   kri: rei / mahou
-  ka: anata, soko
-
-g:
-
-h:
-
-a:
-  u: one
-
-w:
-
-"y":
+l:
+  la: Animal
+m:
+  m: 'no'
+  mo: many
+  mu: '= mo'
+'n':
+  'n': No, nai
+  ni: dore, nani
+p:
+  pab: Small Plants
+r:
+  r: '= kr'
+  ra: Leaf
+  ro: Damaging Things
+s:
+  sa: Sun, Masculine
+  se: Of Animals
+t:
+  tu: Moon, Feminine
+v: null
+w: null
+'y': null
+z:
+  ze: kare, asoko
+  zo: Up

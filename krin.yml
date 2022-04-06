@@ -1,36 +1,30 @@
-krin:
-  type: s.
-
-krink:
-  type: m.
-  trans:
-    en: with krin
-  lit:
-    zh: 克灵珂
-
-krinaf:
-  type: m.
-  trans:
-    en: without krin
-  lit:
-    zh: 克里纳弗
-
-krim:
-  type: b.
-  trans:
-    en: to cast a krin
-
-kritom:
-  type: b.
-  trans:
-    en: to cast a spell of krin
-
-krov:
-  type: s.
-  trans:
-    en: krin container
-
 kride:
-  type: s.
   trans:
     en: magic wand
+  type: s.
+krim:
+  trans:
+    en: to cast a krin
+  type: b.
+krin:
+  type: s.
+krinaf:
+  lit:
+    zh: 克里纳弗
+  trans:
+    en: without krin
+  type: m.
+krink:
+  lit:
+    zh: 克灵珂
+  trans:
+    en: with krin
+  type: m.
+kritom:
+  trans:
+    en: to cast a spell of krin
+  type: b.
+krov:
+  trans:
+    en: krin container
+  type: s.

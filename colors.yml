@@ -1,34 +1,45 @@
----
 __default__:
-  type: g.
-far:
   type: s.
+__doc__: The color words can add a "-va" to it to become a gasaru
+ber:
   trans:
-    en: color
-    ja: iro
-kra: 
-  trans:
-    en : blue
-    ja : ao
-  note : of kri
-kruka:
-  trans:
-    en : blue
-    ja : ao
-  note: of umi / water
-rum:
-  trans:
-    en : red
-    ja : aka
-  note : of blood
-rai:
-  trans:
-    en : green
-    ja : midori
-  note : of Leaf
+    en: purple
 cea:
+  note: of old Leaf
   trans:
     en: yellow
     ja: ki
-  note: of old Leaf
-...
+far:
+  trans:
+    en: color
+    ja: iro
+kra:
+  note: of kri
+  trans:
+    en: blue
+    ja: ao
+kruka:
+  note: of umi / water
+  trans:
+    en: blue
+    ja: ao
+rai:
+  note: of Leaf
+  trans:
+    en: green
+    ja: midori
+rum:
+  note: of blood
+  trans:
+    en: red
+    ja: aka
+tas:
+  trans:
+    en: black
+    ja: kuro
+  type: s.
+tri:
+  trans:
+    en: white
+    ja: shiro
+  type: s.

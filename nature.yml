@@ -1,140 +1,115 @@
----
-saya:
-  type: s.
-  trans:
-    en: sun
-    ja: hi
-
-tuya:
-  type: s.
-  trans:
-    en: moon
-    ja: tsuki
-
-suya:
-  type: s.
-  trans:
-    en: star
-    ja: hoshi
-
-kre:
-  type: s.
-  trans:
-    en: water
-    ja: mizu
-
-reta:
-  type: s.
-  trans:
-    en: rain
-
-retar:
-  type: b.
-  trans:
-    en: rain
-
-krosi:
-  type: s.
-  trans:
-    en: river
-    ja: kawa
-
-krora:
-  type: s.
-  trans:
-    en: lake
-    ja: mizuumi
-
-krova:
-  type: s.
-  trans:
-    en: ocean
-    ja: umi
-
-vem:
-  type: s.
-  trans:
-    en: salt
-    ja: shiwo
-
-vifra:
-  type: s.
-  trans:
-    en: stone
-    ja: ishi
-
-nero:
-  type: s.
-  trans:
-    en: sand
-
-snen:
-  type: s.
-  trans:
-    en: dust
-
-mek:
-  type: s.
-  trans:
-    en: land
-
-tarin:
-  type: s.
-  trans:
-    en: cloud
-    ja: kumo
-
-trak:
-  type: s.
-  trans:
-    en: fog
-    ja: kiri
-
-yal:
-  type: s.
-  trans:
-    en: sky
-    ja: sora
-
 fū:
-  type: s.
   trans:
     en: wind
     ja: kaze
-
-itram:
   type: s.
-  trasn:
-    en: snow
-    ja: yuki
-
 ita:
-  type: s.
   trans:
     en: ice
     ja: koori
-
-tram:
   type: s.
+itram:
+  trasn:
+    en: snow
+    ja: yuki
+  type: s.
+kre:
   trans:
-    en: smoke
-
-ruk:
+    en: water
+    ja: mizu
   type: s.
+krora:
+  trans:
+    en: lake
+    ja: mizuumi
+  type: s.
+krosi:
+  trans:
+    en: river
+    ja: kawa
+  type: s.
+krova:
+  trans:
+    en: ocean
+    ja: umi
+  type: s.
+mek:
+  trans:
+    en: land
+  type: s.
+nero:
+  trans:
+    en: sand
+  type: s.
+reta:
+  trans:
+    en: rain
+  type: s.
+retar:
+  trans:
+    en: rain
+  type: b.
+ruk:
   trans:
     en: fire
-
-trasn:
   type: s.
-  trans:
-    en: ash
-
 rukre:
-  type: s.
   trans:
     en: lava
-
+  type: s.
 rukrep:
-  type: b.
   trans:
     en: to erupt
+  type: b.
+saya:
+  trans:
+    en: sun
+    ja: hi
+  type: s.
+snen:
+  trans:
+    en: dust
+  type: s.
+suya:
+  trans:
+    en: star
+    ja: hoshi
+  type: s.
+tarin:
+  trans:
+    en: cloud
+    ja: kumo
+  type: s.
+trak:
+  trans:
+    en: fog
+    ja: kiri
+  type: s.
+tram:
+  trans:
+    en: smoke
+  type: s.
+trasn:
+  trans:
+    en: ash
+  type: s.
+tuya:
+  trans:
+    en: moon
+    ja: tsuki
+  type: s.
+vem:
+  trans:
+    en: salt
+    ja: shiwo
+  type: s.
+vifra:
+  trans:
+    en: stone
+    ja: ishi
+  type: s.
+yal:
+  trans:
+    en: sky
+    ja: sora
+  type: s.

@@ -1,101 +1,71 @@
----
+der:
+  trans:
+    en: to become
+    ja: naru
+  type: b.
+  usage: m. conj form + ~ g. & s. adv form + ~
+dit:
+  trans:
+    en: to have done
+    ja: '-te shimatta'
+  type: m.
+  usage: b. conj form + ~
 k:
-  type: m.
   trans:
-    ja: -ta
     en: did
-  usage:
-    conj form + ~
-
-sk:
+    ja: '-ta'
   type: m.
+  usage: conj form + ~
+ku:
   trans:
-    ja: -ta koto aru / (..made) -te iru
-    en: used to do / have been doing
-  usage:
-    conj form + ~
-
+    en: thing
+    ja: mono
+  type: s.
+mest:
+  note: indecates concluded truth instead of rules
+  trans:
+    en: must
+    ja: beshi
+  type: m.
+  usage: conj form + ~
+nak:
+  note: stresses the condition
+  trans:
+    en: to be doing
+    ja: '-te iru'
+  type: m.
+  usage: b. conj form + ~
 nk:
-  type: m.
   trans:
-    ja: -mama
     en: to go on
-
-tas:
+    ja: '-mama'
   type: m.
+r:
+  trans:
+    en: back
+    ja: kaeru
+  type: b.
+  usage: m. conj form + ~
+sk:
+  trans:
+    en: used to do / have been doing
+    ja: '-ta koto aru / (..made) -te iru'
+  type: m.
+  usage: conj form + ~
+tas:
   trans:
     en: will
-  usage:
-    conj form + ~
-
-mest: 
   type: m.
-  trans:
-    ja: beshi 
-    en: must
-  note: indecates concluded truth instead of rules
-  usage:
-    conj form + ~
-
-dit:
-  type: m.
-  trans:
-    ja: -te shimatta
-    en: to have done
-  usage:
-    b. conj form + ~
-
-nak:
-  type: m.
-  trans:
-    ja: -te iru
-    en: to be doing
-  note: stresses the condition
-  usage:
-    b. conj form + ~
-
+  usage: conj form + ~
 tez:
-  type: m.
-  trans:
-    ja: -dekiru / -eru / -rareru
-    en: to be able to
   note: indecates possibility instead of allowance
-  usage:
-    b. conj form + ~
-
-der:
-  type: b.
   trans:
-    ja: naru
-    en: to become
-  usage:
-    m. conj form + ~
-    g. & s. adv form + ~
-
-r:
-  type: b.
-  trans:
-    ja: kaeru
-    en: back
-  usage:
-    m. conj form + ~
-
+    en: to be able to
+    ja: '-dekiru / -eru / -rareru'
+  type: m.
+  usage: b. conj form + ~
 yu:
-  type: s.
   trans:
+    en: '-ing / -tion / -ness'
     ja: koto
-    en: -ing / -tion / -ness
-
-ku:
   type: s.
-  trans:
-    ja: mono
-    en: thing
-
-
-#bru:
-#  type: s. u.
-#bruva vg.
-#brub  vb.
-#bruk  vm.
-...

@@ -1,130 +1,109 @@
-fo:
+a:
+  trans:
+    en: self
   type: s.
+fo:
   trans:
     en: I
     ja: watashi
-
-fomu:
   type: s.
-  trans:
-    en: we (exclusive)
-    ja: watashi tachi
-
-pom:
-  type: s.
-  trans:
-    en: we (inclusive)
-    ja: watashi tachi
-
-fon:
-  type: s.
-  trans:
-    en: this
-    ja: kore
-
-fova:
-  type: g.
-  trans:
-    en: this
-    ja: kono
-
 foke:
-  type: s.
   trans:
     en: here
     ja: koko
-
-ka:
   type: s.
+fomu:
+  trans:
+    en: we (exclusive)
+    ja: watashi tachi
+  type: s.
+fon:
+  trans:
+    en: this
+    ja: kore
+  type: s.
+fova:
+  trans:
+    en: this
+    ja: kono
+  type: g.
+ka:
   trans:
     en: you (sing.)
     ja: kimi / anata
-
-kamu:
   type: s.
-  trans:
-    en: you (pl.)
-    ja: anata tachi / kimi tachi
-
-kan:
-  type: s.
-  trans:
-    en: that
-    ja: sore
-
-kava:
-  type: g.
-  trans:
-    en: that
-    ja: sono
-
 kake:
-  type: s.
   trans:
     en: there
     ja: soko
-
-ze:
   type: s.
+kamu:
   trans:
-    en: they / it (sing.)
-    ja: ano hito
-
-zemu:
+    en: you (pl.)
+    ja: anata tachi / kimi tachi
   type: s.
-  trans:
-    en: they (pl.)
-    ja: ano hito tachi
-
-zen:
-  type: s.
+kan:
   trans:
     en: that
-    ja: are
-
-zeva:
-  type: g.
+    ja: sore
+  type: s.
+kava:
   trans:
     en: that
-    ja: ano
-
-zeke:
-  type: s.
-  trans:
-    en: there
-    ja: asoko
-
-nī:
-  type: s.
-  trans:
-    en: who
-    ja: dare
-
-nin:
-  type: s.
-  trans:
-    en: what
-    ja: nani
-
-nimva:
+    ja: sono
   type: g.
-  trans:
-    en: what / how
-    ja: don'na / dou
-
-nike:
-  type: s.
-  trans:
-    en: where
-    ja: doko
-
 nigo:
-  type: s.
   trans:
     en: when
     ja: itsuka
-
-a:
   type: s.
+nike:
   trans:
-    en: self
+    en: where
+    ja: doko
+  type: s.
+nimva:
+  trans:
+    en: what / how
+    ja: don'na / dou
+  type: g.
+nin:
+  trans:
+    en: what
+    ja: nani
+  type: s.
+nī:
+  trans:
+    en: who
+    ja: dare
+  type: s.
+pom:
+  trans:
+    en: we (inclusive)
+    ja: watashi tachi
+  type: s.
+ze:
+  trans:
+    en: they / it (sing.)
+    ja: ano hito
+  type: s.
+zeke:
+  trans:
+    en: there
+    ja: asoko
+  type: s.
+zemu:
+  trans:
+    en: they (pl.)
+    ja: ano hito tachi
+  type: s.
+zen:
+  trans:
+    en: that
+    ja: are
+  type: s.
+zeva:
+  trans:
+    en: that
+    ja: ano
+  type: g.
