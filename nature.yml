@@ -1,96 +1,3 @@
-ruyamola:
-  type: s.
-  trans:
-    en: animal
-
-kila:
-  type: s.
-  trans:
-    en: fish
-
-tofala:
-  type: s.
-  trans:
-    en: bird
-    ja: tori
-
-yawola:
-  type: s.
-  trans:
-    en: dog
-    ja: inu
-
-kibro:
-  type: s.
-  trans:
-    en: louse
-
-sukaro:
-  type: s.
-  trans:
-    en: snake
-
-gubiro:
-  type: s.
-  trans:
-    en: bug
-    ja: mushi
-
-reca:
-  type: s.
-  trans:
-    en: tree
-    ja: ki
-
-mocamu:
-  type: s.
-  trans:
-    en: wood / forest
-    ja: hayashi / mori
-
-cade:
-  type: s.
-  trans:
-    en: stick
-
-bras:
-  type: s.
-  trans:
-    en: root
-
-cagatu:
-  type: s.
-  trans:
-    en: fruit
-    ja: kudamono
-
-caco:
-  type: s.
-  trans:
-    en: seed
-
-ra:
-  type: s.
-  trans:
-    en: leaf
-    ja: ha
-
-cabe:
-  type: s.
-  trans:
-    en: bark
-
-pabu:
-  type: s.
-  trans:
-    en: flower
-    ja: hana
-
-pabo:
-  type: s.
-  trans:
-    en: grass
-    ja: kusa
 ---
 saya:
   type: s.
@@ -221,3 +128,13 @@ trasn:
   type: s.
   trans:
     en: ash
+
+rukre:
+  type: s.
+  trans:
+    en: lava
+
+rukrep:
+  type: b.
+  trans:
+    en: to erupt

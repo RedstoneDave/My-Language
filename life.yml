@@ -1,0 +1,216 @@
+ruyamola:
+  type: s.
+  trans:
+    en: animal
+
+kila:
+  type: s.
+  trans:
+    en: fish
+
+tofala:
+  type: s.
+  trans:
+    en: bird
+    ja: tori
+
+yawola:
+  type: s.
+  trans:
+    en: dog
+    ja: inu
+
+kibro:
+  type: s.
+  trans:
+    en: louse
+
+sukaro:
+  type: s.
+  trans:
+    en: snake
+
+gubiro:
+  type: s.
+  trans:
+    en: bug
+    ja: mushi
+
+reca:
+  type: s.
+  trans:
+    en: tree
+    ja: ki
+
+mocamu:
+  type: s.
+  trans:
+    en: wood / forest
+    ja: hayashi / mori
+
+cade:
+  type: s.
+  trans:
+    en: stick
+
+bras:
+  type: s.
+  trans:
+    en: root
+
+cagatu:
+  type: s.
+  trans:
+    en: fruit
+    ja: kudamono
+
+caco:
+  type: s.
+  trans:
+    en: seed
+
+ra:
+  type: s.
+  trans:
+    en: leaf
+    ja: ha
+
+cabe:
+  type: s.
+  trans:
+    en: bark
+
+pabu:
+  type: s.
+  trans:
+    en: flower
+    ja: hana
+
+pabo:
+  type: s.
+  trans:
+    en: grass
+    ja: kusa
+
+tuzeva:
+  g. Female
+
+tuzeni:
+  type: s.
+  trans:
+    en: lady
+    ja: josei
+
+tuze:
+  type: s.
+  trans:
+    en: woman
+    ja: on'na-no-hito
+
+sazeva:
+  g. Male
+
+sazeni:
+  type: s.
+  trans:
+    en: gentleman
+    ja: dansei
+
+saze:
+  type: s.
+  trans:
+    en: (male) man
+    ja: otoko-no-hito
+
+fuco:
+  s. Child
+
+fesa:
+  s. Human
+
+zera:
+  s. Partner
+
+vyomp:
+  type: b.
+  trans:
+    en: to give birth to
+    ja: umaru
+
+alol:
+  type: b.
+  trans:
+    en: to feed
+
+vyompwalolin:
+  s. Parent
+
+bese:
+  s. Skin
+duse:
+  s. Meat
+ruse:
+  s. Blood
+rusip:
+  b. Bleed
+zase:
+  s. Bone
+tusa:
+  s. Fat
+tusava:
+  g. Fat
+cotfa:
+  s. Egg
+lakde:
+  s. Horn
+cebo:
+  s. Tail
+tora:
+  s. Feather
+ham:
+  s. Hair
+
+carit:
+  s. Ear
+farit:
+  s. Eye
+karit:
+  s. Nose
+torit:
+  s. Mouth
+toza:
+  s. Teeth
+tokar:
+  s. Tongue
+yukar:
+  s. Finger
+kasda:
+  s. Foot
+kasa:
+  s. Leg
+kasma:
+  s. Knee
+
+yusi:
+  s. Hand
+tofayu:
+  s. Wing
+miro:
+  s. hara
+mirota:
+  s. Bowel
+koru:
+  s. Neck
+habe:
+  s. Back
+cov:
+  s. Breast
+run'ya:
+  s. Heart
+kan'ya:
+  s. Liver
+
+birok:
+  type: m.
+  trans:
+    en: swell

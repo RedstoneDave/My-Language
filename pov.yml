@@ -1,7 +1,7 @@
 ---
-tesin: 
-  type: m. 
-  trans: 
+tesin:
+  type: m.
+  trans:
     ja: suki
 
 tesam:
@@ -23,11 +23,11 @@ skud:
 
 nagāp:
   type: m.
-  trans: 
+  trans:
     ja: kirai
 
 naguf:
-  type: m. 
+  type: m.
   trans:
     ja: kanashii
     en: sad
@@ -38,20 +38,20 @@ nayup:
     ja: itai
     en: painful
 
-vaswa: 
+vaswa:
   type: s.
   trans:
     en: view
 
 medo:
   type: s.
-  trans: 
+  trans:
     en: Logic
 
 mait:
   type: b.
   trans:
-    en: think 
+    en: think
     ja: omou
 
 maita:
@@ -60,7 +60,7 @@ maita:
     en: thought
     ja: omoi
 
-pat: 
+pat:
   type: m.
   trans:
     ja: au
@@ -111,6 +111,11 @@ rasyava:
   trans:
     en: final; before victory
 
+resnyuva:
+  type: g.
+  trans:
+    en: final; some action taken under unbearable situation
+
 emea:
   type: s.
   trans:
@@ -136,4 +141,8 @@ wait:
   type: m.
   trans:
     en: agree
-...
+
+tafep:
+  type: b.
+  trans:
+    en: to free

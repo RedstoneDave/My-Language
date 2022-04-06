@@ -130,6 +130,8 @@ There are two parts of speech correspond to verbs in English, `burab` and `mosra
 - `vebikaz`
   - `-ikaz` means “to let do” and `vebikaz` is a `burab`
   - e.g. `fozu zedo mupikaz` means “I let him sleep”, notice that “him” here is represented with `do` instead of `bu`
+- `vebod`
+  - `-od` means “in order to do” and `vebod` is a `mosrab`
 - `veba`
   - `-a` transforms a `burab` to a noun, as “-ing” or “to -” or “-ion” or “-ment”
 - `vebin` / `vebwa`

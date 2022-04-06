@@ -5,13 +5,15 @@ krink:
   type: m.
   trans:
     en: with krin
-  lit-zh: 克灵珂
+  lit:
+    zh: 克灵珂
 
 krinaf:
   type: m.
   trans:
     en: without krin
-  lit-zh: 克里纳弗
+  lit:
+    zh: 克里纳弗
 
 krim:
   type: b.
@@ -28,3 +30,7 @@ krov:
   trans:
     en: krin container
 
+kride:
+  type: s.
+  trans:
+    en: magic wand

@@ -58,3 +58,9 @@ tasya:
   trans:
     en: tomorrow
     ja: ashita
+
+rasyu:
+  type: s
+  trans:
+    en: dawn
+    ja: yoake

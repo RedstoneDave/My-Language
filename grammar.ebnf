@@ -46,6 +46,7 @@ stative verb = stem
     | verb, "u", stative verb              # verb combined with stative verb
     | stative verb, "e", stative verb      # two stative verbs combined
     | stative verb - ("muk" | "on"), "on"; # negative form of a stative verb
+    | verb, "od"                           # indecates the purpose, “for doing”
 
 (* 
 adjectives, barely have any boundaries from stative verbs
@@ -101,6 +102,7 @@ noun phrase = single noun phrase, ( "fu" | "zo" ), noun phrase | single noun phr
 
 adverbial partical = "l" # like "mo" in Japanese
     | "sy"   # like "sae" in Japanese
+    | "d"    # like "...uchi-ni" in Japanese and "while ..." in English
     | "v"  ; # like "dake" or "nomi" in Japanese
 
 basic adverbial = ( 

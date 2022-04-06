@@ -22,6 +22,12 @@ yed:
     en: right
     ja: migi
 
+dosa:
+  type: s.
+  trans:
+    en: mid
+    ja: naka
+
 kof:
   type: s.
   trans:

@@ -84,4 +84,35 @@ raeva:
     en: tall
     ja: takai
 
+cursava:
+  type: g.
+  trans:
+    en: loud
+    ja: oogoe
+
+
+saeva:
+  type: g.
+  trans:
+    en: warm
+    ja: atatakai
+
+roava:
+  type: g.
+  trans:
+    en: hot
+    ja: atsui
+
+remva:
+  type: g.
+  trans:
+    en: cool
+    ja: suzushii
+
+ecava:
+  type: g.
+  trans:
+    en: cold
+    ja: samui
+
 ...

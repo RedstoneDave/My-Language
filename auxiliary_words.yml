@@ -15,6 +15,12 @@ sk:
   usage:
     conj form + ~
 
+nk:
+  type: m.
+  trans:
+    ja: -mama
+    en: to go on
+
 tas:
   type: m.
   trans:
@@ -31,7 +37,7 @@ mest:
   usage:
     conj form + ~
 
-dit: 
+dit:
   type: m.
   trans:
     ja: -te shimatta
@@ -66,6 +72,13 @@ der:
     m. conj form + ~
     g. & s. adv form + ~
 
+r:
+  type: b.
+  trans:
+    ja: kaeru
+    en: back
+  usage:
+    m. conj form + ~
 
 yu:
   type: s.

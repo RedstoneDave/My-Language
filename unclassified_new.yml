@@ -148,9 +148,19 @@ skuc:
     ja: (kokorokara) hohoemu
 
 utol:
-  tyoe: b.
+  type: b.
   trans:
     en: to work, to produce.
     ja: hataraku
+
+twak:
+  type: b.
+  trans:
+    en: to seize; to possess by force
+
+skov:
+  type: s.
+  trans:
+    en: cage
 
 ...
