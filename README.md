@@ -92,7 +92,7 @@ In Kratoma, nouns are called `sokan`, `sokan` is the only type of word that can 
 - `fesaye`
   - `ye` indecates the ablative, meaning “from”, and the ergative in passive forms (as “by ...” in English)
   - e.g. `fozu zekeye vep` means “I come from there” where `zeke` means “there” and `vep` means “to come”
-  - and `fozu beuye nociken` means “I'm abandoned by the society” where `beu` means “the world” and “the society” and `noc` means “to abandon; to desert”, `-iken` makes a verb passive
+  - and `fozu beuye nocins` means “I'm abandoned by the society” where `beu` means “the world” and “the society” and `noc` means “to abandon; to desert”, `-ins` makes a verb passive
 - `fesawe`
   - `we` indecates the terminative, meaning “until”
   - e.g. `zezu rusyawe furvusk` means “He has been young until today” where `rusya` means “today” and `furva` means “young” and `-usk` means “have been”
@@ -123,13 +123,13 @@ There are two parts of speech correspond to verbs in English, `burab` and `mosra
 - `veben`
   - `-en` means “not to do” and `veben` is a `mosrab`.
   - e.g. `fozu mupen` means “I don't sleep” where `mup` means “to sleep”.
-- `vebiken`
-  - `-iken` means “to be done” and `vebiken` is a `burab`
+- `vebins`
+  - `-ins` means “to be done” and `vebins` is a `burab`
   - Just in case you forgot this, “by ...” is represented using `ye`
-  - e.g. `fozu beuye nociken` means “I'm abandoned by the society”
-- `vebikaz`
-  - `-ikaz` means “to let do” and `vebikaz` is a `burab`
-  - e.g. `fozu zedo mupikaz` means “I let him sleep”, notice that “him” here is represented with `do` instead of `bu`
+  - e.g. `fozu beuye nocins` means “I'm abandoned by the society”
+- `vebiks`
+  - `-iks` means “to let do” and `vebiks` is a `burab`
+  - e.g. `fozu zedo mupiks` means “I let him sleep”, notice that “him” here is represented with `do` instead of `bu`
 - `vebod`
   - `-od` means “in order to do” and `vebod` is a `mosrab`
 - `veba`

@@ -1,8 +1,9 @@
+__default__:
+  type: g.
 cursava:
   trans:
     en: loud
     ja: oogoe
-  type: g.
 duke:
   trans:
     en: width
@@ -10,12 +11,10 @@ duke:
 dukeva:
   trans:
     en: wide
-  type: g.
 ecava:
   trans:
     en: cold
     ja: samui
-  type: g.
 fure:
   trans:
     en: the measure of being thick
@@ -23,7 +22,6 @@ fure:
 fureva:
   trans:
     en: thick
-  type: g.
 goe:
   trans:
     en: weight
@@ -32,30 +30,27 @@ goeva:
   trans:
     en: heavy
     ja: omoi
-  type: g.
 kuneva:
   trans:
     en: narrow
-  type: g.
+luva:
+  trans:
+    ja: hayai
 niteva:
   trans:
     en: short
-  type: g.
 raeva:
   trans:
     en: tall
     ja: takai
-  type: g.
 remva:
   trans:
     en: cool
     ja: suzushii
-  type: g.
 roava:
   trans:
     en: hot
     ja: atsui
-  type: g.
 rul:
   trans:
     en: size
@@ -64,21 +59,17 @@ rusva:
   trans:
     en: large; strong
     ja: ookii; tsuyoi
-  type: g.
 saeva:
   trans:
     en: warm
     ja: atatakai
-  type: g.
 sureva:
   trans:
     ja: usui
-  type: g.
 susva:
   trans:
     en: small
     ja: chiisai
-  type: g.
 uda:
   trans:
     en: length
@@ -87,7 +78,9 @@ udava:
   trans:
     en: long
     ja: nagai
-  type: g.
+utva:
+  trans:
+    en: tight
 vimva:
   trans:
     en: hard

@@ -8,7 +8,13 @@ avrova:
   type: g.
 cem:
   trans:
-    en: niau
+    en: to meet
+    ja: niau
+  type: m.
+cwait:
+  trans:
+    en: to admit
+    ja: motomeru
   type: m.
 deuva:
   trans:
@@ -31,9 +37,14 @@ furva:
     en: young (and naïve)
     ja: osanai
   type: g.
-irenva:
+hwava:
+  note: usu. approbative
   trans:
-    en: holy (usually pejorative)
+    en: common; normal; majority
+irenva:
+  note: usu. pejorative
+  trans:
+    en: holy
   type: g.
 mait:
   trans:
@@ -54,6 +65,10 @@ megat:
     en: to help; to save
     ja: tasukeru
   type: b.
+mokez:
+  trans:
+    en: to naturally belong to; to be a part of
+  type: m.
 naguf:
   trans:
     en: sad
@@ -63,6 +78,10 @@ nagāp:
   trans:
     ja: kirai
   type: m.
+nafisva:
+  trans:
+    en: disgusting
+    ja: kirawareta
 nayup:
   trans:
     en: painful

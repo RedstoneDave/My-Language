@@ -1,6 +1,6 @@
 go:
   trans:
-    en: time
+    en: time spot
     ja: toki
   type: s.
 kona:
@@ -53,3 +53,13 @@ tuya:
     en: month
     ja: getsu
   type: s.
+omf:
+  trans:
+    en: time span
+    ja: aida
+  type: s.
+ofanva:
+  trans:
+    en: instant; immediate
+    ja: mamonai
+  type: g.

@@ -21,7 +21,7 @@ ku:
     en: thing
     ja: mono
   type: s.
-mest:
+vekt:
   note: indecates concluded truth instead of rules
   trans:
     en: must
@@ -39,7 +39,7 @@ nk:
   trans:
     en: to go on
     ja: '-mama'
-  type: m.
+  type: b.
 r:
   trans:
     en: back

@@ -53,6 +53,11 @@ duse:
   trans:
     en: meat
   type: s.
+dwiro:
+  trans:
+    en: parasitic animals; parasite
+    ja: kiseibutsu
+  type: s.
 farit:
   trans:
     en: eye
@@ -132,6 +137,10 @@ mocamu:
   trans:
     en: wood / forest
     ja: hayashi / mori
+  type: s.
+mova:
+  trans:
+    en: the masses; the people
   type: s.
 pabo:
   trans:

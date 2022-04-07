@@ -31,8 +31,8 @@ verb = stem
     | verb, "em"              # to undo
     | verb, "u", verb         # two verbs combined
     | stative verb, "e", verb # stative verb combined with verb
-    | verb, "iken"            # to be done
-    | verb, "ikaz"            # to let do
+    | verb, "ins"             # to be done
+    | verb, "iks"             # to let do
 
 (*
 the other class of verb is stative verbs that cannot tell before
@@ -100,10 +100,11 @@ single noun phrase = ( [ modifier, SPACE ] | "p", SPACE, modifier, SPACE, "s", S
 
 noun phrase = single noun phrase, ( "fu" | "zo" ), noun phrase | single noun phrase;
 
-adverbial partical = "l" # like "mo" in Japanese
-    | "sy"   # like "sae" in Japanese
+adverbial partical = "l" # like "mo" in Japanese; and reads as "t" after an "s"
+    | "sy"   # like "sae" in Japanese and "as long as" in English
     | "d"    # like "...uchi-ni" in Japanese and "while ..." in English
-    | "v"  ; # like "dake" or "nomi" in Japanese
+    | "v"    # like "dake" or "nomi" in Japanese and "only" in English
+    | "ck";  # like "as (... as ...)" in English
 
 basic adverbial = ( 
       noun phrase, case partical

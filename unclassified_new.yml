@@ -34,6 +34,11 @@ irep:
   trans:
     en: to continue and to preserve
   type: b.
+karit:
+  trans:
+    en: to gnaw
+    ja: kajiru
+  type: b.
 kas:
   trans:
     en: to arise and to fight against
@@ -52,10 +57,6 @@ lav:
   trans:
     en: book, record
   type: s.
-luva:
-  trans:
-    ja: hayai
-  type: g.
 mip:
   trans:
     en: vanish
@@ -65,9 +66,17 @@ mok:
   trans:
     en: to own
   type: m.
+myok:
+  trans:
+    en: to peel; to take off (cloth)
+  type: b.
 nerac:
   trans:
     ja: inoru
+  type: b.
+nost:
+  trans:
+    en: to give up
   type: b.
 pazek:
   trans:
@@ -101,6 +110,11 @@ syava:
   trans:
     en: bright
   type: g.
+taris:
+  trans:
+    en: to shine
+    ja: kagayaku
+  type: m.
 twak:
   trans:
     en: to seize; to possess by force
@@ -118,6 +132,9 @@ vuk:
   trans:
     ja: nuku
   type: b.
+wap:
+  trans:
+    en: to attempt; to try
 yem:
   trans:
     en: to resemble
