@@ -124,6 +124,10 @@ utol:
     en: to work, to produce.
     ja: hataraku
   type: b.
+vea:
+  trans:
+    en: clothes
+  type: s.
 vof:
   trans:
     en: contain for after use

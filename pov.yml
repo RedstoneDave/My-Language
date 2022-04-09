@@ -37,6 +37,14 @@ furva:
     en: young (and naïve)
     ja: osanai
   type: g.
+hemva:
+  trans:
+    en: neet
+    ja: sukkiri
+  type: g.
+honub:
+  trans:
+    en: to mess up with; to disturb
 hwava:
   note: usu. approbative
   trans:
@@ -87,6 +95,11 @@ nayup:
     en: painful
     ja: itai
   type: m.
+nemva:
+  trans:
+    en: messy
+    ja: konran
+  type: g.
 pat:
   trans:
     ja: au
@@ -137,3 +150,8 @@ yoti:
   trans:
     en: value
   type: s.
+yotam:
+  trans:
+    en: to value
+    ja: daiji suru
+  type: m.

@@ -173,7 +173,7 @@ This section is about `mosrab`, the stative verbs that cannot tell apart “befo
 
 Adjectives in Kratoma are called `gasaru`, the semantic division between `gasaru` and `mosrab` is not clear, and these two can transform to each other. An example of `gasaru` is `krava` (meaning “blue; azure; cute”).
 
-Adjectives have two basic forms, one is the modifier form, the other is the predicative form. In dictionaries, adjectives are shown in the first form, which ends in `-va`, the second form is obtained by replacing the `-va` into `-z`. For example, the modifier form `krava` has a corresponding predicative form `kraz`. Other variants are shown below.
+Adjectives have two basic forms, one is the modifier form, the other is the predicative form. In dictionaries, adjectives are shown in the first form, which ends in `-va`, the second form is obtained by replacing the `-va` with `-z`. For example, the modifier form `krava` has a corresponding predicative form `kraz`. Other variants are shown below.
 
 - `kravu`
   - this form is the same as the `muke` and `vebu` form.
@@ -209,4 +209,4 @@ Numerals in Kratoma are called `unekin`, this word is formed from the words for 
 
 ### Clauses
 
-Kratoma is predicate-based, every other component in a sentence is analysed to be an adverbial (ie. modifier) of the predicate. The predicate of a clause could be a `sokan`, `burab`, `mosrab` or `-z` form of `gasaru`, as for `unekin`, just add a `-k` after it to transform it into a `sokan`.
+Kratoma is predicate-based, every other component in a sentence is analysed to be an adverbial (ie. modifier) of the predicate. The predicate of a clause could be a `sokan`, `burab`, `mosrab` or `-z` form of `gasaru`, as for `unekin`, just add a `-k` to it to form a `sokan`.

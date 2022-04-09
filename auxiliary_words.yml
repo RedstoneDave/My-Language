@@ -21,11 +21,14 @@ ku:
     en: thing
     ja: mono
   type: s.
-vekt:
-  note: indecates concluded truth instead of rules
+lac:
   trans:
-    en: must
-    ja: beshi
+    en: almost not
+  type: m.
+  usage: conj form + ~
+mac:
+  trans:
+    en: almost
   type: m.
   usage: conj form + ~
 nak:
@@ -47,6 +50,9 @@ r:
   type: b.
   usage: m. conj form + ~
 sk:
+  note: >
+    the difference of the termination spot between past and future
+    is shown by a time adverbial
   trans:
     en: used to do / have been doing
     ja: '-ta koto aru / (..made) -te iru'
@@ -64,6 +70,13 @@ tez:
     ja: '-dekiru / -eru / -rareru'
   type: m.
   usage: b. conj form + ~
+vekc:
+  note: indecates concluded truth instead of rules
+  trans:
+    en: must
+    ja: beshi
+  type: m.
+  usage: conj form + ~
 yu:
   trans:
     en: '-ing / -tion / -ness'

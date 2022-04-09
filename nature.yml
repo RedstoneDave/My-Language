@@ -1,3 +1,11 @@
+freta:
+  trans:
+    en: rainstorm
+  type: s.
+fretar:
+  trans:
+    en: to have a rainstorm
+  type: b.
 fū:
   trans:
     en: wind
@@ -44,10 +52,12 @@ nero:
 reta:
   trans:
     en: rain
+    ja: ame
   type: s.
 retar:
   trans:
-    en: rain
+    en: to rain
+    ja: amewo furu
   type: b.
 ruk:
   trans:

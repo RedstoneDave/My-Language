@@ -101,7 +101,7 @@ single noun phrase = ( [ modifier, SPACE ] | "p", SPACE, modifier, SPACE, "s", S
 noun phrase = single noun phrase, ( "fu" | "zo" ), noun phrase | single noun phrase;
 
 adverbial partical = "l" # like "mo" in Japanese; and reads as "t" after an "s"
-    | "sy"   # like "sae" in Japanese and "as long as" in English
+    | "sy"   # like "sae" in Japanese and "even; as long as (in ...sy ...vi)" in English
     | "d"    # like "...uchi-ni" in Japanese and "while ..." in English
     | "v"    # like "dake" or "nomi" in Japanese and "only" in English
     | "ck";  # like "as (... as ...)" in English
