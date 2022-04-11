@@ -1,0 +1,262 @@
+__default__:
+  type: b.
+basit:
+  trans:
+    en: to dig
+bodak:
+  trans:
+    en: to sit down
+    ja: suwaru
+bodask:
+  trans:
+    en: to be sitting
+    ja: suwatte iru
+  type: m.
+brep:
+  trans:
+    en: to stop
+    ja: tomaru / tomeru
+cam:
+  trans:
+    en: to count; to write down
+    ja: kazoeru; kaku
+cas:
+  trans:
+    en: to hear
+    ja: kiku
+cet:
+  trans:
+    en: to stick
+dat:
+  trans:
+    en: to push
+dotar:
+  trans:
+    en: to fall
+    ja: ochiru
+dyan:
+  trans:
+    en: to worship (esp. with out mind)
+  type: m.
+edak:
+  trans:
+    en: to be crying
+    ja: naiteru
+  type: m.
+ep:
+  trans:
+    en: to go
+    ja: yuku
+fas:
+  trans:
+    en: to see
+    ja: miru
+gic:
+  trans:
+    en: to play
+    ja: asobu
+gutan:
+  trans:
+    en: to squeeze
+hat:
+  trans:
+    en: to laugh
+    ja: warau
+ikesp:
+  trans:
+    en: to scrach
+ivak:
+  trans:
+    en: to take
+    ja: morau
+karit:
+  trans:
+    en: to gnaw
+    ja: kajiru
+karzit:
+  trans:
+    en: to drink
+    ja: nomu
+kas:
+  trans:
+    en: to stand up
+    ja: tatsu
+kasep:
+  trans:
+    en: to walk (towards)
+    ja: aruku
+kav:
+  trans:
+    en: to be standing
+    ja: tatte iru
+kavaf:
+  trans:
+    en: to split
+kawak:
+  trans:
+    en: to cut
+kazit:
+  trans:
+    en: to take in (from nose); to smell
+    ja: (hanade) suu
+kodes:
+  trans:
+    en: to create
+    ja: tsukuru
+krak:
+  trans:
+    en: to wash
+    ja: arau
+kruep:
+  trans:
+    en: to swim
+    ja: oyogu
+mait:
+  trans:
+    en: to think; to consider about
+maizit:
+  trans:
+    en: to learn
+    ja: manabu
+megat:
+  trans:
+    en: to help; to save
+    ja: tasukeru
+memaz:
+  trans:
+    en: to kill
+    ja: korosu
+muf:
+  trans:
+    en: to be asleep
+    ja: nemutte iru
+  type: m.
+mup:
+  trans:
+    en: to sleep
+    ja: nemuru
+muvat:
+  trans:
+    en: to lie down (with face up)
+    ja: fusu
+myok:
+  trans:
+    en: to peel; to take off (cloth)
+nerac:
+  trans:
+    ja: inoru
+noc:
+  trans:
+    en: to discard
+    ja: suteru
+nuv:
+  trans:
+    en: to sew
+ocom:
+  trans:
+    en: to sing
+    ja: utau
+pazes:
+  trans:
+    en: look for
+    ja: sagasu
+pokis:
+  trans:
+    en: to fill
+    ja: mitasu
+rasdas:
+  trans:
+    en: to spin; to rotate
+    ja: mawaru
+rizit:
+  trans:
+    en: to take in
+    ja: suu
+sesk:
+  trans:
+    en: to hunt
+skavip:
+  trans:
+    en: escape
+    ja: nigeru
+skuc:
+  trans:
+    en: to smile (from the heart)
+    ja: (kokorokara) hohoemu
+  type: m.
+stip:
+  trans:
+    en: to mill; to rub
+tam:
+  trans:
+    en: to wipe
+tofep:
+  trans:
+    en: to fly
+    ja: tobu
+tom:
+  trans:
+    en: to talk
+    ja: hanasu
+tomit:
+  trans:
+    en: to argue; to quarrel
+totat:
+  trans:
+    en: to spill out; to breathe out; to vomit (rusvu totat)
+    ja: haku
+tozit:
+  trans:
+    en: to take in (from mouth)
+    ja: (kuchide) suu
+twak:
+  trans:
+    en: to seize; to possess by force
+usat:
+  trans:
+    en: to give
+    ja: ageru; kureru
+utol:
+  trans:
+    en: to work, to produce.
+    ja: hataraku
+vas:
+  trans:
+    en: to tie
+vep:
+  trans:
+    en: to come
+    ja: kuru
+vof:
+  trans:
+    en: contain for after use
+vuk:
+  trans:
+    ja: nuku
+wak:
+  trans:
+    en: to hit
+wakit:
+  trans:
+    en: to fight
+    ja: tatakau
+wap:
+  trans:
+    en: to attempt; to try
+zad:
+  trans:
+    en: to pull
+zakat:
+  trans:
+    en: to bite
+zazit:
+  trans:
+    en: to eat
+    ja: taberu
+zitat:
+  trans:
+    en: to breathe
+zuk:
+  trans:
+    en: wear, wrap
+    ja: kiru, maku

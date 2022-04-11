@@ -8,7 +8,7 @@ avrova:
   type: g.
 cem:
   trans:
-    en: to meet
+    en: to fit
     ja: niau
   type: m.
 cwait:
@@ -20,17 +20,13 @@ deuva:
   trans:
     en: old and useful, classic
   type: g.
-dyan:
-  trans:
-    en: to worship (esp. with out mind)
-  type: m
 emea:
   trans:
     en: reality
   type: s.
 frova:
   trans:
-    en: old and useless
+    en: old and desperated
   type: g.
 furva:
   trans:
@@ -54,9 +50,10 @@ irenva:
   trans:
     en: holy
   type: g.
-mait:
+maik:
+  note: “maik” is used for stating an opinion, while “mait” is used for the action
   trans:
-    en: think
+    en: to think
     ja: omou
   type: b.
 maita:
@@ -64,15 +61,15 @@ maita:
     en: thought
     ja: omoi
   type: s.
+maizas:
+  trans: 
+    en: to know
+    ja: shiru / shitte iru
+  type: m.
 medo:
   trans:
     en: Logic
   type: s.
-megat:
-  trans:
-    en: to help; to save
-    ja: tasukeru
-  type: b.
 mokez:
   trans:
     en: to naturally belong to; to be a part of
@@ -90,11 +87,6 @@ nafisva:
   trans:
     en: disgusting
     ja: kirawareta
-nayup:
-  trans:
-    en: painful
-    ja: itai
-  type: m.
 nemva:
   trans:
     en: messy
@@ -102,7 +94,12 @@ nemva:
   type: g.
 pat:
   trans:
+    en: to meet
     ja: au
+  type: m.
+puk:
+  trans:
+    en: enough
   type: m.
 rasyava:
   trans:
@@ -116,20 +113,10 @@ rimot:
   trans:
     en: to abuse; to enslave; to exploit
   type: s.
-skud:
-  trans:
-    en: to live happily and fullfilled
-    ja: shiawase, saiwai
-  type: m.
 tafep:
   trans:
     en: to free
   type: b.
-tesam:
-  trans:
-    en: happy
-    ja: tanoshii
-  type: m.
 tesin:
   trans:
     ja: suki
@@ -138,10 +125,6 @@ vaswa:
   trans:
     en: view
   type: s.
-vusm:
-  trans:
-    en: satisfied
-  type: m.
 wait:
   trans:
     en: agree

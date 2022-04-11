@@ -1,7 +1,17 @@
+boc:
+  trans:
+    en: after
+    ja: (jikan) ato
+  type: s.
 go:
   trans:
     en: time spot
     ja: toki
+  type: s.
+kam:
+  trans:
+    en: ago
+    ja: (jikan) mae
   type: s.
 kona:
   trans:

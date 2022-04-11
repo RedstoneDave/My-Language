@@ -1,6 +1,6 @@
 # Kratoma - A Constructed Language for an Isekai
 
-Kratoma is a constructed “natural” language rather than a programming language. The language part of this repository is published under [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode), and if one day the author writes some code about the language, that code will be published under MIT License.
+Kratoma is a constructed “natural” language rather than a programming language. The language part of this repository is published under [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode), and if one day the author writes some code about the project, that code will be published under the MIT License.
 
 ## Idea
 
@@ -9,6 +9,12 @@ Kratoma is a language used by people in an isekai where exists “krin”, a pow
 Kratoma reflects the views of the people in the world, and ultimately reflects some thoughts of the author itself (yes, the author uses “it” as its pronoun).
 
 There are no words that correspond to “good” or “bad”, “right” or “wrong”, “must” or “forbid”, instead, more specific feeling describing, logic or value describing and conditional expressions are used.
+
+## Examples
+
+### The North Wind and the Sun
+
+> kofma fū fu sayazu nīsu rusksez t tomituke, kava gocu un otapinzu saeva veabu zuku vepuk. zemuzu luvu otapindo veabu vukikswasu rusksez t waitek. kofma fūzu tezeck totatukusy, rusksevu totatuc, otapinsu utksevu zukuke; zezu wapu nostu syafuk. sayazu saevu tarisuke, otapinzu ofanvu veabu myokuk. fovevo, kofma fūzu sayasu rusksez t cwaitederiksins.
 
 ## Phonology
 
@@ -35,6 +41,7 @@ and the list here shows some variations:
 - /zʲ/ = \[ʑ\] or \[d͡ʑ\]
 - /(ptk)ɾ(a)/ = \[(ptk)χ(ɑ)\]
 - /ɾ\b/ = \[l\]
+- /h\b/ = \[x\]
 
 ### Vowels
 
@@ -56,7 +63,7 @@ There are two writing systems in Kratoma, one is called `hwancuma` (lit. common 
 
 the file of the fonts are to be stored in the repository.
 
-## Grammar
+## Word Forms
 
 Kratoma is an agglutinative language highly relying on case particals and auxiliary words. Basic grammar forms can be found in the file `grammar.ebnf`.
 
@@ -123,6 +130,9 @@ There are two parts of speech correspond to verbs in English, `burab` and `mosra
 - `veben`
   - `-en` means “not to do” and `veben` is a `mosrab`.
   - e.g. `fozu mupen` means “I don't sleep” where `mup` means “to sleep”.
+- `vebeh`
+  - `-eh` means “before doing” and `vebeh` is a `mosrab`
+  - e.g.
 - `vebins`
   - `-ins` means “to be done” and `vebins` is a `burab`
   - Just in case you forgot this, “by ...” is represented using `ye`
@@ -207,6 +217,10 @@ Numerals in Kratoma are called `unekin`, this word is formed from the words for 
   - `-ceva` transforms an `unekin` into an adjective
   - e.g. `mocekseva` means “more”
 
-### Clauses
+## Clauses
 
 Kratoma is predicate-based, every other component in a sentence is analysed to be an adverbial (ie. modifier) of the predicate. The predicate of a clause could be a `sokan`, `burab`, `mosrab` or `-z` form of `gasaru`, as for `unekin`, just add a `-k` to it to form a `sokan`.
+
+### Independent Clause
+
+### Dependent Clause

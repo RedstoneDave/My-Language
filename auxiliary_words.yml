@@ -6,8 +6,8 @@ der:
   usage: m. conj form + ~ g. & s. adv form + ~
 dit:
   trans:
-    en: to have done
-    ja: '-te shimatta'
+    en: to have done; after ...
+    ja: '-te shimatta; shita ato'
   type: m.
   usage: b. conj form + ~
 k:
@@ -23,7 +23,7 @@ ku:
   type: s.
 lac:
   trans:
-    en: almost not
+    en: almost not; hardly; barely
   type: m.
   usage: conj form + ~
 mac:
@@ -41,7 +41,7 @@ nak:
 nk:
   trans:
     en: to go on
-    ja: '-mama'
+    ja: '-mama suru'
   type: b.
 r:
   trans:
@@ -52,7 +52,7 @@ r:
 sk:
   note: >
     the difference of the termination spot between past and future
-    is shown by a time adverbial
+    could be shown by a time adverbial
   trans:
     en: used to do / have been doing
     ja: '-ta koto aru / (..made) -te iru'

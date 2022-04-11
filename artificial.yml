@@ -1,0 +1,23 @@
+__default__:
+  type: s.
+bosi:
+  trans:
+    en: rope
+    ja: nawa
+deg:
+  trans:
+    en: umbrella
+    ja: kasa
+lav:
+  trans:
+    en: book, record
+vea:
+  trans:
+    en: clothes
+skov:
+  trans:
+    en: cage
+iman:
+  trans:
+    en: road
+    ja: michi

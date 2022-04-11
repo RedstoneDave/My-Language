@@ -6,9 +6,13 @@ bese:
   trans:
     en: skin
   type: s.
+biroh:
+  trans:
+    en: to swell
+  type: b.
 birok:
   trans:
-    en: swell
+    en: to be swollen
   type: m.
 bras:
   trans:
@@ -125,6 +129,16 @@ lakde:
   trans:
     en: horn
   type: s.
+memp:
+  trans:
+    en: to die
+    ja: shinu
+  type: m.
+met:
+  trans:
+    en: to be alive
+    ja: ikite iru
+  type: m.
 miro:
   trans:
     ja: hara
@@ -274,6 +288,11 @@ zase:
   trans:
     en: bone
     ja: hone
+  type: s.
+zazo:
+  trans:
+    en: food
+    ja: tabemono
   type: s.
 zera:
   trans:

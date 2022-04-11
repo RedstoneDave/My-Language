@@ -15,6 +15,10 @@ ecava:
   trans:
     en: cold
     ja: samui
+eyava:
+  trans:
+    en: blunt
+    ja: nibui
 fure:
   trans:
     en: the measure of being thick
@@ -39,6 +43,10 @@ luva:
 niteva:
   trans:
     en: short
+oweva:
+  trans:
+    en: sharp
+    ja: surudoi
 raeva:
   trans:
     en: tall

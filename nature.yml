@@ -11,6 +11,16 @@ fū:
     en: wind
     ja: kaze
   type: s.
+hedak:
+  trans:
+    en: to be frozen
+    ja: kooru; kootte iru
+  type: m.
+hedar:
+  trans:
+    en: to freeze
+    ja: kooru
+  type: b.
 ita:
   trans:
     en: ice
@@ -26,6 +36,16 @@ kre:
     en: water
     ja: mizu
   type: s.
+kref:
+  trans:
+    en: to be flowing; to be running (with water)
+    ja: nagatte iru
+  type: m.
+krep:
+  trans:
+    en: to flow
+    ja: nagaru
+  type: b.
 krora:
   trans:
     en: lake
@@ -49,6 +69,15 @@ nero:
   trans:
     en: sand
   type: s.
+redof:
+  trans:
+    en: to float
+    ja: ukabu
+  type: b.
+relom:
+  trans:
+    en: ukan'de iru
+  type: m.
 reta:
   trans:
     en: rain
@@ -62,6 +91,11 @@ retar:
 ruk:
   trans:
     en: fire
+  type: s.
+rukis:
+  trans:
+    en: to burn
+    ja: moeru
   type: s.
 rukre:
   trans:

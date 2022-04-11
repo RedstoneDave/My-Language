@@ -43,6 +43,7 @@ instead of "mukon"
 
 stative verb = stem 
     | verb, "en"                           # negative form of a verb
+    | verb, "eh"                           # “before” form of a verb
     | verb, "u", stative verb              # verb combined with stative verb
     | stative verb, "e", stative verb      # two stative verbs combined
     | stative verb - ("muk" | "on"), "on"; # negative form of a stative verb

@@ -1,0 +1,45 @@
+fam:
+  type: m.
+  trans:
+    en: to seem
+cam:
+  type: m.
+  trans:
+    en: to sound
+nerak:
+  type: m.
+  trans:
+    en: to hope
+    ja: -tai; -tagaru
+kabas:
+  type: m.
+  trans:
+    en: to smell (as in “to smell like ...”)
+skak:
+  type: m.
+  trans:
+    en: to be afraid of
+    ja: kowagaru
+nayup:
+  trans:
+    en: painful
+    ja: itai
+  type: m.
+skud:
+  trans:
+    en: to live happily and fullfilled
+    ja: shiawase, saiwai
+  type: m.
+vusm:
+  trans:
+    en: satisfied
+  type: m.
+zyavim:
+  trans:
+    en: to be hungry
+  type: m.
+tesam:
+  trans:
+    en: happy
+    ja: tanoshii
+  type: m.

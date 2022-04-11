@@ -2,21 +2,11 @@ beu:
   trans:
     en: the world, the society
   type: s.
-deg:
-  trans:
-    en: umbrella
-    ja: kasa
-  type: s.
 ebus:
   trans:
     en: to change
     ja: kawaru
   type: b.
-edak:
-  trans:
-    en: to be crying
-    ja: naiteru
-  type: m.
 iko:
   trans:
     en: group
@@ -34,29 +24,19 @@ irep:
   trans:
     en: to continue and to preserve
   type: b.
-karit:
-  trans:
-    en: to gnaw
-    ja: kajiru
-  type: b.
 kas:
   trans:
     en: to arise and to fight against
-  type: b.
-kodes:
-  trans:
-    en: to create
-    ja: tsukuru
   type: b.
 kyova:
   trans:
     en: entire / whole / thorough
     ja: subeteno
   type: g.
-lav:
+lus:
   trans:
-    en: book, record
-  type: s.
+    en: to decrease
+    ja: chiisaku naru
 mip:
   trans:
     en: vanish
@@ -66,13 +46,10 @@ mok:
   trans:
     en: to own
   type: m.
-myok:
+mus:
   trans:
-    en: to peel; to take off (cloth)
-  type: b.
-nerac:
-  trans:
-    ja: inoru
+    en: to increase
+    ja: ooku naru
   type: b.
 nost:
   trans:
@@ -82,30 +59,16 @@ pazek:
   trans:
     en: find
   type: b.
-pazes:
-  trans:
-    en: look for
-    ja: sagasu
-  type: b.
-skavip:
-  trans:
-    en: escape
-    ja: nigeru
-  type: b.
 skep:
   trans:
     en: to boil; to surge
     ja: waku
   type: b.
-skov:
+sok:
   trans:
-    en: cage
+    en: name
+    ja: namae
   type: s.
-skuc:
-  trans:
-    en: to smile (from the heart)
-    ja: (kokorokara) hohoemu
-  type: m.
 syava:
   trans:
     en: bright
@@ -115,46 +78,8 @@ taris:
     en: to shine
     ja: kagayaku
   type: m.
-twak:
-  trans:
-    en: to seize; to possess by force
-  type: b.
-utol:
-  trans:
-    en: to work, to produce.
-    ja: hataraku
-  type: b.
-vea:
-  trans:
-    en: clothes
-  type: s.
-vof:
-  trans:
-    en: contain for after use
-  type: b.
-vuk:
-  trans:
-    ja: nuku
-  type: b.
-wap:
-  trans:
-    en: to attempt; to try
 yem:
   trans:
     en: to resemble
     ja: niteiru
-  type: m.
-zazo:
-  trans:
-    en: food
-    ja: tabemono
-  type: s.
-zuk:
-  trans:
-    en: wear, wrap
-    ja: kiru, maku
-  type: b.
-zyavim:
-  trans:
-    en: to be hungry
   type: m.
