@@ -18,6 +18,16 @@ kona:
     en: year
     ja: toshi
   type: s.
+ofanva:
+  trans:
+    en: instant; immediate
+    ja: mamonai
+  type: g.
+omf:
+  trans:
+    en: time span
+    ja: aida
+  type: s.
 rasyu:
   trans:
     en: dawn
@@ -63,13 +73,3 @@ tuya:
     en: month
     ja: getsu
   type: s.
-omf:
-  trans:
-    en: time span
-    ja: aida
-  type: s.
-ofanva:
-  trans:
-    en: instant; immediate
-    ja: mamonai
-  type: g.

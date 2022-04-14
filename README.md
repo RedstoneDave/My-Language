@@ -22,13 +22,13 @@ There are no words that correspond to “good” or “bad”, “right” or �
 
 The table below shows the consonant phonemes of Kratoma.
 
-|             | Bilabial | Labialdental | Alveolar | PastAlveolar | Palatal | Velar | Glottal |
-| ----------- | -------- | ------------ | -------- | ------------ | ------- | ----- | ------- |
-| Plosive     | pʰ b     |              | tʰ d     |              |         | kʰ ɡ  |         |
-| Nasal       | m        |              | n        |              |         |       | N/A     |
-| Fricative   |          | f v          | s z      | ʃ(c) ʒ(l)    |         |       | h       |
-| Tap or flap |          |              | ɾ        |              |         | N/A   | N/A     |
-| Approximant | w        |              |          |              | j(y)    |       | N/A     |
+|             | Bilabial | Labiodental | Alveolar | PastAlveolar | Palatal | Velar | Glottal |
+| ----------- | -------- | ----------- | -------- | ------------ | ------- | ----- | ------- |
+| Plosive     | pʰ b     |             | tʰ d     |              |         | kʰ ɡ  |         |
+| Nasal       | m        |             | n        |              |         |       | N/A     |
+| Fricative   |          | f v         | s z      | ʃ(c) ʒ(l)    |         |       | h       |
+| Tap or flap |          |             | ɾ        |              |         | N/A   | N/A     |
+| Approximant | w        |             |          |              | j(y)    |       | N/A     |
 
 and the list here shows some variations:
 
@@ -39,13 +39,14 @@ and the list here shows some variations:
 - /n\b/ = \[ɴ\]
 - /sʲ/ = \[ɕ\]
 - /zʲ/ = \[ʑ\] or \[d͡ʑ\]
+- /(s)ʒ\b/ = \[(s)t\]
 - /(ptk)ɾ(a)/ = \[(ptk)χ(ɑ)\]
 - /ɾ\b/ = \[l\]
 - /h\b/ = \[x\]
 
 ### Vowels
 
-The table below shows the vowel phonemes of Kratoma. The schwa here is pronounced only when it's hard to pronounce two consonants successively.
+The table below shows the vowel phonemes of Kratoma. The schwa here is pronounced only when it’s hard to pronounce two consonants successively.
 
 |        | Front | Mid | Back |
 | ------ | ----- | --- | ---- |
@@ -63,7 +64,7 @@ There are two writing systems in Kratoma, one is called `hwancuma` (lit. common 
 
 the file of the fonts are to be stored in the repository.
 
-## Word Forms
+## Parts of Speech
 
 Kratoma is an agglutinative language highly relying on case particals and auxiliary words. Basic grammar forms can be found in the file `grammar.ebnf`.
 
@@ -75,7 +76,7 @@ In Kratoma, nouns are called `sokan`, `sokan` is the only type of word that can 
 
 - `fesazu`
   - `zu` indecates the topic, a similar example is the partical “は” in Japanese.
-  - e.g. `fozu raez`, means “I'm tall”, where `fo` is the pronoun “me” and `raez` is the adjective “tall”.
+  - e.g. `fozu raez`, means “I’m tall”, where `fo` is the pronoun “me” and `raez` is the adjective “tall”.
 - `fesasu`
   - `su` indecates the subject (or nominative), a similar example is the partical “が” in Japanese.
   - In dependent clauses, `su` is more frequently used than `zu`
@@ -99,7 +100,7 @@ In Kratoma, nouns are called `sokan`, `sokan` is the only type of word that can 
 - `fesaye`
   - `ye` indecates the ablative, meaning “from”, and the ergative in passive forms (as “by ...” in English)
   - e.g. `fozu zekeye vep` means “I come from there” where `zeke` means “there” and `vep` means “to come”
-  - and `fozu beuye nocins` means “I'm abandoned by the society” where `beu` means “the world” and “the society” and `noc` means “to abandon; to desert”, `-ins` makes a verb passive
+  - and `fozu beuye nocins` means “I’m abandoned by the society” where `beu` means “the world” and “the society” and `noc` means “to abandon; to desert”, `-ins` makes a verb passive
 - `fesawe`
   - `we` indecates the terminative, meaning “until”
   - e.g. `zezu rusyawe furvusk` means “He has been young until today” where `rusya` means “today” and `furva` means “young” and `-usk` means “have been”
@@ -108,7 +109,7 @@ Forms above are the “adverbial” forms that directly modifies the predicate (
 
 - `fesama`
   - `ma` indecates the genetive case (ie. belonging)
-  - e.g. `fesama kasazu udaz` means “Human's legs are long”, in which “leg” is the subject and the topic.
+  - e.g. `fesama kasazu udaz` means “Human’s legs are long”, in which “leg” is the subject and the topic.
 - `fesanuva`
   - `-nuva` after a noun transforms it into an adjective, meaning “like ...” or say “-(l)y” as in “friendly”
   - Examples will be given in the section about adjectives.
@@ -116,7 +117,7 @@ Forms above are the “adverbial” forms that directly modifies the predicate (
   - `-luva` after a noun also transforms it into an adjective, meaning “about”
   - Examples will be given in the section about adjectives.
 
-And `sokan`s can take the part of predicate, such as `fozu fesa`, meaning “I'm human”.
+And `sokan`s can take the part of predicate, such as `fozu fesa`, meaning “I’m human”.
 
 ### Verbs
 
@@ -129,14 +130,14 @@ There are two parts of speech correspond to verbs in English, `burab` and `mosra
   - `-em` basically means “to un(do)” and `vebem` is also a `burab`.
 - `veben`
   - `-en` means “not to do” and `veben` is a `mosrab`.
-  - e.g. `fozu mupen` means “I don't sleep” where `mup` means “to sleep”.
+  - e.g. `fozu mupen` means “I don’t sleep” where `mup` means “to sleep”.
 - `vebeh`
   - `-eh` means “before doing” and `vebeh` is a `mosrab`
   - e.g.
 - `vebins`
   - `-ins` means “to be done” and `vebins` is a `burab`
   - Just in case you forgot this, “by ...” is represented using `ye`
-  - e.g. `fozu beuye nocins` means “I'm abandoned by the society”
+  - e.g. `fozu beuye nocins` means “I’m abandoned by the society”
 - `vebiks`
   - `-iks` means “to let do” and `vebiks` is a `burab`
   - e.g. `fozu zedo mupiks` means “I let him sleep”, notice that “him” here is represented with `do` instead of `bu`
@@ -158,7 +159,7 @@ There are two parts of speech correspond to verbs in English, `burab` and `mosra
   - e.g. `kasai` means “Arise!”, and `retarai` means “Please rain!”
 - `veban`
   - `-an` means negative will or wish.
-  - e.g. `retaran` means “Please don't rain!”
+  - e.g. `retaran` means “Please don’t rain!”
 
 ### Stative Verbs
 
@@ -168,7 +169,7 @@ This section is about `mosrab`, the stative verbs that cannot tell apart “befo
   - `e` after a `mosrab` enables it to join with other words, to modify the predicate and to form a dependent clause, just like `u` after a `burab`
 - `on`
   - `on` means “not to be”, and with words other than `muk`, its straightly used after the word, yet `on` is used instead of `mukon`. `on` is a `mosrab`.
-  - e.g. `fozu kavon` means “I'm not standing” where `kav` means “to be standing”
+  - e.g. `fozu kavon` means “I’m not standing” where `kav` means “to be standing”
 - `mukas`
   - this is the same as the `as` above, representing the absolutive.
 - `mukyu`
@@ -190,7 +191,7 @@ Adjectives have two basic forms, one is the modifier form, the other is the pred
   - e.g. `luvu kasep` means “to walk fast” where `luva` means “fast” and `kasep` means “to walk”
 - `kranava`
   - `-nava` is the negative suffix, and `kranava` means “not blue”
-  - e.g. `fozu furnava` means “I'm not young”
+  - e.g. `fozu furnava` means “I’m not young”
 - `krakseva`
   - `-kseva` is the comparative suffix, and `krakseva` means “more blue”
   - e.g. `krinzu kreye kraksez` means “Krin is more blue than water”, a proverb which means “the younger generation have more energy and opportunities”
@@ -205,7 +206,7 @@ Adjectives have two basic forms, one is the modifier form, the other is the pred
 
 ### Numerals
 
-Numerals in Kratoma are called `unekin`, this word is formed from the words for 1, 2 and 3. However, `unekin` has more words than numbers, concepts like “many” `mo`, “part” `ecu`, “same” `wa`, “common” `hwa` are also `unekin`s. Let's take the word `u` (meaning “one”) for example. Here are the forms of the word.
+Numerals in Kratoma are called `unekin`, this word is formed from the words for 1, 2 and 3. However, `unekin` has more words than numbers, concepts like “many” `mo`, “part” `ecu`, “same” `wa`, “common” `hwa` are also `unekin`s. Let’s take the word `u` (meaning “one”) for example. Here are the forms of the word.
 
 - `un`
   - `-n` enables an `unekin` to modify a noun.
@@ -217,10 +218,57 @@ Numerals in Kratoma are called `unekin`, this word is formed from the words for 
   - `-ceva` transforms an `unekin` into an adjective
   - e.g. `mocekseva` means “more”
 
+### Adverbials
+
+Technically, there is no unique word class “adverb” in Kratoma, the role of adverbs is mostly played by adverbial form of adjectives and partially the stative verbs (such as “always” can be represented using the auxiliary stative verb `vekc`). Yet, some particals can be attached to adverbial forms to adjust their meaning. The topic partical `zu` is usually omitted when having these suffixes. Let’s take the adverbial form `kravu` of the adjective `krava` as an example:
+
+- `kravul`
+  - `-l` means “also; even”, similar to “も” in Japanese. The latter meaning is more often used in (semantically) affirmative expressions.
+  - e.g. `fozu lavbu tesin. zel lavbu tesin` means “I like books, and he also likes books”.
+- `kravusy`
+  - `-sy` means “even; as long as”, similar to “さえ” in Japanese. The first meaning is more often used in (semantically) negative expressions.
+  - When used in a conditional clauses, `-sy` takes the latter meaning “as long as”.
+  - e.g. `fosy zenbu maiveren` means “Even I don’t understand that”, where `maiver` means “to understand”; `fozu zenbusy maiveren` means “I don’t even understand that”. The former implies that “I’m understand a lot of things, but even it’s me, that is too hard to understand”, the latter implies that “That is easy, but I’m too stupid to understand such easy thing”.
+- `kravud`
+  - `-d` means “while”, similar to “…うちに” in Japanese. This implies suitable and optimal circumstances for some action.
+  - e.g. `mipened, epai` means “Set out before it has vanished” (lit. While it doesn’t vanish, go!)
+- `kravuv`
+  - `-v` means “only”, similar to “だけ” in Japanese.
+  - e.g. `fov fonbu vebutez` means “Only I can do this”; `fozu fonbuv vebutez` means “I can only do this”, the difference is as it’s shown in the example in the `-sy` particle.
+- `kravuck`
+  - `-ck` means “(as ...) as ...”, similar to “のように” in Japanese.
+  - e.g. `fozu zesu tezeck vebutez` means “I can do this as he can”; `fozu zesu raevuck raez` means “I’m as tall as he is”.
+
 ## Clauses
 
 Kratoma is predicate-based, every other component in a sentence is analysed to be an adverbial (ie. modifier) of the predicate. The predicate of a clause could be a `sokan`, `burab`, `mosrab` or `-z` form of `gasaru`, as for `unekin`, just add a `-k` to it to form a `sokan`.
 
 ### Independent Clause
 
+A complete sencense has one independent clause, the predicate of which is of the predicate form, and any other component takes some adverbial form to modify the predicate (or some adjective form to modify some noun, but usually, noun phrases are analysed as a whole component).
+
+The order of the components are rather free, and could change as the emphasized component varies, yet the most common order is “SOV”.
+
 ### Dependent Clause
+
+Different from independent clauses, dependent clauses could only have their predicate at the end to avoid potential ambiguity.
+
+#### Adjective Clause
+
+Adjective clauses modify nouns, they come directly before the modified nouns with the predicate part adjacent to it. In case you forgot this, the adjective forms of the parts of speech above are:
+
+- `(sokan)-ma`
+- `(burab)-o`
+- `(mosrab)-i`
+- `(gasaru)(va form)`
+- `(unekin)-n`
+
+#### Simple Adverbial Clause
+
+#### Compond Clause
+
+#### Complex Adverbial Clause
+
+## Other Grammar
+
+check `grammar.md` and `grammar.enbf` for more information.

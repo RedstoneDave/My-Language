@@ -1,41 +1,16 @@
-puk:
+avrova:
   trans:
-    en: full
-  type: m.
-toveva:
-  trans:
-    en: new
-    ja: atarashi
+    en: corrupted; decayed
   type: g.
 deuva:
   trans:
     en: old
     ja: furui
   type: g.
-avrova:
-  trans:
-    en: corrupted; decayed
-  type: g.
-snamva:
-  trans:
-    en: dirty
-    ja: kitanai
-  type: g.
 hiveva:
   trans:
     en: straight
   type: g.
-simuva:
-  trans:
-    en: round
-    ja: marui
-  type: g.
-simak:
-  note: temporary deposit, will be put into “shape.yml”
-  trans:
-    en: circle
-    ja: maru
-  type: s.
 kemeva:
   trans:
     en: slippy
@@ -43,6 +18,31 @@ kemeva:
 kremva:
   trans:
     en: wet
+  type: g.
+puk:
+  trans:
+    en: full
+  type: m.
+simak:
+  note: temporary deposit, will be put into “shape.yml”
+  trans:
+    en: circle
+    ja: maru
+  type: s.
+simuva:
+  trans:
+    en: round
+    ja: marui
+  type: g.
+snamva:
+  trans:
+    en: dirty
+    ja: kitanai
+  type: g.
+toveva:
+  trans:
+    en: new
+    ja: atarashi
   type: g.
 ukryava:
   trans:

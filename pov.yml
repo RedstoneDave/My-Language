@@ -35,7 +35,7 @@ furva:
   type: g.
 hemva:
   trans:
-    en: neet
+    en: neat; clear; clean
     ja: sukkiri
   type: g.
 honub:
@@ -62,7 +62,7 @@ maita:
     ja: omoi
   type: s.
 maizas:
-  trans: 
+  trans:
     en: to know
     ja: shiru / shitte iru
   type: m.
@@ -74,6 +74,10 @@ mokez:
   trans:
     en: to naturally belong to; to be a part of
   type: m.
+nafisva:
+  trans:
+    en: disgusting
+    ja: kirawareta
 naguf:
   trans:
     en: sad
@@ -83,10 +87,6 @@ nagāp:
   trans:
     ja: kirai
   type: m.
-nafisva:
-  trans:
-    en: disgusting
-    ja: kirawareta
 nemva:
   trans:
     en: messy
@@ -129,12 +129,12 @@ wait:
   trans:
     en: agree
   type: m.
-yoti:
-  trans:
-    en: value
-  type: s.
 yotam:
   trans:
     en: to value
     ja: daiji suru
   type: m.
+yoti:
+  trans:
+    en: value
+  type: s.

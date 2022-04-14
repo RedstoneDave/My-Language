@@ -62,6 +62,10 @@ hat:
   trans:
     en: to laugh
     ja: warau
+hazit:
+  trans:
+    en: to take in (from nose); to smell
+    ja: (hanade) suu
 ikesp:
   trans:
     en: to scrach
@@ -95,10 +99,6 @@ kavaf:
 kawak:
   trans:
     en: to cut
-kazit:
-  trans:
-    en: to take in (from nose); to smell
-    ja: (hanade) suu
 kodes:
   trans:
     en: to create
@@ -114,6 +114,10 @@ kruep:
 mait:
   trans:
     en: to think; to consider about
+maiver:
+  trans:
+    en: to understand; to get it
+    ja: wakaru
 maizit:
   trans:
     en: to learn

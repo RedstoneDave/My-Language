@@ -1,226 +1,205 @@
-- # 000
-  - fo                 # vs. I
-  - ka                 # vs. kimi / omae / anata
-  - ze                 # vs. (S)he
-  - fomu / pom         # vs. wǒmen / zánmen
-  - kamu               # vs. kimitachi / omaetachi / anatatachi
-  - zemu               # vs. They
-  - fon / fova         # vs. / vg. This
-  - kan / zen          # vs. sore / are (kava vg. sono / zeva vg. ano)
-  - foke               # vs. Here
-  - kake / zeke        # vs. soko / asoko
-- # 010
-  - nike               # vs. Where
-  - nin / nimva        # vs. / vg. What
-  - nī                 # vs. Who
-  - nigo               # vs. When
-  - -em / -on / -nava  # b. / m. / g. No (na: 0)
-  - nimvu              # vg. (-vu) How
-  - wo                 # u. All
-  - mo                 # u. Many
-  - me                 # u. Some
-  - lo                 # u. Little
-- #020
-  - lai                # u. Other
-  - u                  # u. 1 (ri  6)
-  - ne                 # u. 2 (su  7)
-  - ki                 # u. 3 (fe  8)
-  - do                 # u. 4 (gu  9)
-  - ta                 # u. 5 (da 10)
-  - rusva              # g. Large / tsuyoi (rul Size; rusvan Large-ness)
-  - susva              # g. Small (susvan Small-ness)
-  - udava              # g. Long (uda Length; udavan Long-ness)
-  - dukeva             # g. Wide (duke Width; dukevan Wide-ness)
-- #030
-  - fureva             # g. Thick (fure Thickness; furevan atsusa)
-  - sureva             # g. usui (surevan ususa)
-  - kuneva             # g. Narrow (kunevan Narrowness)
-  - goeva              # g. Heavy (goe Weight; goevani Heaviness)
-  - niteva             # g. Short (nitevan Shortness)
-  - tuzeva             # g. Female (tuzeni josei; tuze on'na-no-hito)
-  - sazeva             # g. Male (sazeni dansei; saze otoko-no-hito)
-  - fuco               # s. Child
-  - fesa               # s. Human
-  - zera               # s. Partner
-- #040
-  - zera               # ---
-  - vyompwalolin       # s. Parent
-  - vyompwalolin       # ---
-  - rumol              # s. Animal
-  - kila               # s. Fish
-  - tovra              # s. Bird
-  - yaula              # s. Dog
-  - kibro              # s. Louse
-  - sugro              # s. Snake
-  - gwiro              # s. Bug
-- #050
-  - reca               # s. Tree
-  - mocamu             # s. Wood / Forest
-  - cade               # s. Stick
-  - cagtu              # s. Fruit
-  - caco               # s. Seed
-  - ra                 # s. Leaf
-  - cabe               # s. Bark
-  - pabu               # s. Flower
-  - pabo               # s. Grass
-  - bosi               # s. Rope
-- #060
-  - bese               # s. Skin
-  - duse               # s. Meat
-  - ruse / rusip       # s. Blood / b. Bleed
-  - zase               # s. Bone
-  - tusa / tusava      # s. / g. Fat
-  - cotfa              # s. Egg
-  - lakde              # s. Horn
-  - cebo               # s. Tail
-  - tora               # s. Feather
-  - ham                # s. Hair
-- #070
-  - carit              # s. Ear
-  - farit              # s. Eye
-  - karit              # s. Nose
-  - torit              # s. Mouth
-  - toza               # s. Teeth
-  - tokar              # s. Tongue
-  - yukar              # s. Finger
-  - kasda              # s. Foot
-  - kasa               # s. Leg
-  - kasma              # s. Knee
-- #080
-  - yusi               # s. Hand
-  - tofayu             # s. Wing
-  - miro               # s. hara
-  - minta              # s. Bowel
-  - koru               # s. Neck
-  - habe               # s. Back
-  - cov                # s. Breast
-  - run'ya             # s. Heart
-  - kan'ya             # s. Liver
-  - karzit             # b. nomu
-- #090
-  - zazit              # b. taberu
-  - zakat              # b. Bite
-  - rizit              # b. suu (kazit hanade suu; tozit kuchide suu)
-  - totat              # b. haku
-  - (rusvu) totat      # b. Vomit
-  - totat              # b. fuku
-  - zitat              # b. Breathe
-  - hat                # b. Laugh
-  - fas / fam          # b. miru / m. Seem (as in "seems good")
-  - cas / cam          # b. kiku / m. Sound (as in "sounds good")
-- #100
-  - maizit / maizas    # b. manabu / m. shitteru
-  - mait / nerak       # b. omou / m. (..tai / ..tagaru / Hope)
-  - kazit / kabas      # b. / m. Smell
-  - skak               # m. Afraid
-  - mup / muf          # b. / m. Sleep
-  - met                # m. Live
-  - memp               # b. Die # brep b. stop
-  - memaz              # b. Kill
-  - wakit              # b. Fight
-  - sesk               # b. Hunt
-- #110
-  - wak                # b. Hit
-  - kawak              # b. Cut
-  - kavaf              # b. Split
-  - cet                # b. Stick
-  - ikesp              # b. Scrach
-  - basit              # b. Dig
-  - kruep              # b. Swim
-  - tofep              # b. Fly
-  - kasep / ep         # b. Walk / yuku
-  - vep                # b. kuru
-- #120
-  - muvat              # b. fusu
-  - bodak              # b. suwaru
-  - kas / kav          # b. / m. tatsu
-  - rasdas             # b. mawaru
-  - dotar              # b. ochiru
-  - usat               # b. ageru
-  - ivak               # b. Take
-  - gutan              # b. Squeeze
-  - stip               # b. Mill / Rub / Grind
-  - krak               # b. Wash
-- #130
-  - tam                # b. Wipe
-  - zad                # b. Pull
-  - dat                # b. Push
-  - noc                # b. suteru
-  - vas                # b. Tie
-  - nuv                # b. Sew
-  - cam                # b. Count / Write Down
-  - tom                # b. Talk
-  - ocom               # b. Sing
-  - gic                # b. Play
-- #140
-  - redof / relom      # b. / m. ukabu
-  - kref / krep        # m. / b. nagaru
-  - hedar              # b. Freeze
-  - birok              # m. Swell
-  - saya               # s. Sun
-  - tuya               # s. Moon
-  - suya               # s. Star
-  - kre                # s. Water
-  - reta / retar       # s. / b. Rain
-  - krosi              # s. River
-- #150
-  - krora              # s. Lake
-  - krov               # s. umi
-  - vem                # s. shiwo
-  - vifra              # s. ishi (vimva g. Hard)
-  - nero               # s. Sand
-  - snen               # s. Dust
-  - mek                # s. Land
-  - tarin              # s. kumo
-  - trak               # s. kiri
-  - yal                # s. sora
-- #160
-  - fū                 # s. kaze
-  - itram              # s. yuki
-  - ita                # s. Ice
-  - tram               # s. Smoke
-  - ruk                # s. Fire
-  - trasn              # s. Ash
-  - rukis              # b. Burn
-  - iman               # s. Road
-  - rik                # s. yama (raeva g. takai)
-  - rum                # s. aka (rumva g. akai)
-- #170
-  - rai                # s. Green (raiva g. Green)
-  - lea                # s. Yellow (leava g. Yellow; le s. old Leaf)
-  - tri                # s. shiro (triva g. shiroi)
-  - tas                # s. kuro (tasva g. kuroi)
-  - suya               # s. Night
-  - saya               # s. Day
-  - kona               # s. Year (tuya s. Month)
-  - saeva              # g. atatakai (roava g. atsui)
-  - remva              # g. suzushii (ecava g. samui)
-  - puk / pokis        # m. Full / Enough / b. mitasu
-- # 180
-  - toveva             # g. atarashi
-  - deuva              # g. furui
+- - fo
+  - ka
+  - ze
+  - fomu / pom
+  - kamu
+  - zemu
+  - fon / fova
+  - kan / zen
+  - foke
+  - kake / zeke
+- - nike
+  - nin / nimva
+  - nī
+  - nigo
+  - '-em / -on / -nava'
+  - nimvu
+  - wo
+  - mo
+  - me
+  - lo
+- - lai
+  - u
+  - ne
+  - ki
+  - do
+  - ta
+  - rusva
+  - susva
+  - udava
+  - dukeva
+- - fureva
+  - sureva
+  - kuneva
+  - goeva
+  - niteva
+  - tuzeva
+  - sazeva
+  - fuco
+  - fesa
+  - zera
+- - zera
+  - vyompwalolin
+  - vyompwalolin
+  - rumol
+  - kila
+  - tovra
+  - yaula
+  - kibro
+  - sugro
+  - gwiro
+- - reca
+  - mocamu
+  - cade
+  - cagtu
+  - caco
+  - ra
+  - cabe
+  - pabu
+  - pabo
+  - bosi
+- - bese
+  - duse
+  - ruse / rusip
+  - zase
+  - tusa / tusava
+  - cotfa
+  - lakde
+  - cebo
+  - tora
+  - ham
+- - cari
+  - fari
+  - hari
+  - tori
+  - toza
+  - tokar
+  - yukar
+  - kasda
+  - kasa
+  - kasma
+- - yusi
+  - tofayu
+  - miro
+  - minta
+  - koru
+  - habe
+  - cov
+  - run'ya
+  - kan'ya
+  - karzit
+- - zazit
+  - zakat
+  - rizit
+  - totat
+  - (rusvu) totat
+  - totat
+  - zitat
+  - hat
+  - fas / fam
+  - cas / cam
+- - maizit / maizas
+  - mait / nyak
+  - kazit / kabas
+  - skak
+  - mup / muf
+  - met
+  - memp
+  - memaz
+  - wakit
+  - sesk
+- - wak
+  - kawak
+  - kavaf
+  - cet
+  - ikesp
+  - basit
+  - kruep
+  - tofep
+  - kasep / ep
+  - vep
+- - muvat
+  - bodak
+  - kas / kav
+  - rasdas
+  - dotar
+  - usat
+  - ivak
+  - gutan
+  - stip
+  - krak
+- - tam
+  - zad
+  - dat
+  - noc
+  - vas
+  - nuv
+  - cam
+  - tom
+  - ocom
+  - gic
+- - redof / relom
+  - kref / krep
+  - hedar
+  - birok
+  - saya
+  - tuya
+  - suya
+  - kre
+  - reta / retar
+  - krosi
+- - krora
+  - krov
+  - vem
+  - vifra
+  - nero
+  - snen
+  - mek
+  - tarin
+  - trak
+  - yal
+- - fū
+  - itram
+  - ita
+  - tram
+  - ruk
+  - trasn
+  - rukis
+  - iman
+  - rik
+  - rum
+- - rai
+  - lea
+  - tri
+  - tas
+  - suya
+  - saya
+  - kona
+  - saeva
+  - remva
+  - puk / pokis
+- - toveva
+  - deuva
   - N/A
   - N/A
-  - avrova             # g. Corrupted
-  - snamva             # g. Dirty
-  - hiveva             # g. Straight
-  - simuva             # g. Round (simak s. Circle)
-  - oweva              # g. surudoi
-  - eyava              # g. nibui
-- #190
-  - kemeva             # g. Slippy
-  - kremva             # g. Wet
-  - ukryava            # g. Dry
+  - avrova
+  - snamva
+  - hiveva
+  - simuva
+  - oweva
+  - eyava
+- - kemeva
+  - kremva
+  - ukryava
   - N/A
-  - okava              # g. chikai
-  - virava             # g. tooi
-  - wateva             # g. Right (wat s. Right)
-  - yedava             # g. Left (yed s. Left)
-  - muk                # m. aru
-  - dosa               # s. naka
-- #200
-  - fu / sem           # With / Using
-  - fu                 # And
-  - vi                 # If
-  - vo                 # As
-  - sok                # s. Name
+  - okava
+  - virava
+  - wateva
+  - yedava
+  - muk
+  - dosa
+- - fu / sem
+  - fu
+  - vi
+  - vo
+  - sok

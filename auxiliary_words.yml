@@ -50,9 +50,8 @@ r:
   type: b.
   usage: m. conj form + ~
 sk:
-  note: >
-    the difference of the termination spot between past and future
-    could be shown by a time adverbial
+  note: |
+    the difference of the termination spot between past and future could be shown by a time adverbial
   trans:
     en: used to do / have been doing
     ja: '-ta koto aru / (..made) -te iru'
@@ -73,7 +72,7 @@ tez:
 vekc:
   note: indecates concluded truth instead of rules
   trans:
-    en: must
+    en: must; always
     ja: beshi
   type: m.
   usage: conj form + ~

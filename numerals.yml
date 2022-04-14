@@ -1,29 +1,161 @@
-'0': na
-'1': u
-'10': da
-'100': mu
-'1000': ke
-'10000': de
-'100000': to
-'2': ne
-'3': ki
-'4': do
-'5': ta
-'6': ri
-'7': su
-'8': fe
-'9': gu
-all: wo
-another: le
-any: myu
-common: hwa
-half: acu
-little: lo
-many: mo
-negative: fra
-ordinal: lwa
-other: lai
-part: ecu
-same: wa
-some: me
-whole: edri
+__default__:
+  type: u.
+acu:
+  operands: 0
+  trans:
+    en: half
+    ja: hanbun
+da:
+  operands: 0
+  trans:
+    en: ten, 10
+    ja: too, juu
+de:
+  operands: 0
+  trans:
+    en: ten thousand, 10000
+    ja: man
+do:
+  operands: 0
+  trans:
+    en: four, 4
+    ja: yon, shi
+ecu:
+  operands: 0
+  trans:
+    en: part
+    ja: ippo
+edri:
+  operands: 0
+  trans:
+    en: whole
+fai:
+  expression: x, y -> x + y
+  operands: 2
+  trans:
+    en: plus
+    ja: tasu
+fe:
+  operands: 0
+  trans:
+    en: eight, 8
+    ja: ya, hachi
+fra:
+  operands: 1
+  trans:
+    en: negative; addictive inverse
+    ja: fuku
+fri:
+  operands: 1
+  trans:
+    en: multiplicative inverse
+gu:
+  operands: 0
+  trans:
+    en: nine, 9
+    ja: kokono, kyuu
+hwa:
+  operands: 0
+  trans:
+    en: common
+    ja: tomona
+ke:
+  operands: 0
+  trans:
+    en: thousand, 1000
+    ja: sen
+ki:
+  operands: 0
+  trans:
+    en: three, 3
+    ja: mi, san
+lai:
+  operands: 0
+  trans:
+    en: other
+    ja: hokano
+le:
+  operands: 0
+  trans:
+    en: another
+    ja: hokano (hitotsu)
+lo:
+  operands: 0
+  trans:
+    en: little
+    ja: sukoku
+lwa:
+  operands: 1
+  trans:
+    en: ordinal, -th
+    ja: dai-
+me:
+  operands: 0
+  trans:
+    en: some
+mo:
+  operands: 0
+  trans:
+    en: many
+    ja: ooku
+mu:
+  operands: 0
+  trans:
+    en: hundred, 100
+    ja: hyaku
+myu:
+  operands: 0
+  trans:
+    en: any
+    ja: nin'i na
+na:
+  operands: 0
+  trans:
+    en: no, 0
+ne:
+  operands: 0
+  trans:
+    en: two, 2
+    ja: futa, ni
+ri:
+  operands: 0
+  trans:
+    en: six, 6
+    ja: mui, roku
+su:
+  operands: 0
+  trans:
+    en: seven, 7
+    ja: nana, shichi
+ta:
+  operands: 0
+  trans:
+    en: five, 5
+    ja: itsu, go
+to:
+  expression: x, y -> 100000*x + y
+  operands: 2
+  trans:
+    en: hundred thousand, 100000
+    ja: juuman
+u:
+  operands: 0
+  trans:
+    en: one, 1
+    ja: hito, ichi
+wa:
+  operands: 0
+  trans:
+    en: same
+    ja: onaji
+wi:
+  expression: x, y -> x * y
+  operands: 2
+  trans:
+    en: multiply
+    ja: kakeru
+wo:
+  operands: 0
+  trans:
+    en: all
+    ja: subete

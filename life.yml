@@ -35,7 +35,7 @@ cagatu:
     en: fruit
     ja: kudamono
   type: s.
-carit:
+cari:
   trans:
     en: ear
     ja: mimi
@@ -62,7 +62,7 @@ dwiro:
     en: parasitic animals; parasite
     ja: kiseibutsu
   type: s.
-farit:
+fari:
   trans:
     en: eye
     ja: me
@@ -91,14 +91,14 @@ ham:
     en: hair
     ja: kami
   type: s.
-kan'ya:
-  trans:
-    en: liver
-  type: s.
-karit:
+hari:
   trans:
     en: nose
     ja: hana
+  type: s.
+kan'ya:
+  trans:
+    en: liver
   type: s.
 kasa:
   trans:
@@ -128,6 +128,11 @@ koru:
 lakde:
   trans:
     en: horn
+  type: s.
+mek:
+  trans:
+    en: head
+    ja: atama
   type: s.
 memp:
   trans:
@@ -228,7 +233,7 @@ tora:
   trans:
     en: feather
   type: s.
-torit:
+tori:
   trans:
     en: mouth
     ja: kuchi

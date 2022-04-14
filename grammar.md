@@ -18,3 +18,11 @@ A reflexive prefix could be added to a verb or stative verb to indecate the accu
 This consept is similar to the “noun clause” in English, however, “plug-in” clauses can take place of any part of speech. This allows speakers to refer to some uncertain actions or properties without the form of auxiliary verbs with nouns.
 
 The “plug-in” words are `bru` for `sokan` and `unekin`, `brub` for `burab`, `bruk` for `mosrab` and `bruva` for `gasaru`. A clause with a “plug-in” word can change the predicate into the “complex type” (the one used in the conditional clause) and add an `-m` to it to modify the same “plug-in” word.
+
+## Numeral Combination Rule
+
+As one of the characteristic pieces of grammar, `unekin`s take a special rule to combine together.
+
+For numbers less than a hundred thousand, distinct words are used, these words are formed using a rule similar to that of Chinese, each decimal digit joins with the power of ten and those are connected together. For example: the number `1926` is `ukegumunedari` (1-thousand-9-hundred-2-ten-6), each syllable stands for a part.
+
+Along with “pure” numerals that can stand alone, there are “operating” numerals that need one or more numbers to form complete structures. For example, in order to represent lare numbers like `998244353`, the operator `to` is used, this operator takes two numbers `x` and `y`and returns `x*100000+y`, and `998244353` is `gukegumufedane dodedokekimutadaki to`. Other operating numerals include “plus”, “multiply”.
