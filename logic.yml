@@ -1,0 +1,15 @@
+hamuk:
+  trans:
+    en: equal
+  type: m.
+medo:
+  trans:
+    en: Logic
+  type: s.
+medopat:
+  note: >
+    This is the logical truth value, means a self-consistency or satisfication to some condition,
+    neither philosophical nor political point of view is represented by this word
+  trans:
+    en: "true"
+  type: s.

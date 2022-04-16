@@ -129,6 +129,10 @@ lakde:
   trans:
     en: horn
   type: s.
+mebaz:
+  trans:
+    en: dying
+  type: m.
 mek:
   trans:
     en: head
@@ -266,6 +270,16 @@ tuzeva:
   trans:
     en: female
   type: g.
+uri:
+  trans:
+    en: face
+    ja: kao
+  type: s.
+vemos:
+  trans:
+    en: to be born; to have life
+    ja: umareru
+  type: b.
 vyomp:
   trans:
     en: to give birth to

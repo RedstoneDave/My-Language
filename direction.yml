@@ -1,6 +1,10 @@
 __default__:
   type: s.
 __doc__: The direction nouns can add a "-va" to it to become a gasaru
+cten:
+  trans:
+    en: back
+    ja: ushiro
 daz:
   trans:
     en: bottom
@@ -9,6 +13,14 @@ dosa:
   trans:
     en: mid
     ja: naka
+hyat:
+  trans:
+    en: front
+    ja: mae
+kad:
+  trans:
+    en: south
+    ja: minami
 kof:
   trans:
     en: north
@@ -22,6 +34,10 @@ rag:
   trans:
     en: top
     ja: ue
+sad:
+  trans:
+    en: west
+    ja: nishi
 sal:
   trans:
     en: east

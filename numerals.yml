@@ -41,14 +41,28 @@ fe:
     en: eight, 8
     ja: ya, hachi
 fra:
+  expression: x -> -x
   operands: 1
   trans:
     en: negative; addictive inverse
     ja: fuku
+frau:
+  expression: x, y -> x - y
+  operands: 2
+  trans:
+    en: minus
+    ja: hiku
 fri:
+  expression: x -> 1 / x
   operands: 1
   trans:
     en: multiplicative inverse
+fryu:
+  expression: x, y -> x / y
+  operands: 2
+  trans:
+    en: divide
+    ja: waru
 gu:
   operands: 0
   trans:

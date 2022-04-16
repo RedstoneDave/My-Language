@@ -218,6 +218,8 @@ Numerals in Kratoma are called `unekin`, this word is formed from the words for 
   - `-ceva` transforms an `unekin` into an adjective
   - e.g. `mocekseva` means “more”
 
+More information about Numerals is shown in `grammar.md` section `Numeral Combination Rule`.
+
 ### Adverbials
 
 Technically, there is no unique word class “adverb” in Kratoma, the role of adverbs is mostly played by adverbial form of adjectives and partially the stative verbs (such as “always” can be represented using the auxiliary stative verb `vekc`). Yet, some particals can be attached to adverbial forms to adjust their meaning. The topic partical `zu` is usually omitted when having these suffixes. Let’s take the adverbial form `kravu` of the adjective `krava` as an example:
@@ -265,7 +267,7 @@ Adjective clauses modify nouns, they come directly before the modified nouns wit
 
 #### Simple Adverbial Clause
 
-#### Compond Clause
+#### Compound Clause
 
 #### Complex Adverbial Clause
 

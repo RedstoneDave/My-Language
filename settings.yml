@@ -1,0 +1,18 @@
+dictionaries:
+  - artificial.yml
+  - auxiliary_words.yml
+  - behaviour.yml
+  - colors.yml
+  - direction.yml
+  - feeling.yml
+  - krin.yml
+  - life.yml
+  - logic.yml
+  - nature.yml
+  - numerals.yml
+  - physical_property.yml
+  - pov.yml
+  - pronoun.yml
+  - status.yml
+  - time.yml
+  - unclassified_new.yml

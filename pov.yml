@@ -41,10 +41,16 @@ hemva:
 honub:
   trans:
     en: to mess up with; to disturb
+  type: b.
 hwava:
   note: usu. approbative
   trans:
     en: common; normal; majority
+  type: g.
+ikac:
+  trans:
+    en: to enlighten; to make ... a complete man
+  type: b.
 irenva:
   note: usu. pejorative
   trans:
@@ -55,7 +61,7 @@ maik:
   trans:
     en: to think
     ja: omou
-  type: b.
+  type: m.
 maita:
   trans:
     en: thought
@@ -66,10 +72,15 @@ maizas:
     en: to know
     ja: shiru / shitte iru
   type: m.
-medo:
+mayek:
+  note: “mayek” is of less confidence than “maik”
   trans:
-    en: Logic
-  type: s.
+    en: to think; to guess
+  type: m.
+mebeva:
+  trans:
+    en: last; before death
+  type: g.
 mokez:
   trans:
     en: to naturally belong to; to be a part of
@@ -78,11 +89,7 @@ nafisva:
   trans:
     en: disgusting
     ja: kirawareta
-naguf:
-  trans:
-    en: sad
-    ja: kanashii
-  type: m.
+  type: g.
 nagāp:
   trans:
     ja: kirai
@@ -125,6 +132,11 @@ vaswa:
   trans:
     en: view
   type: s.
+veova:
+  trans:
+    en: new, young, with hope
+    ja: shin
+  type: g.
 wait:
   trans:
     en: agree

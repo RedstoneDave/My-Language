@@ -10,6 +10,11 @@ kabas:
   trans:
     en: to smell (as in “to smell like ...”)
   type: m.
+naguf:
+  trans:
+    en: sad
+    ja: kanashii
+  type: m.
 nayup:
   trans:
     en: painful
@@ -17,7 +22,7 @@ nayup:
   type: m.
 nyak:
   trans:
-    en: to hope
+    en: to hope; to wish
     ja: '-tai; -tagaru'
   type: m.
 skak:
