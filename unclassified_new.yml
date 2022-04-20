@@ -37,6 +37,15 @@ lus:
   trans:
     en: to decrease
     ja: chiisaku naru
+  type: b.
+mefava:
+  trans:
+    en: to be deadly quiet
+  type: g.
+mifno:
+  trans:
+    en: ruin
+  type: s.
 mip:
   trans:
     en: vanish
@@ -51,6 +60,10 @@ mus:
     en: to increase
     ja: ooku naru
   type: b.
+myut:
+  trans:
+    en: to lose
+    ja: ushinau
 nost:
   trans:
     en: to give up
@@ -59,6 +72,10 @@ pazek:
   trans:
     en: find
   type: b.
+ratreva:
+  trans:
+    en: pure
+  type: g.
 skep:
   trans:
     en: to boil; to surge
@@ -78,6 +95,9 @@ taris:
     en: to shine
     ja: kagayaku
   type: m.
+traswa:
+  trans:
+    ja: kurayami
 yem:
   trans:
     en: to resemble

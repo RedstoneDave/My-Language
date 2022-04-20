@@ -2,6 +2,11 @@ avrova:
   trans:
     en: corrupted; decayed
   type: g.
+bosak:
+  trans:
+    en: to be connected
+    ja: tsunagatte iru
+  type: m.
 deuva:
   trans:
     en: old
@@ -18,6 +23,10 @@ kemeva:
 kremva:
   trans:
     en: wet
+  type: g.
+mebusva:
+  trans:
+    en: faint; of little strength; weak
   type: g.
 puk:
   trans:

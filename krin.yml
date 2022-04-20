@@ -7,6 +7,8 @@ krim:
     en: to cast a krin
   type: b.
 krin:
+  lit:
+    zh: 克林; 灵
   type: s.
 krinaf:
   lit:
@@ -20,6 +22,10 @@ krink:
   trans:
     en: with krin
   type: m.
+krinyut:
+  trans:
+    en: to lose krin
+  type: b.
 kritom:
   trans:
     en: to cast a spell of krin
@@ -28,3 +34,6 @@ krov:
   trans:
     en: krin container
   type: s.
+kryufra:
+  trans:
+    en: stone capable of containing krin, a stone with krin.

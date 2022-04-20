@@ -3,6 +3,10 @@ __default__:
 basit:
   trans:
     en: to dig
+boseb:
+  trans:
+    en: to connect
+    ja: tsunagaru
 bodak:
   trans:
     en: to sit down
@@ -163,6 +167,10 @@ ocom:
   trans:
     en: to sing
     ja: utau
+otap:
+  trans:
+    en: to travel
+    ja: tabiwo suru
 pazes:
   trans:
     en: look for
@@ -234,6 +242,9 @@ vep:
   trans:
     en: to come
     ja: kuru
+vistam:
+  trans:
+    en: to carve
 vof:
   trans:
     en: contain for after use

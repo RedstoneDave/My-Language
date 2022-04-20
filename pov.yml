@@ -6,6 +6,10 @@ avrova:
   trans:
     en: out-of-date, harmful
   type: g.
+catva:
+  trans:
+    en: easy
+    ja: yasashii; -yasui
 cem:
   trans:
     en: to fit
@@ -141,6 +145,10 @@ wait:
   trans:
     en: agree
   type: m.
+watva:
+  trans:
+    en: difficult
+    ja: muzukashi; -nikui
 yotam:
   trans:
     en: to value

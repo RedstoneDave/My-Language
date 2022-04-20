@@ -114,11 +114,17 @@ snen:
   trans:
     en: dust
   type: s.
+susi:
+  trans:
+    en: the milky way
 suya:
   trans:
     en: star
     ja: hoshi
   type: s.
+switar:
+  trans:
+    en: starlight
 tarin:
   trans:
     en: cloud
@@ -142,6 +148,10 @@ tuya:
     en: moon
     ja: tsuki
   type: s.
+ukryap:
+  trans:
+    en: to dry out
+  type: b.
 vem:
   trans:
     en: salt

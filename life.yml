@@ -143,6 +143,11 @@ memp:
     en: to die
     ja: shinu
   type: m.
+meso:
+  trans:
+    en: life
+    ja: jinsei
+  type: s.
 met:
   trans:
     en: to be alive
