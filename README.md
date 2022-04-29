@@ -36,13 +36,17 @@ and the list here shows some variations:
 - /m(a)/ = \[β(a)\]
 - /m(fv)/ = \[ɱ(fv)\]
 - /n(kɡ)/ = \[ŋ(kɡ)\]
+- /tʲ/ = \[t͡ɕʰ\]
+- /dʲ/ = \[d͡ʑ\]
 - /n\b/ = \[ɴ\]
 - /sʲ/ = \[ɕ\]
-- /zʲ/ = \[ʑ\] or \[d͡ʑ\]
+- /zʲ/ = \[ʑ\]
 - /(s)ʒ\b/ = \[(s)t\]
 - /(ptk)ɾ(a)/ = \[(ptk)χ(ɑ)\]
-- /ɾ\b/ = \[l\]
+- /ɾ\b/ = \[ʁ\]
 - /h\b/ = \[x\]
+- /hʲ/ = \[ç\]
+- /hʷ/ = \[x\]
 
 ### Vowels
 
@@ -56,7 +60,7 @@ The table below shows the vowel phonemes of Kratoma. The schwa here is pronounce
 
 and the list here shows some variations:
 
-- /(j)ɯ/ = \[(j)ɨ\]
+- /(jcl)ɯ/ = \[(j)ɨ\]
 
 ## Orthography
 

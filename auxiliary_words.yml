@@ -38,6 +38,12 @@ nak:
     ja: '-te iru'
   type: m.
   usage: b. conj form + ~
+nih:
+  trans:
+    en: re-
+    ja: '-naosu'
+  type: b.
+  usage: b. conj form + ~
 nk:
   trans:
     en: to go on

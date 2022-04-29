@@ -37,6 +37,10 @@ furva:
     en: young (and naïve)
     ja: osanai
   type: g.
+gwah:
+  trans:
+    en: the same as before
+  type: m.
 hemva:
   trans:
     en: neat; clear; clean
@@ -85,6 +89,11 @@ mebeva:
   trans:
     en: last; before death
   type: g.
+meder:
+  trans:
+    en: ignorant, dump
+    ja: baka
+  type: m.
 mokez:
   trans:
     en: to naturally belong to; to be a part of
@@ -103,6 +112,10 @@ nemva:
     en: messy
     ja: konran
   type: g.
+nwah:
+  trans:
+    en: different from before
+  type: m.
 pat:
   trans:
     en: to meet
