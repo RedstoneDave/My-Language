@@ -28,6 +28,20 @@ omf:
     en: time span
     ja: aida
   type: s.
+paku:
+  trans:
+    en: just now
+    ja: tada ima
+  type: s.
+patse:
+  trans:
+    en: right now
+    ja: ima sugu
+pau:
+  trans:
+    en: now
+    ja: ima
+  type: s.
 rasyu:
   trans:
     en: dawn

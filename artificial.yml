@@ -15,6 +15,9 @@ iman:
 lav:
   trans:
     en: book, record
+ovi:
+  trans:
+    en: knife
 skov:
   trans:
     en: cage

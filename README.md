@@ -60,7 +60,9 @@ The table below shows the vowel phonemes of Kratoma. The schwa here is pronounce
 
 and the list here shows some variations:
 
-- /(jcl)ɯ/ = \[(j)ɨ\]
+- /(jʃʒ)ɯ/ = \[(jʃʒ)ʉ\]
+- /(jʃʒ)i/ = \[(jʃʒ)ɨ\]
+- /(td)ɯ/ = \[(td)y͑\]
 
 ## Orthography
 

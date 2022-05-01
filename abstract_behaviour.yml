@@ -1,0 +1,83 @@
+__default__:
+  type: b.
+boseb:
+  trans:
+    en: to connect
+    ja: tsunagaru
+brep:
+  trans:
+    en: to stop
+    ja: tomaru / tomeru
+dyan:
+  trans:
+    en: to worship (esp. with out mind)
+  type: m.
+ebus:
+  trans:
+    en: to change
+    ja: kawaru
+harev:
+  trans:
+    en: to mimic, to play some role
+ikwas:
+  trans:
+    en: to unite
+irep:
+  trans:
+    en: to continue and to preserve
+kas:
+  trans:
+    en: to arise and to fight against
+lus:
+  trans:
+    en: to decrease
+    ja: chiisaku naru
+mait:
+  trans:
+    en: to think; to consider about
+maiver:
+  trans:
+    en: to understand; to get it
+    ja: wakaru
+megat:
+  trans:
+    en: to help; to save
+    ja: tasukeru
+mip:
+  trans:
+    en: to vanish
+    ja: kieru
+mus:
+  trans:
+    en: to increase
+    ja: ooku naru
+myut:
+  trans:
+    en: to lose
+    ja: ushinau
+nost:
+  trans:
+    en: to give up
+ovov:
+  trans:
+    en: to threaten
+pazek:
+  trans:
+    en: to find
+twak:
+  trans:
+    en: to seize; to possess by force
+utol:
+  trans:
+    en: to work, to produce
+    ja: hataraku
+veb:
+  trans:
+    en: to do, to act
+    ja: suru
+vimos:
+  trans:
+    en: to become determined, to harden one's heart
+wap:
+  trans:
+    en: to attempt; to try

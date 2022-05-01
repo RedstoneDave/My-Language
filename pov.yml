@@ -125,6 +125,10 @@ puk:
   trans:
     en: enough
   type: m.
+rasva:
+  trans:
+    en: powerful
+  type: g.
 rasyava:
   trans:
     en: final; before victory

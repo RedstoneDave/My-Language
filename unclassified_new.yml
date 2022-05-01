@@ -2,42 +2,20 @@ beu:
   trans:
     en: the world, the society
   type: s.
-ebus:
-  trans:
-    en: to change
-    ja: kawaru
-  type: b.
 iko:
   trans:
     en: group
   type: s.
-ikwas:
-  trans:
-    en: to unite
-  type: b.
 ireg:
   trans:
     en: god
     ja: kami
   type: s.
-irep:
-  trans:
-    en: to continue and to preserve
-  type: b.
-kas:
-  trans:
-    en: to arise and to fight against
-  type: b.
 kyova:
   trans:
     en: entire / whole / thorough
     ja: subeteno
   type: g.
-lus:
-  trans:
-    en: to decrease
-    ja: chiisaku naru
-  type: b.
 mefava:
   trans:
     en: to be deadly quiet
@@ -46,32 +24,10 @@ mifno:
   trans:
     en: ruin
   type: s.
-mip:
-  trans:
-    en: vanish
-    ja: kieru
-  type: b.
 mok:
   trans:
     en: to own
   type: m.
-mus:
-  trans:
-    en: to increase
-    ja: ooku naru
-  type: b.
-myut:
-  trans:
-    en: to lose
-    ja: ushinau
-nost:
-  trans:
-    en: to give up
-  type: b.
-pazek:
-  trans:
-    en: find
-  type: b.
 ratreva:
   trans:
     en: pure
@@ -103,3 +59,8 @@ yem:
     en: to resemble
     ja: niteiru
   type: m.
+yosai:
+  trans:
+    en: muscle, power
+    ja: chikara
+  type: s.

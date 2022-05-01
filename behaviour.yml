@@ -3,10 +3,6 @@ __default__:
 basit:
   trans:
     en: to dig
-boseb:
-  trans:
-    en: to connect
-    ja: tsunagaru
 bodak:
   trans:
     en: to sit down
@@ -16,10 +12,6 @@ bodask:
     en: to be sitting
     ja: suwatte iru
   type: m.
-brep:
-  trans:
-    en: to stop
-    ja: tomaru / tomeru
 cam:
   trans:
     en: to count; to write down
@@ -38,10 +30,6 @@ dotar:
   trans:
     en: to fall
     ja: ochiru
-dyan:
-  trans:
-    en: to worship (esp. with out mind)
-  type: m.
 edak:
   trans:
     en: to be crying
@@ -66,9 +54,6 @@ hat:
   trans:
     en: to laugh
     ja: warau
-harev:
-  trans:
-    en: to mimic, to play some role
 hazit:
   trans:
     en: to take in (from nose); to smell
@@ -118,13 +103,6 @@ kruep:
   trans:
     en: to swim
     ja: oyogu
-mait:
-  trans:
-    en: to think; to consider about
-maiver:
-  trans:
-    en: to understand; to get it
-    ja: wakaru
 maizit:
   trans:
     en: to learn
@@ -132,10 +110,6 @@ maizit:
 mayet:
   trans:
     en: to guess; to guess about
-megat:
-  trans:
-    en: to help; to save
-    ja: tasukeru
 memaz:
   trans:
     en: to kill
@@ -227,17 +201,10 @@ tozit:
   trans:
     en: to take in (from mouth)
     ja: (kuchide) suu
-twak:
-  trans:
-    en: to seize; to possess by force
 usat:
   trans:
     en: to give
     ja: ageru; kureru
-utol:
-  trans:
-    en: to work, to produce.
-    ja: hataraku
 vas:
   trans:
     en: to tie
@@ -261,9 +228,6 @@ wakit:
   trans:
     en: to fight
     ja: tatakau
-wap:
-  trans:
-    en: to attempt; to try
 zad:
   trans:
     en: to pull
