@@ -85,7 +85,8 @@ case partical = "zu" # the topic indecator
     | "bu"  # the objective indecator
     | "do"  # the dative indecator
     | "cu"  # the position indecator
-    | "ham" # the comitative indecator
+    | "kaf" # the comitative indecator
+    | "nof" # the anti-comitative indecator
     | "ye"  # the ablative / ergative (in passive form of verbs) indecator
     | "we"; # the terminative indecator (as "until" in English and "made" in Japanese)
 
