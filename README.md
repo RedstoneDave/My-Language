@@ -43,10 +43,13 @@ and the list here shows some variations:
 - /zʲ/ = \[ʑ\]
 - /(s)ʒ\b/ = \[(s)t\]
 - /(ptk)ɾ(a)/ = \[(ptk)χ(ɑ)\]
+- /(bdg)ɾ(a)/ = \[(bdg)ʁ(ɑ)\]
 - /ɾ\b/ = \[ʁ\]
 - /h\b/ = \[x\]
 - /hʲ/ = \[ç\]
 - /hʷ/ = \[x\]
+- /kʃ/ = \[t͡ʃʰ\]
+- /gʒ/ = \[d͡ʒ\]
 
 ### Vowels
 
@@ -61,7 +64,7 @@ The table below shows the vowel phonemes of Kratoma. The schwa here is pronounce
 and the list here shows some variations:
 
 - /(jʃʒ)ɯ/ = \[(jʃʒ)ʉ\]
-- /(jʃʒ)i/ = \[(jʃʒ)ɨ\]
+- /(ʃʒ)i/ = \[(ʃʒ)ɨ\]
 - /(td)ɯ/ = \[(td)y͑\]
 
 ## Orthography
@@ -103,6 +106,12 @@ In Kratoma, nouns are called `sokan`, `sokan` is the only type of word that can 
 - `fesacu`
   - `cu` indecates the position, also time.
   - e.g. `fozu fokecu muk` means “I am here” (lit. I exist at here)
+- `fesakaf`
+  - `kaf` indecates the comitative, as “with me” in “He went on a walk with me”, used in neutral cases or cases where the candidates are of the same attention.
+  - e.g. `fokaf kasep` means “to walk with me”
+- `fesanof`
+  - `nof` indecates the “anti-comitative”, as “against me” in “He fought against me”, used in cases there the candidates are of the opposite attention.
+  - e.g. `avrova beunof wakit` means “to fight against the old world”
 - `fesaye`
   - `ye` indecates the ablative, meaning “from”, and the ergative in passive forms (as “by ...” in English)
   - e.g. `fozu zekeye vep` means “I come from there” where `zeke` means “there” and `vep` means “to come”

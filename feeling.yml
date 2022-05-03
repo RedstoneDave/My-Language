@@ -30,6 +30,10 @@ skak:
     en: to be afraid of
     ja: kowagaru
   type: m.
+skaya:
+  trans:
+    en: fear, timidness
+  type: s.
 skud:
   trans:
     en: to live happily and fullfilled

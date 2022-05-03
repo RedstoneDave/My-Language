@@ -105,6 +105,10 @@ rukrep:
   trans:
     en: to erupt
   type: b.
+sai:
+  trans:
+    en: light
+    ja: hikari
 saya:
   trans:
     en: sun

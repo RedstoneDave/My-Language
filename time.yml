@@ -3,6 +3,10 @@ boc:
     en: after
     ja: (jikan) ato
   type: s.
+fasgo:
+  trans:
+    en: date
+  type: s.
 go:
   trans:
     en: time spot

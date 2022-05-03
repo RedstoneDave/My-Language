@@ -91,6 +91,9 @@ kavaf:
 kawak:
   trans:
     en: to cut
+kes:
+  trans:
+    en: to go through, to read roughly, to leaf through, to patrol
 kodes:
   trans:
     en: to create
@@ -103,6 +106,10 @@ kruep:
   trans:
     en: to swim
     ja: oyogu
+mais:
+  trans:
+    en: to read
+    ja: yomu
 maizit:
   trans:
     en: to learn
@@ -155,6 +162,10 @@ pazes:
 pokis:
   trans:
     en: to fill
+    ja: mitasu
+pokus:
+  trans:
+    en: to mend, to fill in a gap
     ja: mitasu
 rasdas:
   trans:

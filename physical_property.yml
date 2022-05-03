@@ -59,6 +59,11 @@ remva:
   trans:
     en: cool
     ja: suzushii
+rowa:
+  trans:
+    en: temperature
+    ja: ondoku
+  type: s.
 roava:
   trans:
     en: hot

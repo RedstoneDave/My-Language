@@ -15,12 +15,28 @@ iman:
 lav:
   trans:
     en: book, record
+lafra:
+  note: also “ra” in poems and songs
+  trans:
+    en: page
 ovi:
   trans:
     en: knife
 skov:
   trans:
     en: cage
+sokon:
+  trans:
+    en: nameless
+  type: m.
+sonuk:
+  trans:
+    en: with name
+  type: m.
+sou:
+  trans:
+    en: name
+    ja: namae
 vea:
   trans:
     en: clothes

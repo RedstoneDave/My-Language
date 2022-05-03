@@ -40,6 +40,10 @@ cari:
     en: ear
     ja: mimi
   type: s.
+ce:
+  trans:
+    en: old leaf, fallen leaf
+  type: s.
 cebo:
   trans:
     en: tail
@@ -307,6 +311,10 @@ yukar:
 yusi:
   trans:
     en: hand
+  type: s.
+yussa:
+  trans:
+    en: palm
   type: s.
 zase:
   trans:
