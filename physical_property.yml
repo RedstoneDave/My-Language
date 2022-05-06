@@ -11,6 +11,7 @@ duke:
 dukeva:
   trans:
     en: wide
+    ja: hiroi
 ecava:
   trans:
     en: cold
@@ -51,6 +52,10 @@ oweva:
   trans:
     en: sharp
     ja: surudoi
+râva:
+  trans:
+    en: wide, large
+    ja: hiroi
 raeva:
   trans:
     en: tall

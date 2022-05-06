@@ -20,6 +20,10 @@ cwait:
     en: to admit
     ja: motomeru
   type: m.
+dau:
+  trans:
+    en: the glory from the past
+  type: s.
 deuva:
   trans:
     en: old and useful, classic
@@ -37,6 +41,15 @@ furva:
     en: young (and naïve)
     ja: osanai
   type: g.
+gau:
+  trans:
+    en: difference
+  type: s.
+gem:
+  trans:
+    en: different
+    ja: chigau
+  type: m.
 gwah:
   trans:
     en: the same as before
@@ -59,6 +72,11 @@ ikac:
   trans:
     en: to enlighten; to make ... a complete man
   type: b.
+ivat:
+  trans:
+    en: to be natural, to be straight forward
+    ja: shizen
+  type: m.
 irenva:
   note: usu. pejorative
   trans:
@@ -94,6 +112,11 @@ meder:
     en: ignorant, dump
     ja: baka
   type: m.
+migva:
+  note: usu. pejorative
+  trans:
+    en: normal, mediocre
+  type: g.
 mokez:
   trans:
     en: to naturally belong to; to be a part of
@@ -103,7 +126,7 @@ nafisva:
     en: disgusting
     ja: kirawareta
   type: g.
-nagāp:
+nagâp:
   trans:
     ja: kirai
   type: m.
@@ -141,13 +164,14 @@ rimot:
   trans:
     en: to abuse; to enslave; to exploit
   type: s.
-tafep:
-  trans:
-    en: to free
-  type: b.
 tesin:
   trans:
     ja: suki
+  type: m.
+uvan:
+  trans:
+    en: to be unnatural, to be obscure, to be abnormal
+    ja: fushizen
   type: m.
 vaswa:
   trans:
@@ -166,6 +190,16 @@ watva:
   trans:
     en: difficult
     ja: muzukashi; -nikui
+  type: g.
+yau:
+  trans:
+    en: similarity
+  type: s.
+yem:
+  trans:
+    en: to resemble
+    ja: niteiru
+  type: m.
 yotam:
   trans:
     en: to value

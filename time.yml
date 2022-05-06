@@ -56,10 +56,20 @@ raut:
     en: begin
     ja: hajimaru
   type: b.
+rusuya:
+  trans:
+    en: tonight
+    ja: kon'ya
+  type: s.
 rusya:
   trans:
     en: today
     ja: kyou
+  type: s.
+sasuya:
+  trans:
+    en: last night
+    ja: yuube
   type: s.
 sasya:
   trans:
@@ -81,6 +91,11 @@ syaf:
     en: end
     ja: owaru
   type: b.
+tasuya:
+  trans:
+    en: tomorrow night
+    ja: myouban
+  type: s.
 tasya:
   trans:
     en: tomorrow

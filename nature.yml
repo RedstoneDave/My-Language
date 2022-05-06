@@ -1,3 +1,7 @@
+cuk:
+  trans:
+    en: sound
+    ja: oto
 freta:
   trans:
     en: rainstorm
@@ -6,7 +10,7 @@ fretar:
   trans:
     en: to have a rainstorm
   type: b.
-fū:
+fû:
   trans:
     en: wind
     ja: kaze
@@ -20,6 +24,14 @@ hedar:
   trans:
     en: to freeze
     ja: kooru
+  type: b.
+hidok:
+  trans:
+    en: to be frosted
+  type: m.
+hidor:
+  trans:
+    en: to frost
   type: b.
 ita:
   trans:
@@ -87,6 +99,11 @@ retar:
   trans:
     en: to rain
     ja: amewo furu
+  type: b.
+revrep:
+  trans:
+    en: to stop raining
+    ja: ameno yami (suru)
   type: b.
 ruk:
   trans:
@@ -156,6 +173,15 @@ ukryap:
   trans:
     en: to dry out
   type: b.
+isu:
+  trans:
+    en: thick mist
+  type: s.
+ito:
+  trans:
+    en: frost
+    ja: shimo (sou)
+  type: s.
 vem:
   trans:
     en: salt

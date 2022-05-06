@@ -8,10 +8,18 @@ deg:
   trans:
     en: umbrella
     ja: kasa
+ibam:
+  trans:
+    en: bridge
+    ja: hashi
 iman:
   trans:
     en: road
     ja: michi
+kruvko:
+  trans:
+    en: neck ring
+    ja: kubirin
 lav:
   trans:
     en: book, record
@@ -37,6 +45,9 @@ sou:
   trans:
     en: name
     ja: namae
+valo:
+  trans:
+    en: symbol; dummy
 vea:
   trans:
     en: clothes

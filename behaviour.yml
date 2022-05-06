@@ -1,5 +1,9 @@
 __default__:
   type: b.
+alol:
+  trans:
+    en: to feed
+  type: b.
 basit:
   trans:
     en: to dig
@@ -12,7 +16,7 @@ bodask:
     en: to be sitting
     ja: suwatte iru
   type: m.
-cam:
+tcam:
   trans:
     en: to count; to write down
     ja: kazoeru; kaku
@@ -81,6 +85,10 @@ kasep:
   trans:
     en: to walk (towards)
     ja: aruku
+kases:
+  trans:
+    en: to prowl, to wander
+    ja: haikaisuru
 kav:
   trans:
     en: to be standing
@@ -117,6 +125,10 @@ maizit:
 mayet:
   trans:
     en: to guess; to guess about
+meis:
+  trans:
+    en: to feel
+    ja: kanjiru
 memaz:
   trans:
     en: to kill
@@ -193,7 +205,7 @@ stip:
 tam:
   trans:
     en: to wipe
-tofep:
+twep:
   trans:
     en: to fly
     ja: tobu
@@ -212,6 +224,9 @@ tozit:
   trans:
     en: to take in (from mouth)
     ja: (kuchide) suu
+uhof:
+  trans:
+    en: to touch or stroke (gently)
 usat:
   trans:
     en: to give

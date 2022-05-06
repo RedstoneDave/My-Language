@@ -2,6 +2,10 @@ beu:
   trans:
     en: the world, the society
   type: s.
+efres:
+  trans:
+    en: travellers from another world
+  type: s.
 iko:
   trans:
     en: group
@@ -16,6 +20,11 @@ kyova:
     en: entire / whole / thorough
     ja: subeteno
   type: g.
+mai:
+  trans:
+    en: intelligence
+    ja: chinou; chie
+  type: s.
 mefava:
   trans:
     en: to be deadly quiet
@@ -28,10 +37,18 @@ mok:
   trans:
     en: to own
   type: m.
+raica:
+  trans:
+    en: rise and fall
+  type: s.
 ratreva:
   trans:
     en: pure
   type: g.
+rû:
+  trans:
+    en: energy
+    ja: genki
 skep:
   trans:
     en: to boil; to surge
@@ -46,14 +63,19 @@ taris:
     en: to shine
     ja: kagayaku
   type: m.
+todrig:
+  trans:
+    en: syllable
+  type: s.
 traswa:
   trans:
     ja: kurayami
-yem:
+  type: s.
+uko:
   trans:
-    en: to resemble
-    ja: niteiru
-  type: m.
+    en: dream; tenet
+    ja: yume
+  type: s.
 yosai:
   trans:
     en: muscle, power

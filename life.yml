@@ -1,7 +1,4 @@
-alol:
-  trans:
-    en: to feed
-  type: b.
+---
 bese:
   trans:
     en: skin
@@ -66,10 +63,20 @@ dwiro:
     en: parasitic animals; parasite
     ja: kiseibutsu
   type: s.
+fanam:
+  trans:
+    en: eyelash
+    ja: matsuge
+  type: s.
 fari:
   trans:
     en: eye
     ja: me
+  type: s.
+farka:
+  trans:
+    en: eyebrow
+    ja: mayuge
   type: s.
 fesa:
   trans:
@@ -100,6 +107,16 @@ hari:
     en: nose
     ja: hana
   type: s.
+ibrat:
+  trans:
+    en: sexual arousal
+    ja: seiteki koufun
+  type: m.
+its:
+  trans:
+    en: to have sex; to reproduce
+    ja: sekkusu suru
+  type: b.
 kan'ya:
   trans:
     en: liver
@@ -170,6 +187,26 @@ mocamu:
     en: wood / forest
     ja: hayashi / mori
   type: s.
+momf:
+  trans:
+    en: to have been withered; to have been massively declined
+    ja: kareta
+  type: m.
+momp:
+  trans:
+    en: to wither (of the majority); to massively decline
+    ja: kareru
+  type: b.
+mons:
+  trans:
+    en: to be thriving
+    ja: han'eishite iru
+  type: m.
+mont:
+  trans:
+    en: to thrive
+    ja: han'eisuru
+  type: b.
 mova:
   trans:
     en: the masses; the people
@@ -229,12 +266,7 @@ sukaro:
   trans:
     en: snake
   type: s.
-tofala:
-  trans:
-    en: bird
-    ja: tori
-  type: s.
-tofayu:
+tofou:
   trans:
     en: wing
   type: s.
@@ -250,6 +282,16 @@ tori:
   trans:
     en: mouth
     ja: kuchi
+  type: s.
+tou:
+  trans:
+    en: voice
+    ja: koe
+  type: s.
+tovra:
+  trans:
+    en: bird
+    ja: tori
   type: s.
 toza:
   trans:
@@ -303,6 +345,10 @@ yawola:
     en: dog
     ja: inu
   type: s.
+yosrep:
+  trans:
+    en: to have an orgasm
+  type: b.
 yukar:
   trans:
     en: finger

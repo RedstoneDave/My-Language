@@ -82,6 +82,12 @@ vekc:
     ja: beshi
   type: m.
   usage: conj form + ~
+ves:
+  trans:
+    en: for the first time
+    ja: hajime no
+  type: b.
+  usage: b. conj form + ~
 yu:
   trans:
     en: '-ing / -tion / -ness'

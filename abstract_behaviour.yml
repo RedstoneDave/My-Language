@@ -12,6 +12,9 @@ dyan:
   trans:
     en: to worship (esp. with out mind)
   type: m.
+ebur:
+  trans:
+    en: to iterate
 ebus:
   trans:
     en: to change
@@ -28,6 +31,9 @@ irep:
 kas:
   trans:
     en: to arise and to fight against
+lam:
+  trans:
+    en: to arrange
 lus:
   trans:
     en: to decrease
@@ -47,6 +53,10 @@ mip:
   trans:
     en: to vanish
     ja: kieru
+mov:
+  trans:
+    en: to build
+    ja: tateru
 mus:
   trans:
     en: to increase
@@ -71,6 +81,10 @@ rapas:
 serep:
   trans:
     en: to diffuse
+tafep:
+  trans:
+    en: to free
+  type: b.
 twak:
   trans:
     en: to seize; to possess by force

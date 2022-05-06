@@ -14,6 +14,18 @@ dictionaries:
   - physical_property.yml
   - pov.yml
   - pronoun.yml
+  - shape.yml
   - status.yml
   - time.yml
   - unclassified_new.yml
+types:
+  - name: sokan
+    nname: s.
+  - name: burab
+    nname: b.
+  - name: mosrab
+    nname: m.
+  - name: gasaru
+    nname: g.
+  - name: unekin
+    nname: u.

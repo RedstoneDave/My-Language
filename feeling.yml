@@ -6,9 +6,23 @@ fam:
   trans:
     en: to seem
   type: m.
+isnav:
+  trans:
+    en: |
+      the clear feeling after the vanishment of a thick mist; 
+      the clear but despondent feeling after the end of a story.
+  type: m.
 kabas:
   trans:
     en: to smell (as in “to smell like ...”)
+  type: m.
+meim:
+  trans:
+    en: to feel (happy, sad, etc.)
+    ja: kanjite iru
+meroh:
+  trans:
+    en: angry
   type: m.
 naguf:
   trans:
@@ -20,6 +34,13 @@ nayup:
     en: painful
     ja: itai
   type: m.
+nawam:
+  trans:
+    en: lingering pain in body or mind; hate
+  type: m.
+  usage: |
+    “...ye nawam” is used instead of “...(bu) nawam” to
+    express “to hate ...”
 nyak:
   trans:
     en: to hope; to wish
@@ -39,6 +60,13 @@ skud:
     en: to live happily and fullfilled
     ja: shiawase, saiwai
   type: m.
+tazah:
+  trans:
+    en: long standing joy; to be thankful
+  type: m.
+  usage: |
+    “...ye tazah” is used instead of “...(bu) tazah” to
+    express “to thank ...”
 tesam:
   trans:
     en: happy

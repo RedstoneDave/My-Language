@@ -1,0 +1,19 @@
+hiveva:
+  trans:
+    en: straight
+  type: g.
+simuva:
+  trans:
+    en: round
+    ja: marui
+  type: g.
+smika:
+  trans:
+    en: circle
+    ja: maru
+  type: s.
+smuko:
+  trans:
+    en: ring
+    ja: rin
+  type: s.

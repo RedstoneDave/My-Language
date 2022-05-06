@@ -12,10 +12,6 @@ deuva:
     en: old
     ja: furui
   type: g.
-hiveva:
-  trans:
-    en: straight
-  type: g.
 kemeva:
   trans:
     en: slippy
@@ -32,17 +28,6 @@ puk:
   trans:
     en: full
   type: m.
-simak:
-  note: temporary deposit, will be put into “shape.yml”
-  trans:
-    en: circle
-    ja: maru
-  type: s.
-simuva:
-  trans:
-    en: round
-    ja: marui
-  type: g.
 snamva:
   trans:
     en: dirty
