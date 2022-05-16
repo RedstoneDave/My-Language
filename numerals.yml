@@ -138,6 +138,9 @@ u:
   trans:
     en: one, 1
     ja: hito, ichi
+umo:
+  trans:
+    en: most
 wa:
   trans:
     en: same

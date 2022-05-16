@@ -1,3 +1,7 @@
+ainam:
+  trans:
+    en: to originate
+  type: b.
 beu:
   trans:
     en: the world, the society
@@ -6,6 +10,15 @@ efres:
   trans:
     en: travellers from another world
   type: s.
+idre:
+  trans:
+    en: tear
+    ja: namida
+  type: s.
+idrum:
+  trans:
+    en: tear stain
+  type: m.
 iko:
   trans:
     en: group
@@ -25,6 +38,10 @@ mai:
     en: intelligence
     ja: chinou; chie
   type: s.
+mau:
+  trans:
+    en: footprint; trace
+  type: m.
 mefava:
   trans:
     en: to be deadly quiet

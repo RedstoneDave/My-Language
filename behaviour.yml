@@ -62,6 +62,11 @@ hazit:
   trans:
     en: to take in (from nose); to smell
     ja: (hanade) suu
+idok:
+  trans:
+    en: to wimper
+    ja: susurinaku
+  type: m.
 ikesp:
   trans:
     en: to scrach
@@ -102,10 +107,6 @@ kawak:
 kes:
   trans:
     en: to go through, to read roughly, to leaf through, to patrol
-kodes:
-  trans:
-    en: to create
-    ja: tsukuru
 krak:
   trans:
     en: to wash
@@ -241,6 +242,10 @@ vep:
 vistam:
   trans:
     en: to carve
+vaf:
+  trans:
+    en: to hide
+    ja: kakusu
 vof:
   trans:
     en: contain for after use

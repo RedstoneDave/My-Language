@@ -1,8 +1,4 @@
 ---
-bese:
-  trans:
-    en: skin
-  type: s.
 biroh:
   trans:
     en: to swell
@@ -32,27 +28,14 @@ cagatu:
     en: fruit
     ja: kudamono
   type: s.
-cari:
-  trans:
-    en: ear
-    ja: mimi
-  type: s.
 ce:
   trans:
     en: old leaf, fallen leaf
-  type: s.
-cebo:
-  trans:
-    en: tail
   type: s.
 cotfa:
   trans:
     en: egg
     ja: tamago
-  type: s.
-cov:
-  trans:
-    en: breast
   type: s.
 duse:
   trans:
@@ -62,21 +45,6 @@ dwiro:
   trans:
     en: parasitic animals; parasite
     ja: kiseibutsu
-  type: s.
-fanam:
-  trans:
-    en: eyelash
-    ja: matsuge
-  type: s.
-fari:
-  trans:
-    en: eye
-    ja: me
-  type: s.
-farka:
-  trans:
-    en: eyebrow
-    ja: mayuge
   type: s.
 fesa:
   trans:
@@ -93,20 +61,6 @@ gubiro:
     en: bug
     ja: mushi
   type: s.
-habe:
-  trans:
-    en: back
-  type: s.
-ham:
-  trans:
-    en: hair
-    ja: kami
-  type: s.
-hari:
-  trans:
-    en: nose
-    ja: hana
-  type: s.
 ibrat:
   trans:
     en: sexual arousal
@@ -117,23 +71,6 @@ its:
     en: to have sex; to reproduce
     ja: sekkusu suru
   type: b.
-kan'ya:
-  trans:
-    en: liver
-  type: s.
-kasa:
-  trans:
-    en: leg
-  type: s.
-kasda:
-  trans:
-    en: foot
-    ja: ashi
-  type: s.
-kasma:
-  trans:
-    en: knee
-  type: s.
 kibro:
   trans:
     en: louse
@@ -142,23 +79,10 @@ kila:
   trans:
     en: fish
   type: s.
-koru:
-  trans:
-    en: neck
-  type: s.
-lakde:
-  trans:
-    en: horn
-  type: s.
 mebaz:
   trans:
     en: dying
   type: m.
-mek:
-  trans:
-    en: head
-    ja: atama
-  type: s.
 memp:
   trans:
     en: to die
@@ -174,14 +98,6 @@ met:
     en: to be alive
     ja: ikite iru
   type: m.
-miro:
-  trans:
-    ja: hara
-  type: s.
-mirota:
-  trans:
-    en: bowel
-  type: s.
 mocamu:
   trans:
     en: wood / forest
@@ -231,15 +147,6 @@ reca:
     en: tree
     ja: ki
   type: s.
-run'ya:
-  trans:
-    en: heart
-  type: s.
-ruse:
-  trans:
-    en: blood
-    ja: chi
-  type: s.
 rusip:
   trans:
     en: to bleed
@@ -266,23 +173,6 @@ sukaro:
   trans:
     en: snake
   type: s.
-tofou:
-  trans:
-    en: wing
-  type: s.
-tokar:
-  trans:
-    en: tongue
-  type: s.
-tora:
-  trans:
-    en: feather
-  type: s.
-tori:
-  trans:
-    en: mouth
-    ja: kuchi
-  type: s.
 tou:
   trans:
     en: voice
@@ -292,15 +182,6 @@ tovra:
   trans:
     en: bird
     ja: tori
-  type: s.
-toza:
-  trans:
-    en: teeth
-    ja: ha
-  type: s.
-tusa:
-  trans:
-    en: fat
   type: s.
 tusava:
   trans:
@@ -321,11 +202,6 @@ tuzeva:
   trans:
     en: female
   type: g.
-uri:
-  trans:
-    en: face
-    ja: kao
-  type: s.
 vemos:
   trans:
     en: to be born; to have life
@@ -349,24 +225,6 @@ yosrep:
   trans:
     en: to have an orgasm
   type: b.
-yukar:
-  trans:
-    en: finger
-    ja: yubi
-  type: s.
-yusi:
-  trans:
-    en: hand
-  type: s.
-yussa:
-  trans:
-    en: palm
-  type: s.
-zase:
-  trans:
-    en: bone
-    ja: hone
-  type: s.
 zazo:
   trans:
     en: food

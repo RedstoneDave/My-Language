@@ -3,6 +3,7 @@ dictionaries:
   - artificial.yml
   - auxiliary_words.yml
   - behaviour.yml
+  - body.yml
   - colors.yml
   - direction.yml
   - feeling.yml

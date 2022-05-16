@@ -22,6 +22,9 @@ ebus:
 harev:
   trans:
     en: to mimic, to play some role
+icmenob:
+  trans:
+    en: to act without worrying about the result; to rash; to act as a paranoid
 ikwas:
   trans:
     en: to unite
@@ -31,9 +34,17 @@ irep:
 kas:
   trans:
     en: to arise and to fight against
+kodes:
+  trans:
+    en: to create
+    ja: tsukuru
 lam:
   trans:
     en: to arrange
+lons:
+  trans:
+    en: to surpress
+    ja: osaeru
 lus:
   trans:
     en: to decrease
@@ -49,6 +60,13 @@ megat:
   trans:
     en: to help; to save
     ja: tasukeru
+mes:
+  trans:
+    en: to care; to try to figure out
+    ja: kanshin suru
+mesub:
+  trans:
+    ja: kini suru
 mip:
   trans:
     en: to vanish
@@ -99,6 +117,9 @@ veb:
 vimos:
   trans:
     en: to become determined, to harden one's heart
+waip:
+  trans:
+    en: to try one's best to; to do one's hardest attempt
 wap:
   trans:
     en: to attempt; to try

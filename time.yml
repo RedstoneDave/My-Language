@@ -32,6 +32,9 @@ omf:
     en: time span
     ja: aida
   type: s.
+omfau:
+  tran:
+    en: time stain
 paku:
   trans:
     en: just now

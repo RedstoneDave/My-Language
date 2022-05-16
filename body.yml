@@ -1,0 +1,112 @@
+__default__:
+  type: s.
+bese:
+  trans:
+    en: skin
+cari:
+  trans:
+    en: ear
+    ja: mimi
+cebo:
+  trans:
+    en: tail
+cov:
+  trans:
+    en: breast
+fanam:
+  trans:
+    en: eyelash
+    ja: matsuge
+fari:
+  trans:
+    en: eye
+    ja: me
+farka:
+  trans:
+    en: eyebrow
+    ja: mayuge
+habe:
+  trans:
+    en: back
+ham:
+  trans:
+    en: hair
+    ja: kami
+hari:
+  trans:
+    en: nose
+    ja: hana
+kan'ya:
+  trans:
+    en: liver
+kasa:
+  trans:
+    en: leg
+kasda:
+  trans:
+    en: foot
+    ja: ashi
+kasma:
+  trans:
+    en: knee
+koru:
+  trans:
+    en: neck
+lakde:
+  trans:
+    en: horn
+mek:
+  trans:
+    en: head
+    ja: atama
+miro:
+  trans:
+    ja: hara
+mirota:
+  trans:
+    en: bowel
+run'ya:
+  trans:
+    en: heart
+ruse:
+  trans:
+    en: blood
+    ja: chi
+tofou:
+  trans:
+    en: wing
+tokar:
+  trans:
+    en: tongue
+tora:
+  trans:
+    en: feather
+tori:
+  trans:
+    en: mouth
+    ja: kuchi
+toza:
+  trans:
+    en: teeth
+    ja: ha
+tusa:
+  trans:
+    en: fat
+uri:
+  trans:
+    en: face
+    ja: kao
+yukar:
+  trans:
+    en: finger
+    ja: yubi
+yusi:
+  trans:
+    en: hand
+yussa:
+  trans:
+    en: palm
+zase:
+  trans:
+    en: bone
+    ja: hone

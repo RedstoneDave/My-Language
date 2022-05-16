@@ -16,17 +16,21 @@ iman:
   trans:
     en: road
     ja: michi
+kottoma:
+  trans:
+    en: conlang
+    ja: jinsou gengo
 kruvko:
   trans:
     en: neck ring
     ja: kubirin
-lav:
-  trans:
-    en: book, record
 lafra:
   note: also “ra” in poems and songs
   trans:
     en: page
+lav:
+  trans:
+    en: book, record
 ovi:
   trans:
     en: knife

@@ -68,6 +68,10 @@ hwava:
   trans:
     en: common; normal; majority
   type: g.
+ica:
+  trans:
+    en: result
+    ja: kekka
 ikac:
   trans:
     en: to enlighten; to make ... a complete man

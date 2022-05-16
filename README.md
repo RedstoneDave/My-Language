@@ -65,7 +65,7 @@ and the list here shows some variations:
 
 - /(jʃʒ)ɯ/ = \[(jʃʒ)ʉ\]
 - /(ʃʒ)i/ = \[(ʃʒ)ɨ\]
-- /(td)ɯ/ = \[(td)y͑\]
+- /(t|d|fj|vj)ɯ/ = \[(t|d|f|v)y͑\]
 
 ## Orthography
 
