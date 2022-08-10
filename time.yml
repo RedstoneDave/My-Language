@@ -3,6 +3,15 @@ boc:
     en: after
     ja: (jikan) ato
   type: s.
+cevo:
+  trans:
+    en: autumn
+    ja: aki
+  type: s.
+cevup:
+  trans:
+    en: to enter autumn
+  type: b.
 fasgo:
   trans:
     en: date
@@ -22,6 +31,11 @@ kona:
     en: year
     ja: toshi
   type: s.
+monsya:
+  trans:
+    en: the last day; the apocalypse
+    ja: shuumatsu
+  type: s.
 ofanva:
   trans:
     en: instant; immediate
@@ -32,7 +46,7 @@ omf:
     en: time span
     ja: aida
   type: s.
-omfau:
+omfaf:
   tran:
     en: time stain
 paku:
@@ -44,7 +58,8 @@ patse:
   trans:
     en: right now
     ja: ima sugu
-pau:
+  type: s.
+paf:
   trans:
     en: now
     ja: ima
@@ -54,7 +69,7 @@ rasyu:
     en: dawn
     ja: yoake
   type: s
-raut:
+raft:
   trans:
     en: begin
     ja: hajimaru

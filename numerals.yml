@@ -40,7 +40,7 @@ fra:
   trans:
     en: negative; addictive inverse
     ja: fuku
-frau:
+fro:
   expression: x, y -> x - y
   operands: 2
   trans:

@@ -42,6 +42,7 @@ and the list here shows some variations:
 - /sʲ/ = \[ɕ\]
 - /zʲ/ = \[ʑ\]
 - /(s)ʒ\b/ = \[(s)t\]
+- /ʒʷ/ = \[ɹ\]
 - /(ptk)ɾ(a)/ = \[(ptk)χ(ɑ)\]
 - /(bdg)ɾ(a)/ = \[(bdg)ʁ(ɑ)\]
 - /ɾ\b/ = \[ʁ\]

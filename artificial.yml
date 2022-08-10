@@ -8,6 +8,10 @@ deg:
   trans:
     en: umbrella
     ja: kasa
+efrav:
+  trans:
+    en: letter
+    ja: tegami
 ibam:
   trans:
     en: bridge
@@ -52,6 +56,10 @@ sou:
 valo:
   trans:
     en: symbol; dummy
+valwa:
+  trans:
+    en: light
+    ja: akari
 vea:
   trans:
     en: clothes

@@ -203,6 +203,9 @@ skuc:
 stip:
   trans:
     en: to mill; to rub
+suyav:
+  trans:
+    en: to blink
 tam:
   trans:
     en: to wipe
@@ -259,6 +262,11 @@ wakit:
   trans:
     en: to fight
     ja: tatakau
+yuspak:
+  trans:
+    en: to carry (a bag, a lamp, etc., with the object hanging down)
+    zh: lin1, ti2
+  type: m.
 zad:
   trans:
     en: to pull

@@ -20,7 +20,7 @@ cwait:
     en: to admit
     ja: motomeru
   type: m.
-dau:
+daf:
   trans:
     en: the glory from the past
   type: s.
@@ -41,7 +41,7 @@ furva:
     en: young (and naïve)
     ja: osanai
   type: g.
-gau:
+gaf:
   trans:
     en: difference
   type: s.
@@ -190,12 +190,16 @@ wait:
   trans:
     en: agree
   type: m.
+wamek:
+  trans:
+    en: to feel or think that another is the same as one self
+  type: m.
 watva:
   trans:
     en: difficult
     ja: muzukashi; -nikui
   type: g.
-yau:
+yaf:
   trans:
     en: similarity
   type: s.
