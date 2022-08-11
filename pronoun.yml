@@ -3,6 +3,18 @@ a:
     en: self
   type: s.
 fo:
+  forms:
+    top: fuz
+    nom: fus
+    inst: psem
+    alla: pro
+    accu: fiv
+    dat: fro
+    pos: fuc
+    com: fkaf
+    ant: prof
+    abla: fi(y)
+    term: fê
   trans:
     en: I
     ja: watashi
@@ -28,8 +40,20 @@ fova:
     ja: kono
   type: g.
 ka:
+  forms:
+    top: kaz
+    nom: ksa
+    inst: ksem
+    alla: kak
+    accu: kuv
+    # dat: kado
+    pos: kcu
+    com: kraf
+    ant: knof
+    abla: kai
+    term: kwe
   trans:
-    en: you (sing.)
+    en: you (sing.) / thou
     ja: kimi / anata
   type: s.
 kake:
@@ -39,7 +63,7 @@ kake:
   type: s.
 kamu:
   trans:
-    en: you (pl.)
+    en: you (pl.) / ye
     ja: anata tachi / kimi tachi
   type: s.
 kan:
@@ -83,6 +107,18 @@ pom:
     ja: watashi tachi
   type: s.
 ze:
+  forms:
+    top: zez
+    nom: zes
+    inst: tsem
+    alla: zek
+    accu: zef
+    dat: zed
+    pos: zec
+    com: skaf
+    ant: snof
+    abla: zê
+    term: zwe
   trans:
     en: they / it (sing.)
     ja: ano hito

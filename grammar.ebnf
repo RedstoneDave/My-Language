@@ -33,6 +33,7 @@ verb = stem
     | stative verb, "e", verb # stative verb combined with verb
     | verb, "ins"             # to be done
     | verb, "iks"             # to let do
+    | verb, "isp";            # to be used (by ...) to do
 
 (*
 the other class of verb is stative verbs that cannot tell before
@@ -119,7 +120,7 @@ basic adverbial = (
     ), [ adverbial partical ] ;
 
 (*
-note that zu( l | sy | v ) is often replaced by ( l | sy | v )
+notice that zu( l | sy | v ) is often replaced by ( l | sy | v )
 *)
 
 complex type = noun phrase, "kwa" # this is used in special adverbial clauses

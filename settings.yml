@@ -22,6 +22,40 @@ dictionaries:
 types:
   - name: sokan
     nname: s.
+    forms:
+      - name: topic
+        nname: top
+        default: "%zu"
+      - name: nominative
+        nname: nom
+        default: "%su"
+      - name: instrumental
+        nname: inst
+        default: "%sem"
+      - name: allative
+        nname: alla
+        default: "%ko"
+      - name: accusative
+        nname: accu
+        default: "%bu"
+      - name: dative
+        nname: dat
+        default: "%do"
+      - name: position
+        nname: pos
+        default: "%cu"
+      - name: cominative
+        nname: com
+        default: "%kaf"
+      - name: anti-cominative
+        nname: ant
+        default: "%nof"
+      - name: ablative
+        nname: abla
+        default: "%ye"
+      - name: terminative
+        nname: term
+        default: "%we"
   - name: burab
     nname: b.
   - name: mosrab
