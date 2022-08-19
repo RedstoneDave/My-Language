@@ -5,7 +5,7 @@ a:
 fo:
   forms:
     top: fuz
-    nom: fus
+    dir: fus
     inst: psem
     alla: pro
     accu: fiv
@@ -13,7 +13,7 @@ fo:
     pos: fuc
     com: fkaf
     ant: prof
-    abla: fi(y)
+    abla: fiy / fî
     term: fê
   trans:
     en: I
@@ -42,7 +42,7 @@ fova:
 ka:
   forms:
     top: kaz
-    nom: ksa
+    dir: ksa
     inst: ksem
     alla: kak
     accu: kuv
@@ -109,7 +109,7 @@ pom:
 ze:
   forms:
     top: zez
-    nom: zes
+    dir: zes
     inst: tsem
     alla: zek
     accu: zef

@@ -90,7 +90,7 @@ Here are the forms of the word `fesa`:
   - `zu` indecates the topic, a similar example is the partical “は” in Japanese.
   - e.g. `fuz (= fozu) raez`, means “I’m tall”, where `fo` is the pronoun “me” and `raez` is the adjective “tall”.
 - `fesasu`
-  - `su` indecates the subject (or nominative), a similar example is the partical “が” in Japanese.
+  - `su` indecates the subject (or the “direct case”), a similar example is the partical “が” in Japanese.
   - In dependent clauses, `su` is more frequently used than `zu`
   - e.g. `fesazu kasasu udaz` means “Human have long legs” (lit. humans (are of which) legs (are) long), where `kasa` means “leg” and `udaz` is the adjective “long”.
 - `fesasem`

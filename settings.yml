@@ -26,8 +26,8 @@ types:
       - name: topic
         nname: top
         default: "%zu"
-      - name: nominative
-        nname: nom
+      - name: direct
+        nname: dir
         default: "%su"
       - name: instrumental
         nname: inst

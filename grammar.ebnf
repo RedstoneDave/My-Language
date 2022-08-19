@@ -80,7 +80,7 @@ glued to nouns to form sentences.
 *)
 
 case partical = "zu" # the topic indecator
-    | "su"  # the subjective indecator
+    | "su"  # the direct case indecator
     | "sem" # the tool indecator
     | "ko"  # the direction indecator
     | "bu"  # the objective indecator
