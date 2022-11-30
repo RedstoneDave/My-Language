@@ -9,36 +9,40 @@ daz:
   trans:
     en: bottom
     ja: shita
-dosa:
+dos:
   trans:
     en: mid
     ja: naka
-hyat:
+syat:
   trans:
     en: front
     ja: mae
-kad:
+kan:
   trans:
     en: south
     ja: minami
-kof:
+kô:
   trans:
     en: north
     ja: kita
+nas:
+  trans:
+    en: out
+    ja: soto
 okava:
   trans:
     en: close
     ja: chikai
   type: g.
-rag:
+raf:
   trans:
     en: top
     ja: ue
-sad:
+san:
   trans:
     en: west
     ja: nishi
-sal:
+sac:
   trans:
     en: east
     ja: higashi
@@ -47,11 +51,11 @@ virava:
     en: far
     ja: tooi
   type: g.
-wat:
+wan:
   trans:
     en: left
     ja: hidari
-yed:
+yen:
   trans:
     en: right
     ja: migi

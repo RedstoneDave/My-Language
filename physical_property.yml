@@ -12,15 +12,14 @@ dukeva:
   trans:
     en: wide
     ja: hiroi
-ecava:
-  trans:
-    en: cold
-    ja: samui
 eyava:
   trans:
     en: blunt
     ja: nibui
-fuava:
+fiva:
+  trans:
+    en: elastic
+susava:
   trans:
     en: quiet
     ja: shizuka
@@ -39,6 +38,10 @@ goeva:
   trans:
     en: heavy
     ja: omoi
+icava:
+  trans:
+    en: cold
+    ja: samui
 kumva:
   trans:
     en: narrow

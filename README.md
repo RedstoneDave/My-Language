@@ -14,7 +14,11 @@ There are no words that correspond to “good” or “bad”, “right” or �
 
 ### The North Wind and the Sun
 
-> kofma fû fu sayazu nīsu rusksez t tomituke, kava gocu un otapinzu saeva veabu zuku vepuk. zemuzu luvu otapindo veabu vukikswasu rusksez t waitek. kofma fûzu tezeck totatukusy, rusksevu totatuc, otapinsu utksevu zukuke; zezu wapu nostu syafuk. sayazu saevu tarisuke, otapinzu ofanvu veabu myokuk. fovevo, kofma fûzu sayasu rusksez t cwaitederiksins.
+> kofû fu saya nī rusksez t tomituke, kava gocu un otapin saeva
+> vea zuku vepuk. zemu luvu otapindo vea vukikswa rushez t waitek.
+> kofma fû tezeck totatukesy, rusksevu totatuc, otapin utksevu
+> zukuke; ze wapu nostu syafuk. saya saevu tarisuke, otapin ofanvu
+> veabu myokuk. pravevo, kofû sayasu rushez t cwaitederuv.
 
 ## Phonology
 
@@ -41,8 +45,9 @@ and the list here shows some variations:
 - /n\b/ = \[ɴ\]
 - /sʲ/ = \[ɕ\]
 - /zʲ/ = \[ʑ\]
+- /z\b/ = \[t͡s\]
 - /(s)ʒ\b/ = \[(s)t\]
-- /ʒʷ/ = \[ɹ\]
+- /ʒʷ/ = \[ʎ~ɣ\]
 - /(ptk)ɾ(a)/ = \[(ptk)χ(ɑ)\]
 - /(bdg)ɾ(a)/ = \[(bdg)ʁ(ɑ)\]
 - /ɾ\b/ = \[ʁ\]
@@ -54,7 +59,9 @@ and the list here shows some variations:
 
 ### Vowels
 
-The table below shows the vowel phonemes of Kratoma. The schwa here is pronounced only when it’s hard to pronounce two consonants successively.
+The table below shows the vowel phonemes of Kratoma. The schwa is pronounced when it’s hard to pronounce two consonants successively and doesn't exist as a phoneme.
+
+Each of the vowels except for the schwa has a long version, which is typically 0.5 times longer than the plain version.
 
 |        | Front | Mid | Back |
 | ------ | ----- | --- | ---- |
@@ -88,7 +95,7 @@ Here are the forms of the word `fesa`:
 
 - `fesazu`
   - `zu` indecates the topic, a similar example is the partical “は” in Japanese.
-  - e.g. `fuz (= fozu) raez`, means “I’m tall”, where `fo` is the pronoun “me” and `raez` is the adjective “tall”.
+  - e.g. `prazu raez`, means “I’m tall”, where `pra` is the pronoun “me” and `raez` is the adjective “tall”.
 - `fesasu`
   - `su` indecates the subject (or the “direct case”), a similar example is the partical “が” in Japanese.
   - In dependent clauses, `su` is more frequently used than `zu`
@@ -98,27 +105,27 @@ Here are the forms of the word `fesa`:
 - `fesako`
   - `ko` indecates the allative (ie. the direction)
   - This is also the case meaning “become”
-  - e.g. `fuz zekeko kasep` means “I walk to there” and `fuz fesako der` means “I become a human”
+  - e.g. `prazu zekeko kasep` means “I walk to there” and `prazu fesako der` means “I become a human”
 - `fesabu`
-  - `bu` indecates the direct object (or accusative)
-  - e.g. `fuz kilabu zazit` means “I eat fish”
+  - `bu` indecates the patient (or accusative, or direct object)
+  - e.g. `prazu kilabu zazit` means “I eat fish”
 - `fesado`
   - `do` indecates the dative, as “me” in “you give me the book”, and purpose is also indecated by `do`, though the latter usually appears earlier
-  - e.g. `fuz zed (= zedo) lavbu usat` means “I give them a book” where `ze` is a singular, sexually neutral pronoun, and `lav` means “book”
-  - and `fuz kado ocom` means “I sing for you” where `ka` means “you”.
+  - e.g. `prazu zed (= zedo) lavbu usat` means “I give them a book” where `ze` is a singular, sexually neutral pronoun, and `lav` means “book”
+  - and `prazu kado ocom` means “I sing for you” where `ka` means “you”.
 - `fesacu`
   - `cu` indecates the position, also time.
-  - e.g. `fuz fokecu muk` means “I am here” (lit. I exist at here)
+  - e.g. `prazu prakecu muk` means “I am here” (lit. I exist at here)
 - `fesakaf`
   - `kaf` indecates the comitative, as “with me” in “He went on a walk with me”, used in neutral cases or cases where the candidates are of the same attention.
-  - e.g. `fkaf (= fokaf) kasep` means “to walk with me”
+  - e.g. `prakaf kasep` means “to walk with me”
 - `fesanof`
   - `nof` indecates the “anti-comitative”, as “against me” in “He fought against me”, used in cases there the candidates are of the opposite attention.
   - e.g. `avrova beunof wakit` means “to fight against the old world”
 - `fesaye`
-  - `ye` indecates the ablative, meaning “from”, and the ergative in passive forms (as “by ...” in English)
-  - e.g. `fuz zekeye vep` means “I come from there” where `zeke` means “there” and `vep` means “to come”
-  - and `fuz beuye nocins` means “I’m abandoned by the society” where `beu` means “the world” and “the society” and `noc` means “to abandon; to desert”, `-ins` makes a verb passive
+  - `ye` indecates the ablative, meaning “from”, and the agentive in non-agentive trigger forms (as “by ...” in English)
+  - e.g. `prazu zekeye vep` means “I come from there” where `zeke` means “there” and `vep` means “to come”
+  - and `prazu beuye nocins` means “I’m abandoned by the society” where `beu` means “the world” and “the society” and `noc` means “to abandon; to desert”, `-ins` makes a verb passive
 - `fesawe`
   - `we` indecates the terminative, meaning “until”
   - e.g. `zez (= zezu) rusyawe furvusk` means “He has been young until today” where `rusya` means “today” and `furva` means “young” and `-usk` means “have been”
@@ -135,7 +142,7 @@ Forms above are the “adverbial” forms that directly modifies the predicate (
   - `-luva` after a noun also transforms it into an adjective, meaning “about”
   - Examples will be given in the section about adjectives.
 
-And `sokan`s can take the part of predicate, such as `fuz fesa`, meaning “I’m human”.
+And `sokan`s can take the part of predicate, such as `prazu fesa`, meaning “I’m human”.
 
 ### Verbs
 
@@ -148,22 +155,25 @@ There are two parts of speech correspond to verbs in English, `burab` and `mosra
   - `-em` basically means “to un(do)” and `vebem` is also a `burab`.
 - `veben`
   - `-en` means “not to do” and `veben` is a `mosrab`.
-  - e.g. `fuz mupen` means “I don’t sleep” where `mup` means “to sleep”.
+  - e.g. `prazu mupen` means “I don’t sleep” where `mup` means “to sleep”.
 - `vebeh`
   - `-eh` means “before doing” and `vebeh` is a `mosrab`
   - e.g.
 - `vebins`
   - `-ins` means “to be done” and `vebins` is a `burab`
   - Just in case you forgot this, “by ...” is represented using `ye`
-  - e.g. `fuz beuye nocins` means “I’m abandoned by the society”
+  - e.g. `prazu beuye nocins` means “I’m abandoned by the society”
   - Technically, `-ins` indecates [the patient trigger voice](https://en.wikipedia.org/wiki/Symmetrical_voice), as the agent of the verb isn't represented in the form of “prep. ACC”.
 - `vebisp`
   - `-isp` means “to be used to do” and `vebisp` is a `burab`
-  - e.g. `ovizu fiy (= foye) cazobu kawakisp` means “the knife is used to cut the fruit by me”, where `ovi` means “knife”, `cazo` “fruit” and `kawak` “to cut”.
+  - e.g. `ovizu praye cazobu kawakisp` means “the knife is used to cut the fruit by me”, where `ovi` means “knife”, `cazo` “fruit” and `kawak` “to cut”.
   - Like the `-ins` above, the `-isp` indecates the tool trigger voice.
+- `vebist`
+  - the dative trigger voice.
+  - e.g. `zez praye lavbu usatist` means “He is given a book by me”.
 - `vebiks`
   - `-iks` means “to let do” and `vebiks` is a `burab`
-  - e.g. `fuz zedo mupiks` means “I let him sleep”, notice that “him” here is represented with `do` instead of `bu`
+  - used where the verb has a default trigger other than the agentive.
 - `vebod`
   - `-od` means “in order to do” and `vebod` is a `mosrab`
 - `veba`
@@ -173,7 +183,7 @@ There are two parts of speech correspond to verbs in English, `burab` and `mosra
   - `-in` indecates a human executor, and `-wa` indecates non-human executor.
 - `vebas`
   - `-as` is similar to “-ee” in English
-  - It gives the absolutive (ie. the object of a transive verb and the subject of an intransive verb)
+  - It gives the patient
 - `vebo`
   - `-o` enables a `burab` to modify a noun
   - e.g. `kasepo fesa` means “running person” where `kasep` means “to run”.
@@ -192,7 +202,7 @@ This section is about `mosrab`, the stative verbs that cannot tell apart “befo
   - `e` after a `mosrab` enables it to join with other words, to modify the predicate and to form a dependent clause, just like `u` after a `burab`
 - `on`
   - `on` means “not to be”, and with words other than `muk`, its straightly used after the word, yet `on` is used instead of `mukon`. `on` is a `mosrab`.
-  - e.g. `fuz kavon` means “I’m not standing” where `kav` means “to be standing”
+  - e.g. `prazu kavon` means “I’m not standing” where `kav` means “to be standing”
 - `mukas`
   - this is the same as the `as` above, representing the absolutive.
 - `mukyu`
@@ -202,6 +212,8 @@ This section is about `mosrab`, the stative verbs that cannot tell apart “befo
 - `muki`
   - `-i` enables a `mosrab` to modify a noun, just like `o` after a `burab`.
   - e.g. `muki fesa` means “existing person”
+- `muku-` + ( `ns` | `sp` | `st` | `ks` )
+  - the same as the forms of `burab` above.
 
 ### Adjectives
 
@@ -214,18 +226,18 @@ Adjectives have two basic forms, one is the modifier form, the other is the pred
   - e.g. `luvu kasep` means “to walk fast” where `luva` means “fast” and `kasep` means “to walk”
 - `kranava`
   - `-nava` is the negative suffix, and `kranava` means “not blue”
-  - e.g. `fuz furnava` means “I’m not young”
-- `krakseva`
-  - `-kseva` is the comparative suffix, and `krakseva` means “more blue”
-  - e.g. `krinzu kreye kraksez` means “Krin is more blue than water”, a proverb which means “the younger generation have more energy and opportunities”
-- `kragruva`
-  - `-gruva` is the superlative suffix, and `kragruva` means “most blue”
-  - e.g. `fuz lugruvu kasep` means “I walk the fastest”.
+  - e.g. `prazu furnava` means “I’m not young”
+- `kraheva`
+  - `-kseva` is the comparative suffix, and `kraheva` means “more blue”
+  - e.g. `krinzu kreye krahez` means “Krin is more blue than water”, a proverb which means “the younger generation have more energy and opportunities”
+- `krarava`
+  - `-rava` is the superlative suffix, and `krarava` means “most blue”
+  - e.g. `prazu luravu kasep` means “I walk the fastest”.
 - `kravan`
   - `-van` makes the adjective an abstract noun, yet `kra` it self is the noun “blue” so `kravan` is basically never used.
 - `kravei`
   - `-vei` makes the adjective an instance noun, and `kravei` means “something blue”
-  - e.g. `fuz kraveibu tesin` means “I like blue things” or “I like cute things”
+  - e.g. `prazu kraveibu tesin` means “I like blue things” or “I like cute things”
 
 ### Numerals
 
@@ -236,7 +248,7 @@ Numerals in Kratoma are called `unekin`, this word is formed from the words for 
   - e.g. `un fesa` means “a person”
 - `uk`
   - `-k` transforms an `unekin` into a noun
-  - e.g. `fonzu wok` means “this is all”, where `fon` means “this” and `wo` means “all”.
+  - e.g. `pranzu wok` means “this is all”, where `pran` means “this” and `wo` means “all”.
 - `uceva`
   - `-ceva` transforms an `unekin` into an adjective
   - e.g. `mocekseva` means “more”
@@ -249,20 +261,20 @@ Technically, there is no unique word class “adverb” in Kratoma, the role of 
 
 - `kravul`
   - `-l` means “also; even”, similar to “も” in Japanese. The latter meaning is more often used in (semantically) affirmative expressions.
-  - e.g. `fuz lavbu tesin. zel lavbu tesin` means “I like books, and he also likes books”.
+  - e.g. `prazu lavbu tesin. zel lavbu tesin` means “I like books, and he also likes books”.
 - `kravusy`
   - `-sy` means “even; as long as”, similar to “さえ” in Japanese. The first meaning is more often used in (semantically) negative expressions.
-  - When used in a conditional clauses, `-sy` takes the latter meaning “as long as”.
-  - e.g. `fosy zenbu maiveren` means “Even I don’t understand that”, where `maiver` means “to understand”; `fuz zenbusy maiveren` means “I don’t even understand that”. The former implies that “I’m understand a lot of things, but even it’s me, that is too hard to understand”, the latter implies that “That is easy, but I’m too stupid to understand such easy thing”.
+  - When used in conditional clauses, `-sy` takes the latter meaning “as long as”.
+  - e.g. `prasy zenbu maiveren` means “Even I don’t understand that”, where `maiver` means “to understand”; `prazu zenbusy maiveren` means “I don’t even understand that”. The former implies that “I’m understand a lot of things, but even it’s me, that is too hard to understand”, the latter implies that “That is easy, but I’m too stupid to understand such easy thing”.
 - `kravud`
   - `-d` means “while”, similar to “…うちに” in Japanese. This implies suitable and optimal circumstances for some action.
   - e.g. `mipened, epai` means “Set out before it has vanished” (lit. While it doesn’t vanish, go!)
 - `kravuv`
   - `-v` means “only”, similar to “だけ” in Japanese.
-  - e.g. `fov fonbu vebutez` means “Only I can do this”; `fuz fonbuv vebutez` means “I can only do this”, the difference is as it’s shown in the example in the `-sy` particle.
+  - e.g. `prav pranbu vebutez` means “Only I can do this”; `prazu pranbuv vebutez` means “I can only do this”, the difference is as it’s shown in the example in the `-sy` particle.
 - `kravuck`
   - `-ck` means “(as ...) as ...”, similar to “のように” in Japanese.
-  - e.g. `fuz zesu tezeck vebutez` means “I can do this as he can”; `fuz zesu raevuck raez` means “I’m as tall as he is”.
+  - e.g. `prazu zesu tezeck vebutez` means “I can do this as he can”; `prazu zesu raevuck raez` means “I’m as tall as he is”.
 
 ## Clauses
 

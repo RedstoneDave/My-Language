@@ -64,6 +64,10 @@ paf:
     en: now
     ja: ima
   type: s.
+raskam:
+  trans:
+    en: the darkness before dawn
+  type: s.
 rasyu:
   trans:
     en: dawn

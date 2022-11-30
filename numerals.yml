@@ -51,6 +51,9 @@ fri:
   operands: 1
   trans:
     en: multiplicative inverse
+frifai:
+  expression: x, y -> x + 1 / y
+  operands: 2
 fryu:
   expression: x, y -> x / y
   operands: 2

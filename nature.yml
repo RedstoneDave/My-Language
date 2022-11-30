@@ -15,6 +15,16 @@ fû:
     en: wind
     ja: kaze
   type: s.
+grug:
+  trans:
+    en: to boil
+    ja: waku
+  type: b.
+gruv:
+  trans:
+    en: to be boiling
+    ja: waiteiru
+  type: m.
 hedak:
   trans:
     en: to be frozen
@@ -105,7 +115,7 @@ revrep:
     en: to stop raining
     ja: ameno yami (suru)
   type: b.
-ruk:
+ruy:
   trans:
     en: fire
   type: s.
@@ -114,7 +124,7 @@ rukis:
     en: to burn
     ja: moeru
   type: s.
-rukre:
+ruke:
   trans:
     en: lava
   type: s.

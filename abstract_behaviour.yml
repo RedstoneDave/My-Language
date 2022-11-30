@@ -19,7 +19,7 @@ ebus:
   trans:
     en: to change
     ja: kawaru
-harev:
+hareb:
   trans:
     en: to mimic, to play some role
 icmenob:
@@ -109,7 +109,6 @@ serep:
 tafep:
   trans:
     en: to free
-  type: b.
 twak:
   trans:
     en: to seize; to possess by force

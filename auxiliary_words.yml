@@ -38,7 +38,7 @@ nak:
     ja: '-te iru'
   type: m.
   usage: b. conj form + ~
-nih:
+nik:
   trans:
     en: re-
     ja: '-naosu'
@@ -54,7 +54,7 @@ r:
     en: back
     ja: kaeru
   type: b.
-  usage: m. conj form + ~
+  usage: b. conj form + ~
 sk:
   note: |
     the difference of the termination spot between past and future could be shown by a time adverbial

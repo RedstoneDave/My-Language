@@ -98,6 +98,10 @@ kases:
   trans:
     en: to prowl, to wander
     ja: haikaisuru
+katep:
+  trans:
+    en: to lead
+    ja: michibiku
 kav:
   trans:
     en: to be standing
@@ -111,6 +115,10 @@ kawak:
 kes:
   trans:
     en: to go through, to read roughly, to leaf through, to patrol
+kodis:
+  trans:
+    en: to craft
+    ja: tsukuru
 krak:
   trans:
     en: to wash
@@ -119,6 +127,9 @@ kruep:
   trans:
     en: to swim
     ja: oyogu
+latam:
+  trans:
+    en: to ask for, to request for
 mais:
   trans:
     en: to read
@@ -192,6 +203,9 @@ rizit:
   trans:
     en: to take in
     ja: suu
+rukweb:
+  trans:
+    en: to lit (fire, anger, etc.)
 sesk:
   trans:
     en: to hunt
@@ -239,6 +253,10 @@ usat:
   trans:
     en: to give
     ja: ageru; kureru
+usib:
+  trans:
+    en: to exchange, to buy
+    ja: koukansuru, kau
 vas:
   trans:
     en: to tie

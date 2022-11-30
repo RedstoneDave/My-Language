@@ -1,3 +1,8 @@
+baros:
+  trans:
+    en: type, form, paradigm
+    ja: ruikei
+  type: s.
 hakon:
   trans:
     en: inequal

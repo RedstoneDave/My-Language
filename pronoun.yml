@@ -17,7 +17,7 @@ fo:
     term: fê
   trans:
     en: I
-    ja: watashi
+    ja: wa / watakushi
   type: s.
 foke:
   trans:
@@ -106,6 +106,30 @@ pom:
     en: we (inclusive)
     ja: watashi tachi
   type: s.
+pra:
+  trans:
+    en: I
+    ja: watashi / boku
+prake:
+  trans:
+    en: here
+    ja: koko
+  type: s.
+pramu:
+  trans:
+    en: we (exclusive)
+    ja: watashi tachi
+  type: s.
+pran:
+  trans:
+    en: this
+    ja: kore
+  type: s.
+prava:
+  trans:
+    en: this
+    ja: kono
+  type: g.
 ze:
   forms:
     top: zez
