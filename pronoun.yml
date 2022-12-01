@@ -34,6 +34,11 @@ fon:
     en: this
     ja: kore
   type: s.
+fongo:
+  trans:
+    en: now
+    ja: ima
+  type: s.
 fova:
   trans:
     en: this
@@ -70,6 +75,11 @@ kan:
   trans:
     en: that
     ja: sore
+  type: s.
+kango:
+  trans:
+    en: that time
+    ja: sono toki
   type: s.
 kava:
   trans:
@@ -124,6 +134,11 @@ pran:
   trans:
     en: this
     ja: kore
+  type: s.
+prango:
+  trans:
+    en: now
+    ja: ima
   type: s.
 prava:
   trans:

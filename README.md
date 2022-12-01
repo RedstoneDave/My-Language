@@ -6,7 +6,7 @@ Kratoma is a constructed “natural” language rather than a programming langua
 
 Kratoma is a language used by people in an isekai where exists “krin”, a power people in our world may consider as magic. Some people are born with the ability to master krin (called “krink”), the others are born without the power (called “krinaf”).
 
-Kratoma reflects the views of the people in the world, and ultimately reflects some thoughts of the author itself (yes, the author uses “it” as its pronoun).
+Kratoma reflects the views of the people in the world, and ultimately reflects some thoughts of the author itself (yes, the author uses “it” as its pronoun, but if you are uncomfortable with that, I'm OK with either “he” or “she”).
 
 There are no words that correspond to “good” or “bad”, “right” or “wrong”, “must” or “forbid”, instead, more specific feeling describing, logic or value describing and conditional expressions are used.
 
@@ -14,11 +14,23 @@ There are no words that correspond to “good” or “bad”, “right” or �
 
 ### The North Wind and the Sun
 
-> kofû fu saya nī rusksez t tomituke, kava gocu un otapin saeva
-> vea zuku vepuk. zemu luvu otapindo vea vukikswa rushez t waitek.
-> kofma fû tezeck totatukesy, rusksevu totatuc, otapin utksevu
-> zukuke; ze wapu nostu syafuk. saya saevu tarisuke, otapin ofanvu
-> veabu myokuk. pravevo, kofû sayasu rushez t cwaitederuv.
+> kofû fu saya nî rushez t tomituke, kangocu un otapin saeva
+> vea zuku vepuk. zemu p luvu zema vea vukwa rushez sat waitek.
+> kofû tezeck toratukesy, rushevu toratuc, otapin uthevu
+> zukuk. ze wapu nostu syafuk. saya saevu tarisuke, otapin ofanvu
+> vea myokuk. pravevo, kofû sayasu rushez t cwaitederuv.
+
+The pronounciation (shown in IPA):
+
+> <div style="font-family: Times New roman; font-size:120%;">
+> kʰo̞ˈfɯː fɯ ˈsa.ja ɲiː ˈɾɯs.he̞t͡s tʰ(ə) tʰoˈmi.t͡sɯ.ke̞,
+> ˈkʰaŋ.ɡo̞.ʃʉ ɯ̃ o̞ˈta.pin ˈsa.e̞.va ˈve̞.a ˈzɯ.kɯ ˈve̞.pɯkʰ. ze̞.mɯ
+> pʰ(ə) ˈɣɯ.vɯ ˈze̞.ma ˈve̞.a ˈvɯ.kʷa ˈɾɯs.he̞t͡s satʰ waj.te̞kʰ.
+> kʰo̞ˈfɯː ˈte̞.ze̞ʃkʰ tʰo̞ˈɾa.t͡sɯ.ke̞ɕ, ˈɾɯs.he̞.vɯ tʰoˈɾa.t͡sɯʃ,
+> o̞ˈta.pin utˈhe̞.vɯ zɯ.kɯkʰ. ze̞ ˈwa.pɯ ˈnos.t͡sɯ ɕa.fɯkʰ. sa.ja
+> sa.e̞.vɯ taˈɾi.sɯ.ke̞, o̞ˈta.pin o̞ˈfan.vɯ ˈve̞.a mʲo.kɯkʰ.
+> ˈpɾa.ve̞.vo̞, kʰo̞ˈfɯː ˈsa.ja.sɯ ˈɾɯs.he̞t͡s tʰ(ə) ʃwaj.tʰe.de.ɾɯv.
+> </div>
 
 ## Phonology
 
@@ -171,9 +183,9 @@ There are two parts of speech correspond to verbs in English, `burab` and `mosra
 - `vebist`
   - the dative trigger voice.
   - e.g. `zez praye lavbu usatist` means “He is given a book by me”.
-- `vebiks`
-  - `-iks` means “to let do” and `vebiks` is a `burab`
-  - used where the verb has a default trigger other than the agentive.
+- \*`deriks`
+  - `-iks` means “to let do” and `deriks` is a `burab`
+  - used where the verb has a default trigger other than the agentive, and makes it an agentive trigger voice, therefore `vebiks` is invalid.
 - `vebod`
   - `-od` means “in order to do” and `vebod` is a `mosrab`
 - `veba`
