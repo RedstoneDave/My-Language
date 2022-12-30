@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1649315736
-ModificationTime: 1649315736
+ModificationTime: 1669864180
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -42,8 +42,24 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 128 32 8
-OnlyBitmaps: 1
-BeginChars: 384 0
+WinInfo: 0 32 8
+BeginChars: 384 1
+
+StartChar: NameMe.0
+Encoding: 0 -1 0
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+289.75 -0.1396484375 m 3
+ 407.76953125 -0.1396484375 593.23046875 -0.1396484375 593.23046875 -0.1396484375 c 1
+ 593.23046875 -81.6298828125 l 1
+ 593.23046875 -81.6298828125 423.110351562 -81.6298828125 327.5703125 -81.6298828125 c 3
+ 264.592773438 -81.6298828125 283.099609375 -133 261 -133 c 3
+ 235.387695312 -133 220 -106.837890625 220 -73 c 3
+ 220 -46 248.999760716 -0.1396484375 289.75 -0.1396484375 c 3
+EndSplineSet
+EndChar
 EndChars
 EndSplineFont

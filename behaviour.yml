@@ -67,13 +67,17 @@ idok:
     en: to wimper
     ja: susurinaku
   type: m.
+isus:
+  trans:
+    en: to mill, to grind
+    ja: migaku
 ikesp:
   trans:
     en: to scrach
 ivak:
   trans:
     en: to take
-    ja: morau
+    ja: ubau
 kafras:
   trans:
     en: to study
@@ -138,6 +142,10 @@ maizit:
   trans:
     en: to learn
     ja: manabu
+mainoc:
+  trans:
+    en: to forget
+    ja: wasureru
 mayet:
   trans:
     en: to guess; to guess about
@@ -165,6 +173,10 @@ muvat:
 myok:
   trans:
     en: to peel; to take off (cloth)
+nafiz:
+  trans:
+    en: to pollute
+    ja: ozen; yokoreru
 nerac:
   trans:
     ja: inoru
@@ -218,9 +230,6 @@ skuc:
     en: to smile (from the heart)
     ja: (kokorokara) hohoemu
   type: m.
-stip:
-  trans:
-    en: to mill; to rub
 suyav:
   trans:
     en: to blink
@@ -257,6 +266,10 @@ usib:
   trans:
     en: to exchange, to buy
     ja: koukansuru, kau
+vak:
+  trans:
+    en: to recieve
+    ja: morau
 vas:
   trans:
     en: to tie
@@ -272,6 +285,10 @@ vaf:
     en: to hide
     ja: kakusu
 vof:
+  trans:
+    en: to be contained
+  type: m.
+vop:
   trans:
     en: contain for after use
 vuk:

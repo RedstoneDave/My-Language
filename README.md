@@ -46,28 +46,19 @@ The table below shows the consonant phonemes of Kratoma.
 | Tap or flap |          |             | ɾ        |              |         | N/A   | N/A     |
 | Approximant | w        |             |          |              | j(y)    |       | N/A     |
 
-and the list here shows some variations:
+and the list here shows some variations (“=?” marks free variations):
 
 - /p\b/ = \[ɸ\] (`\b` here means the end of a word, the same below)
-- /m(a)/ = \[β(a)\]
-- /m(fv)/ = \[ɱ(fv)\]
-- /n(kɡ)/ = \[ŋ(kɡ)\]
-- /tʲ/ = \[t͡ɕʰ\]
-- /dʲ/ = \[d͡ʑ\]
-- /n\b/ = \[ɴ\]
-- /sʲ/ = \[ɕ\]
-- /zʲ/ = \[ʑ\]
+- /m(a)/ =? \[β(a)\]
+- /m(fv)/ = \[ɱ(fv)\]; /n(kɡ)/ = \[ŋ(kɡ)\]
+- /tʲ/ = \[t͡ɕʰ\]; /dʲ/ = \[d͡ʑ\]; /sʲ/ = \[ɕ\]; /zʲ/ = \[ʑ\]
 - /z\b/ = \[t͡s\]
 - /(s)ʒ\b/ = \[(s)t\]
 - /ʒʷ/ = \[ʎ~ɣ\]
-- /(ptk)ɾ(a)/ = \[(ptk)χ(ɑ)\]
-- /(bdg)ɾ(a)/ = \[(bdg)ʁ(ɑ)\]
+- /(ptk)ɾ(a)/ =? \[(ptk)χ(ɑ)\]; /(bdg)ɾ(a)/ =? \[(bdg)ʁ(ɑ)\]
 - /ɾ\b/ = \[ʁ\]
-- /h\b/ = \[x\]
-- /hʲ/ = \[ç\]
-- /hʷ/ = \[x\]
-- /kʃ/ = \[t͡ʃʰ\]
-- /gʒ/ = \[d͡ʒ\]
+- /h\b/ = \[x\]; /hʲ/ = \[ç\]; /hʷ/ = \[x\]
+- /kʃ/ = \[t͡ʃʰ\]; /gʒ/ = \[d͡ʒ\]
 
 ### Vowels
 
@@ -216,7 +207,7 @@ This section is about `mosrab`, the stative verbs that cannot tell apart “befo
   - `on` means “not to be”, and with words other than `muk`, its straightly used after the word, yet `on` is used instead of `mukon`. `on` is a `mosrab`.
   - e.g. `prazu kavon` means “I’m not standing” where `kav` means “to be standing”
 - `mukas`
-  - this is the same as the `as` above, representing the absolutive.
+  - this is the same as the `as` above, representing the patient.
 - `mukyu`
   - `-yu` transforms a `mosrab` to a noun, the same as `veba` above.
 - `mukumva`

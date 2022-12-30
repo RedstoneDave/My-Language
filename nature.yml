@@ -115,6 +115,10 @@ revrep:
     en: to stop raining
     ja: ameno yami (suru)
   type: b.
+rik:
+  trans:
+    en: mountain
+    ja: yama
 ruy:
   trans:
     en: fire
@@ -206,6 +210,11 @@ yal:
   trans:
     en: sky
     ja: sora
+  type: s.
+yalons:
+  trans:
+    en: the outer space
+    ja: uchuu
   type: s.
 yalwek:
   trans:

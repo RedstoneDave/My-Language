@@ -13,6 +13,9 @@ dos:
   trans:
     en: mid
     ja: naka
+haf:
+  trans:
+    en: away
 syat:
   trans:
     en: front
@@ -21,6 +24,9 @@ kan:
   trans:
     en: south
     ja: minami
+kiyo:
+  trans:
+    en: edge
 kô:
   trans:
     en: north
@@ -37,6 +43,10 @@ okava:
 raf:
   trans:
     en: top
+    ja: ue
+rons:
+  trans:
+    en: up, beyond
     ja: ue
 san:
   trans:

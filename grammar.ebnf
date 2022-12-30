@@ -56,13 +56,13 @@ called garasu
 *)
 
 adjective stem = stem
-    | noun, "nu"            # form an adjective from a noun as "like ..."
-    | noun, "lu"            # form an adjective from a noun as "about ..."
-    | adjective stem, "kse" # more
-    | adjective stem, "gru" # most
-    | adjective stem, "na"  # negative form of an adjective
-    | stative verb, "um"    # form an adjective from a stative verb
-    | numeral, "ce";        # form an adjective from a numeral
+    | noun, "nu"           # form an adjective from a noun as "like ..."
+    | noun, "lu"           # form an adjective from a noun as "about ..."
+    | adjective stem, "he" # more
+    | adjective stem, "ra" # most
+    | adjective stem, "na" # negative form of an adjective
+    | stative verb, "um"   # form an adjective from a stative verb
+    | numeral, "ce";       # form an adjective from a numeral
 
 adjective = adjective stem, "va"; 
 

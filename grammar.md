@@ -42,9 +42,9 @@ A verb paradigm (`tondosma baros`) describes a set of verbs sharing a same argum
 - `retar baros`
   - AGEN
 - `tom baros`
-  - \*AGEN “speech”
+  - \*AGEN PAT=“speech”
 - `latam baros`
-  - \*PAT AGEN “speech”
+  - \*PAT AGEN PAT=“speech”
 - `muk baros`
   - \*AGEN
 - `tesam baros`
@@ -59,4 +59,4 @@ Yet there are still several isolated cases, which are:
 - `ivak`
   - \*DAT AGEN PAT
 - `der`
-  - \*PAT AGEN ALLA
+  - \*PAT ALLA AGEN
