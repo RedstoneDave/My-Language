@@ -4,7 +4,7 @@ Jaketo (IPA: \[jaˈkʰe.tʰo\]) is a constructed “natural” language rather t
 
 ## Idea
 
-Jaketo is a language used by people in an isekai where exists “krin”, a power people in our world may consider as magic. Some people are born with the ability to master krin (called “krink”), the others are born without the power (called “krinaf”).
+Jaketo is a language used by people in an isekai where exists “krin”, a power people in our world may consider as magic. Some people are born with the ability to master krin (called “krinu”), the others are born without the power (called “krina”).
 
 Jaketo reflects the views of the people in the world, and ultimately reflects some thoughts of the author itself (yes, the author uses “it” as its pronoun, but if you are uncomfortable with that, I'm OK with either “he” or “she”).
 
@@ -107,6 +107,8 @@ The terminal is basically the ending consonant of a syllable, apart from the voi
   - lengthens the vowel
 
 ## Parts of Speech
+
+(Awaiting changes)
 
 Jaketo is an agglutinative language highly relying on case particals and auxiliary words. Basic grammar forms can be found in the file `grammar.ebnf`.
 
@@ -337,6 +339,8 @@ check `grammar.md` and `grammar.enbf` for more information.
 
 ## Orthography
 
-Jaketo orthography is related to it's grammar (awaiting completion)
+(Awaiting completion)
+
+Jaketo uses the writing system Jakecu, which is an abugida system, details is to be written in a pdf file
 
 the file of the fonts are to be stored in the repository.

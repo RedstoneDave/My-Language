@@ -1,24 +1,3 @@
-dictionaries:
-  - abstract_behaviour.yml
-  - artificial.yml
-  - auxiliary_words.yml
-  - behaviour.yml
-  - body.yml
-  - colors.yml
-  - direction.yml
-  - feeling.yml
-  - krin.yml
-  - life.yml
-  - logic.yml
-  - nature.yml
-  - numerals.yml
-  - physical_property.yml
-  - pov.yml
-  - pronoun.yml
-  - shape.yml
-  - status.yml
-  - time.yml
-  - unclassified_new.yml
 types:
   - name: sokan
     nname: s.
