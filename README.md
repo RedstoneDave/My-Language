@@ -1,18 +1,20 @@
-# Kratoma - A Constructed Language for an Isekai
+# Jaketo - A Constructed Language for an Isekai
 
-Kratoma is a constructed “natural” language rather than a programming language. The language part of this repository is published under [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode), and if one day the author writes some code about the project, that code will be published under the MIT License.
+Jaketo (IPA: \[jaˈkʰe.tʰo\]) is a constructed “natural” language rather than a programming language. The language part of this repository is published under [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode), and if one day the author writes some code about the project, that code will be published under the MIT License.
 
 ## Idea
 
-Kratoma is a language used by people in an isekai where exists “krin”, a power people in our world may consider as magic. Some people are born with the ability to master krin (called “krink”), the others are born without the power (called “krinaf”).
+Jaketo is a language used by people in an isekai where exists “krin”, a power people in our world may consider as magic. Some people are born with the ability to master krin (called “krink”), the others are born without the power (called “krinaf”).
 
-Kratoma reflects the views of the people in the world, and ultimately reflects some thoughts of the author itself (yes, the author uses “it” as its pronoun, but if you are uncomfortable with that, I'm OK with either “he” or “she”).
+Jaketo reflects the views of the people in the world, and ultimately reflects some thoughts of the author itself (yes, the author uses “it” as its pronoun, but if you are uncomfortable with that, I'm OK with either “he” or “she”).
 
 There are no words that correspond to “good” or “bad”, “right” or “wrong”, “must” or “forbid”, instead, more specific feeling describing, logic or value describing and conditional expressions are used.
 
 ## Examples
 
 ### The North Wind and the Sun
+
+(Awaiting changes)
 
 > kofû fu saya nî rushez t tomituke, kangocu un otapin saeva
 > vea zuku vepuk. zemu p luvu zema vea vukwa rushez sat waitek.
@@ -34,65 +36,85 @@ The pronounciation (shown in IPA):
 
 ## Phonology
 
-### Consonants
+Each syllable of Jaketo is divided into four parts, the base, the glide, the vowel, the terminal.
 
-The table below shows the consonant phonemes of Kratoma.
+### Base
 
-|             | Bilabial | Labiodental | Alveolar | PastAlveolar | Palatal | Velar | Glottal |
-| ----------- | -------- | ----------- | -------- | ------------ | ------- | ----- | ------- |
-| Plosive     | pʰ b     |             | tʰ d     |              |         | kʰ ɡ  |         |
-| Nasal       | m        |             | n        |              |         |       | N/A     |
-| Fricative   |          | f v         | s z      | ʃ(c) ʒ(l)    |         |       | h       |
-| Tap or flap |          |             | ɾ        |              |         | N/A   | N/A     |
-| Approximant | w        |             |          |              | j(y)    |       | N/A     |
+The base is basically the starting consonant of a syllable, all possible bases are shown below.
 
-and the list here shows some variations (“=?” marks free variations):
+|           | Bilabial | Alveolar | Velar | Glottal |
+| --------- | -------- | -------- | ----- | ------- |
+| Plosive   | pʰ b     | tʰ d     | kʰ ɡ  | ʔ       |
+| Nasal     | m        | n        |       | N/A     |
+| Fricative |          | s        |       |         |
+| Affricate |          | ts (z)   |       |         |
 
-- /p\b/ = \[ɸ\] (`\b` here means the end of a word, the same below)
-- /m(a)/ =? \[β(a)\]
-- /m(fv)/ = \[ɱ(fv)\]; /n(kɡ)/ = \[ŋ(kɡ)\]
-- /tʲ/ = \[t͡ɕʰ\]; /dʲ/ = \[d͡ʑ\]; /sʲ/ = \[ɕ\]; /zʲ/ = \[ʑ\]
-- /z\b/ = \[t͡s\]
-- /(s)ʒ\b/ = \[(s)t\]
-- /ʒʷ/ = \[ʎ~ɣ\]
-- /(ptk)ɾ(a)/ =? \[(ptk)χ(ɑ)\]; /(bdg)ɾ(a)/ =? \[(bdg)ʁ(ɑ)\]
-- /ɾ\b/ = \[ʁ\]
-- /h\b/ = \[x\]; /hʲ/ = \[ç\]; /hʷ/ = \[x\]
-- /kʃ/ = \[t͡ʃʰ\]; /gʒ/ = \[d͡ʒ\]
+the void base is the glottal stop or just nothing, is nothing or a ⟨'⟩ in the Romanisation. The Romanisation of the base \[ts\] is ⟨z⟩.
 
-### Vowels
+### Glide
 
-The table below shows the vowel phonemes of Kratoma. The schwa is pronounced when it’s hard to pronounce two consonants successively and doesn't exist as a phoneme.
+A glide is basically a consonant after the base, apart from the void glide (which means no glide), there are four glides, which are (in the Romanisation):
 
-Each of the vowels except for the schwa has a long version, which is typically 0.5 times longer than the plain version.
+- ⟨l⟩
+  - a special glide that actually alters the consonant of the base, details are below.
+  - when appearing with the void base, reads \[ɰ\], but the sequence ⟨'lu⟩ reads \[y\],
+  - if you are familiar with ancient Chinese, then this is just similar to the “èrděng”(二等) approximant.
+- ⟨r⟩
+  - the tap/flap \[ɾ\]
+- ⟨j⟩
+  - the approximant \[j\]
+  - ⟨tj⟩ = ⟨zj⟩ = \[tɕ\]; ⟨sj⟩ = \[ɕ\]; ⟨dj⟩ = \[dʑ\]; ⟨kj⟩ = \[c\]; ⟨gj⟩ = \[ɟ\]
+- ⟨w⟩
+  - the approximant \[w\], sometimes realised as \[v\] or \[ʋ\]
 
-|        | Front | Mid | Back |
-| ------ | ----- | --- | ---- |
-| Top    | i     |     | ɯ    |
-| Middle | e̞     | (ə) | o̞    |
-| Bottom |       | ä   |      |
+|               | Labialdental              | Alveolar                | Glottal             |
+| ------------- | ------------------------- | ----------------------- | ------------------- |
+| Fricative     | f (pl = ⟨f⟩) v (bl = ⟨v⟩) |                         | h (kl = ⟨h⟩) ɦ (gl) |
+| Lateral Fric. | N/A                       | ɬ (sl = ⟨c⟩) ɮ (zl; dl) |                     |
+| Lateral Affr. | N/A                       | tɬ (tl)                 |                     |
 
-and the list here shows some variations:
+the ⟨f⟩ ⟨v⟩ ⟨c⟩ ⟨h⟩ above are alias for those base-l sequences. The \[ɦ\] is omitted in some dialects. The combinations ⟨ml⟩ and ⟨nl⟩ does not exist (at least no more).
 
-- /(jʃʒ)ɯ/ = \[(jʃʒ)ʉ\]
-- /(ʃʒ)i/ = \[(ʃʒ)ɨ\]
-- /(t|d|fj|vj)ɯ/ = \[(t|d|f|v)y͑\]
+### Vowel
 
-## Orthography
+The table below shows the vowel phonemes of Jaketo. The schwa can be omitted as it doesn't feel hard to read through, however it's Romanisation ⟨y⟩ cannot be omitted.
 
-There are two writing systems in Kratoma, one is called `hwancuma` (lit. common writing) and the other is called `krincuma` (lit. krin(magic) writing).
+|        | Front | Mid   | Back  |
+| ------ | ----- | ----- | ----- |
+| Top    | i (i) |       | ɯ (u) |
+| Middle | e̞ (e) | ə (y) | o̞ (o) |
+| Bottom |       | ä (a) |       |
 
-the file of the fonts are to be stored in the repository.
+In the parenthesis are the Romanisation of the vowels. Besides the vowels above, there is a special symbol with a Romanisation of ⟨q⟩ that is put to the end of a verb or stative verb to mark that the last base is muted, which is to tell the reader which word it is and how it's transformed.
+
+### Terminal
+
+The terminal is basically the ending consonant of a syllable, apart from the void terminal, there are eight terminals, which are:
+
+- n
+  - the nasal \[n\], realised as \[ɴ\] at the end of a word, as \[ŋ\] before a velar consonant, does not appear before a bilabial consonant.
+- m
+- j
+- w
+  - often realised as \[f\] or \[v\]
+- s
+- z
+  - as is in the base, reads \[ts\]
+- x
+  - a glottal stop at the end of a word, or lengthens the next base
+  - for example: ⟨mexka⟩ reads \[mek̚.ka\]
+- l
+  - lengthens the vowel
 
 ## Parts of Speech
 
-Kratoma is an agglutinative language highly relying on case particals and auxiliary words. Basic grammar forms can be found in the file `grammar.ebnf`.
+Jaketo is an agglutinative language highly relying on case particals and auxiliary words. Basic grammar forms can be found in the file `grammar.ebnf`.
 
-Kratoma has five parts of speech, `sokan` (nouns), `burab` (verbs), `mosrab` (stative verbs), `garasu` (adjectives), `unekin` (numerals).
+Jaketo has five parts of speech, `sokan` (nouns), `burab` (verbs), `mosrab` (stative verbs), `garasu` (adjectives), `unekin` (numerals).
 
 ### Nouns
 
-In Kratoma, nouns are called `sokan`, `sokan` is the only type of word that can have case particals after one. An example of `sokan` is `fesa` (meaning “human”). Specially, some pronouns have contracted forms when sticked to a case partical, forms can be viewed in the `pronoun.yml` file.
+In Jaketo, nouns are called `sokan`, `sokan` is the only type of word that can have case particals after one. An example of `sokan` is `fesa` (meaning “human”). Specially, some pronouns have contracted forms when sticked to a case partical, forms can be viewed in the `pronoun.yml` file.
 
 Here are the forms of the word `fesa`:
 
@@ -118,7 +140,7 @@ Here are the forms of the word `fesa`:
   - and `prazu kado ocom` means “I sing for you” where `ka` means “you”.
 - `fesacu`
   - `cu` indecates the position, also time.
-  - e.g. `prazu prakecu muk` means “I am here” (lit. I exist at here)
+  - e.g. `prazu prakecu mjuk` means “I am here” (lit. I exist at here)
 - `fesakaf`
   - `kaf` indecates the comitative, as “with me” in “He went on a walk with me”, used in neutral cases or cases where the candidates are of the same attention.
   - e.g. `prakaf kasep` means “to walk with me”
@@ -149,7 +171,7 @@ And `sokan`s can take the part of predicate, such as `prazu fesa`, meaning “I�
 
 ### Verbs
 
-There are two parts of speech correspond to verbs in English, `burab` and `mosrab`, this section is about `burab`, verbs that can tell apart “before” and “after”. An example of `burab` is `veb`(meaning “to do”). Here are the forms of the word `veb`.
+There are two parts of speech correspond to verbs in English, `burab` and `mosrab`, this section is about `burab`, verbs that can tell apart “before” and “after”. An example of `burab` is `vebq`(meaning “to do”). Here are the forms of the word `vebq`.
 
 - `vebu`
   - `u` after a `burab` enables it to join with other words, to modify the predicate, and to form a dependent clause.
@@ -199,52 +221,52 @@ There are two parts of speech correspond to verbs in English, `burab` and `mosra
 
 ### Stative Verbs
 
-This section is about `mosrab`, the stative verbs that cannot tell apart “before” or “after”. An example of `mosrab` is `muk` (meaning “to be; to exist”). Here are the forms of the word `muk`.
+This section is about `mosrab`, the stative verbs that cannot tell apart “before” or “after”. An example of `mosrab` is `mjukq` (meaning “to be; to exist”). Here are the forms of the word `mjukq`.
 
-- `muke`
+- `mjuke`
   - `e` after a `mosrab` enables it to join with other words, to modify the predicate and to form a dependent clause, just like `u` after a `burab`
-- `on`
-  - `on` means “not to be”, and with words other than `muk`, its straightly used after the word, yet `on` is used instead of `mukon`. `on` is a `mosrab`.
-  - e.g. `prazu kavon` means “I’m not standing” where `kav` means “to be standing”
-- `mukas`
+- `onq`
+  - `onq` means “not to be”, and with words other than `mjukq`, its straightly used after the word, yet `onq` is used instead of `mjukonq`. `onq` is a `mosrab`.
+  - e.g. `prazu kavonq` means “I’m not standing” where `kavq` means “to be standing”
+- `mjukas`
   - this is the same as the `as` above, representing the patient.
-- `mukyu`
-  - `-yu` transforms a `mosrab` to a noun, the same as `veba` above.
-- `mukumva`
+- `mjukju`
+  - `-ju` transforms a `mosrab` to a noun, the same as `veba` above.
+- `mjukumva`
   - `-umva` transforms a `mosrab` to an adjective, this allows it to use comparison.
-- `muki`
+- `mjuki`
   - `-i` enables a `mosrab` to modify a noun, just like `o` after a `burab`.
-  - e.g. `muki fesa` means “existing person”
-- `muku-` + ( `ns` | `sp` | `st` | `ks` )
+  - e.g. `mjuki fesa` means “existing person”
+- `mjuku-` + ( `ns` | `sp` | `st` | `ks` )
   - the same as the forms of `burab` above.
 
 ### Adjectives
 
-Adjectives in Kratoma are called `gasaru`, the semantic division between `gasaru` and `mosrab` is not clear, and these two can transform to each other. An example of `gasaru` is `krava` (meaning “blue; azure; cute”).
+Adjectives in Jaketo are called `gasaru`, the semantic division between `gasaru` and `mosrab` is not clear, and these two can transform to each other. An example of `gasaru` is `krava` (meaning “blue; azure; cute”).
 
 Adjectives have two basic forms, one is the modifier form, the other is the predicative form. In dictionaries, adjectives are shown in the first form, which ends in `-va`, the second form is obtained by replacing the `-va` with `-z`. For example, the modifier form `krava` has a corresponding predicative form `kraz`. Other variants are shown below.
 
 - `kravu`
-  - this form is the same as the `muke` and `vebu` form.
-  - e.g. `luvu kasep` means “to walk fast” where `luva` means “fast” and `kasep` means “to walk”
+  - this form is the same as the `mjuke` and `vebu` form.
+  - e.g. `luvu kasepq` means “to walk fast” where `luva` means “fast” and `kasep` means “to walk”
 - `kranava`
   - `-nava` is the negative suffix, and `kranava` means “not blue”
-  - e.g. `prazu furnava` means “I’m not young”
+  - e.g. `prazu furnaz` means “I’m not young”
 - `kraheva`
   - `-kseva` is the comparative suffix, and `kraheva` means “more blue”
   - e.g. `krinzu kreye krahez` means “Krin is more blue than water”, a proverb which means “the younger generation have more energy and opportunities”
 - `krarava`
   - `-rava` is the superlative suffix, and `krarava` means “most blue”
-  - e.g. `prazu luravu kasep` means “I walk the fastest”.
+  - e.g. `prazu luravu kasepq` means “I walk the fastest”.
 - `kravan`
   - `-van` makes the adjective an abstract noun, yet `kra` it self is the noun “blue” so `kravan` is basically never used.
-- `kravei`
-  - `-vei` makes the adjective an instance noun, and `kravei` means “something blue”
-  - e.g. `prazu kraveibu tesin` means “I like blue things” or “I like cute things”
+- `kravel`
+  - `-vel` makes the adjective an instance noun, and `kravel` means “something blue”
+  - e.g. `prazu kravelbu tesinq` means “I like blue things” or “I like cute things”
 
 ### Numerals
 
-Numerals in Kratoma are called `unekin`, this word is formed from the words for 1, 2 and 3. However, `unekin` has more words than numbers, concepts like “many” `mo`, “part” `ecu`, “same” `wa`, “common” `hwa` are also `unekin`s. Let’s take the word `u` (meaning “one”) for example. Here are the forms of the word.
+Numerals in Jaketo are called `unekin`, this word is formed from the words for 1, 2 and 3. However, `unekin` has more words than numbers, concepts like “many” `mo`, “part” `ecu`, “same” `wa`, “common” `hwa` are also `unekin`s. Let’s take the word `u` (meaning “one”) for example. Here are the forms of the word.
 
 - `un`
   - `-n` enables an `unekin` to modify a noun.
@@ -260,7 +282,7 @@ More information about Numerals is shown in `grammar.md` section `Numeral Combin
 
 ### Adverbials
 
-Technically, there is no unique word class “adverb” in Kratoma, the role of adverbs is mostly played by adverbial form of adjectives and partially the stative verbs (such as “always” can be represented using the auxiliary stative verb `vekc`). Yet, some particals can be attached to adverbial forms to adjust their meaning. The topic partical `zu` is usually omitted when having these suffixes. Let’s take the adverbial form `kravu` of the adjective `krava` as an example:
+Technically, there is no unique word class “adverb” in Jaketo, the role of adverbs is mostly played by adverbial form of adjectives and partially the stative verbs (such as “always” can be represented using the auxiliary stative verb `vekc`). Yet, some particals can be attached to adverbial forms to adjust their meaning. The topic partical `zu` is usually omitted when having these suffixes. Let’s take the adverbial form `kravu` of the adjective `krava` as an example:
 
 - `kravul`
   - `-l` means “also; even”, similar to “も” in Japanese. The latter meaning is more often used in (semantically) affirmative expressions.
@@ -281,7 +303,7 @@ Technically, there is no unique word class “adverb” in Kratoma, the role of 
 
 ## Clauses
 
-Kratoma is predicate-based, every other component in a sentence is analysed to be an adverbial (ie. modifier) of the predicate. The predicate of a clause could be a `sokan`, `burab`, `mosrab` or `-z` form of `gasaru`, as for `unekin`, just add a `-k` to it to form a `sokan`.
+Jaketo is predicate-based, every other component in a sentence is analysed to be an adverbial (ie. modifier) of the predicate. The predicate of a clause could be a `sokan`, `burab`, `mosrab` or `-z` form of `gasaru`, as for `unekin`, just add a `-k` to it to form a `sokan`.
 
 ### Independent Clause
 
@@ -312,3 +334,9 @@ Adjective clauses modify nouns, they come directly before the modified nouns wit
 ## Other Grammar
 
 check `grammar.md` and `grammar.enbf` for more information.
+
+## Orthography
+
+Jaketo orthography is related to it's grammar (awaiting completion)
+
+the file of the fonts are to be stored in the repository.

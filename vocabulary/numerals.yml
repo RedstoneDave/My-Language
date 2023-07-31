@@ -1,3 +1,5 @@
+# this file is to be preserved
+# numerals have special attributes
 __default__:
   type: u.
   operands: 0
@@ -24,7 +26,7 @@ ecu:
 edri:
   trans:
     en: whole
-fai:
+faj:
   expression: x, y -> x + y
   operands: 2
   trans:
@@ -34,27 +36,27 @@ fe:
   trans:
     en: eight, 8
     ja: ya, hachi
-fra:
+gra:
   expression: x -> -x
   operands: 1
   trans:
     en: negative; addictive inverse
     ja: fuku
-fro:
+iw:
   expression: x, y -> x - y
   operands: 2
   trans:
     en: minus
     ja: hiku
-fri:
+gri:
   expression: x -> 1 / x
   operands: 1
   trans:
     en: multiplicative inverse
-frifai:
+gife:
   expression: x, y -> x + 1 / y
   operands: 2
-fryu:
+osa:
   expression: x, y -> x / y
   operands: 2
   trans:
@@ -64,7 +66,7 @@ gu:
   trans:
     en: nine, 9
     ja: kokono, kyuu
-hwa:
+yfa:
   trans:
     en: common
     ja: tomona
@@ -76,7 +78,7 @@ ki:
   trans:
     en: three, 3
     ja: mi, san
-lai:
+laj:
   trans:
     en: other
     ja: hokano
@@ -88,7 +90,7 @@ lo:
   trans:
     en: little
     ja: sukoku
-lwa:
+kwa:
   operands: 1
   trans:
     en: ordinal, -th
@@ -119,7 +121,7 @@ ri:
   trans:
     en: six, 6
     ja: mui, roku
-stasi:
+tasi:
   operands: 1
   trans:
     ja: zutsu

@@ -46,16 +46,16 @@ types:
         default: "%cu"
       - name: cominative
         nname: com
-        default: "%kaf"
+        default: "%kaw"
       - name: anti-cominative
         nname: ant
-        default: "%nof"
+        default: "%now"
       - name: ablative
         nname: abla
-        default: "%ye"
+        default: "%'je"
       - name: terminative
         nname: term
-        default: "%we"
+        default: "%'we"
   - name: burab
     nname: b.
   - name: mosrab

@@ -1,3 +1,7 @@
 
 *.pdf
 *.png
+*/__pycache__/
+vocabulary/dict.yml
+
+# use the generate command to generate the dict.yml file

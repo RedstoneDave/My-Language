@@ -25,7 +25,7 @@ As one of the characteristic pieces of grammar, `unekin`s take a special rule to
 
 For numbers less than a hundred thousand, distinct words are used, these words are formed using a rule similar to that of Chinese, each decimal digit joins with the power of ten and those are connected together. For example: the number `1926` is `ukegumunedari` (1-thousand-9-hundred-2-ten-6), each syllable stands for a part.
 
-Along with “pure” numerals that can stand alone, there are “operating” numerals that need one or more numbers to form complete structures. For example, in order to represent lare numbers like `998244353`, the operator `to` is used, this operator takes two numbers `x` and `y`and returns `x*100000+y`, and `998244353` is `gukegumufedane dodedokekimutadaki to`. Other operating numerals include “plus”, “multiply”.
+Along with “pure” numerals that can stand alone, there are “operating” numerals that need one or more numbers to form complete structures. For example, in order to represent lare numbers like `998244353`, the operator `to` is used, this operator takes two numbers `x` and `y` and returns `x*100000+y`, and `998244353` is `gukegumufedane dodedokekimutadaki to`. Other operating numerals include “plus”, “multiply”.
 
 ## Verb Paradigms
 
@@ -44,7 +44,7 @@ A verb paradigm (`tondosma baros`) describes a set of verbs sharing a same argum
 - `tom baros`
   - \*AGEN PAT=“speech”
 - `latam baros`
-  - \*PAT AGEN PAT=“speech”
+  - \*DAT AGEN PAT=“speech”
 - `muk baros`
   - \*AGEN
 - `tesam baros`
