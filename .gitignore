@@ -3,5 +3,8 @@
 *.png
 */__pycache__/
 vocabulary/dict.yml
+fonts/sarasa-fixed-sc-regular.ttf
+*.sty
 
-# use the generate command to generate the dict.yml file
+# use the generate command in ./code/dictionary.py to generate the dict.yml file
+# the .sty files are done later and not included for now

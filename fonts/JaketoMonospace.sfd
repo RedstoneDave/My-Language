@@ -1,0 +1,1829 @@
+SplineFontDB: 3.2
+FontName: JaketoMonospace
+FullName: Jaketo Monospace
+FamilyName: Jaketo
+Weight: Black
+Copyright: Copyright (c) 2023, Izumi Rei (aka. RedstoneDave; redstoneguo@outlook.com). Portions Copyright (c) 2015-2023, Renzhi Li (aka. Belleve Invis, belleve@typeof.net). Portions Copyright (c) 2016-2020 The Inter Project Authors. Portions Copyright (c) 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/). Portions Copyright (c) 2012 Google Inc.
+UComments: "2022-4-7: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -102
+UnderlineWidth: 51
+Ascent: 819
+Descent: 205
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 286 -633747124 26138]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1649315736
+ModificationTime: 1691413345
+PfmFamily: 17
+TTFWeight: 900
+TTFWidth: 5
+LineGap: 92
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 92
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+OS2CodePages: 00000000.00000100
+OS2UnicodeRanges: 00000000.10000000.00000000.00000000
+Lookup: 260 0 0 "'mark' Mark Positioning in Jaketo lookup 0" { "'mark' Mark Positioning in Jaketo lookup 0-1"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+Encoding: Custom
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 16 10
+BeginPrivate: 0
+EndPrivate
+TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+AnchorClass2: "JaketoTopSp" "'mark' Mark Positioning in Jaketo lookup 0-1" "JaketoBottom" "'mark' Mark Positioning in Jaketo lookup 0-1" "JaketoTop" "'mark' Mark Positioning in Jaketo lookup 0-1"
+BeginChars: 102 53
+
+StartChar: Jaketo.a
+Encoding: 0 59136 0
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: -8 70<179.448 320.552> 458 70<179.448 320.552>
+VStem: 56 78<108.168 411.832> 366 78<108.168 411.832>
+AnchorPoint: "JaketoTopSp" 250 590 basechar 0
+AnchorPoint: "JaketoBottom" 250 -20 basechar 0
+AnchorPoint: "JaketoTop" 250 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+250 -8 m 256
+ 232 -8 214 -6 196 -2 c 0
+ 178 2 161 7 146 16 c 0
+ 131 25 116 36 104 50 c 0
+ 92 64 82 78 75 94 c 0
+ 68 110 63 128 60 146 c 0
+ 57 164 56 182 56 200 c 2
+ 56 320 l 2
+ 56 338 57 356 60 374 c 0
+ 63 392 68 410 75 426 c 0
+ 82 442 92 456 104 470 c 0
+ 116 484 131 495 146 504 c 0
+ 161 513 178 518 196 522 c 0
+ 214 526 232 528 250 528 c 256
+ 268 528 286 526 304 522 c 0
+ 322 518 339 513 354 504 c 0
+ 369 495 384 484 396 470 c 0
+ 408 456 418 442 425 426 c 0
+ 432 410 437 392 440 374 c 0
+ 443 356 444 338 444 320 c 2
+ 444 200 l 2
+ 444 182 443 164 440 146 c 0
+ 437 128 432 110 425 94 c 0
+ 418 78 408 64 396 50 c 0
+ 384 36 369 25 354 16 c 0
+ 339 7 322 2 304 -2 c 0
+ 286 -6 268 -8 250 -8 c 256
+250 62 m 256
+ 261 62 273 63 284 66 c 0
+ 295 69 306 74 315 80 c 0
+ 324 86 333 94 340 103 c 0
+ 347 112 352 122 356 133 c 0
+ 360 144 363 155 364 166 c 0
+ 365 177 366 189 366 200 c 2
+ 366 320 l 2
+ 366 331 365 343 364 354 c 0
+ 363 365 360 376 356 387 c 0
+ 352 398 347 408 340 417 c 0
+ 333 426 324 434 315 440 c 0
+ 306 446 295 451 284 454 c 0
+ 273 457 261 458 250 458 c 256
+ 239 458 227 457 216 454 c 0
+ 205 451 194 446 185 440 c 0
+ 176 434 167 426 160 417 c 0
+ 153 408 148 398 144 387 c 0
+ 140 376 137 365 136 354 c 0
+ 135 343 134 331 134 320 c 2
+ 134 200 l 2
+ 134 189 135 177 136 166 c 0
+ 137 155 140 144 144 133 c 0
+ 148 122 153 112 160 103 c 0
+ 167 94 176 86 185 80 c 0
+ 194 74 205 69 216 66 c 0
+ 227 63 239 62 250 62 c 256
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.sa
+Encoding: 1 59137 1
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: -8 70<242 311.316> 0 21G<64 142> 458 70<201.513 315.398>
+VStem: 64 78<0 413.923 429 520> 358 78<110.348 410.333>
+AnchorPoint: "JaketoTopSp" 280 590 basechar 0
+AnchorPoint: "JaketoBottom" 210 -20 basechar 0
+AnchorPoint: "JaketoTop" 250 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+250 458 m 0xb8
+ 228 458 142 453 142 320 c 6
+ 142 0 l 5
+ 64 0 l 5x78
+ 64 520 l 5
+ 142 520 l 5
+ 142 429 l 5
+ 159 473 196 528 280 528 c 0
+ 366 528 436 469 436 320 c 2
+ 436 200 l 2
+ 436 161 431 -8 242 -8 c 1
+ 242 62 l 1
+ 272 64 358 69 358 200 c 2
+ 358 320 l 2
+ 358 363 347 458 250 458 c 0xb8
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.za
+Encoding: 2 59138 2
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: -8 70<242 311.316> 0 21G<64 142> 225 70<142 358> 458 70<201.513 315.398>
+VStem: 64 78<0 225 295 413.923 429 520> 358 78<110.348 225 295 410.333>
+AnchorPoint: "JaketoTopSp" 280 590 basechar 0
+AnchorPoint: "JaketoBottom" 210 -20 basechar 0
+AnchorPoint: "JaketoTop" 250 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+250 458 m 0x3c
+ 228 458 142 453 142 320 c 2
+ 142 295 l 5
+ 358 295 l 5
+ 358 320 l 2
+ 358 363 347 458 250 458 c 0x3c
+358 225 m 5
+ 142 225 l 5
+ 142 0 l 1
+ 64 0 l 1x7c
+ 64 225 l 1
+ 64 295 l 1
+ 64 520 l 1
+ 142 520 l 1
+ 142 429 l 1
+ 159 473 196 528 280 528 c 0
+ 366 528 436 469 436 320 c 2
+ 436 295 l 1
+ 436 225 l 1
+ 436 200 l 2
+ 436 161 431 -8 242 -8 c 1
+ 242 62 l 1xbc
+ 272 64 358 69 358 200 c 2
+ 358 225 l 5
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.pa
+Encoding: 3 59139 3
+Width: 500
+Flags: HW
+HStem: -8 70<183.924 300.768> 0 21G<358 436>
+VStem: 64 78<107.75 735> 358 78<0 91 107.557 520>
+AnchorPoint: "JaketoTopSp" 395 590 basechar 0
+AnchorPoint: "JaketoBottom" 250 -10 basechar 0
+AnchorPoint: "JaketoTop" 395 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+220 -8 m 0xb0
+ 203 -8 187 -6 171 -1 c 0
+ 155 4 140 12 128 22 c 0
+ 116 32 106 44 97 58 c 0
+ 88 72 81 88 76 104 c 0
+ 71 120 68 136 66 152 c 0
+ 64 168 64 184 64 200 c 2
+ 64 735 l 1
+ 142 735 l 5
+ 142 200 l 2
+ 142 189 143 177 144 166 c 0
+ 145 155 148 144 151 134 c 0
+ 154 124 160 114 166 105 c 0
+ 172 96 179 88 188 81 c 0
+ 197 74 206 69 217 66 c 0
+ 228 63 239 62 250 62 c 256xb0
+ 261 62 272 63 283 66 c 0
+ 294 69 303 74 312 81 c 0
+ 321 88 328 96 334 105 c 0
+ 340 114 346 124 349 134 c 0
+ 352 144 355 155 356 166 c 0
+ 357 177 358 189 358 200 c 2
+ 358 520 l 1
+ 436 520 l 1
+ 436 0 l 1
+ 358 0 l 1x70
+ 358 91 l 1
+ 353 77 346 64 337 51 c 0
+ 328 38 318 27 306 18 c 0
+ 294 9 279 2 264 -2 c 0
+ 249 -6 235 -8 220 -8 c 0xb0
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.ta
+Encoding: 6 59142 4
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: -8 70<184.602 298.487> 0 21G<358 436> 458 70<188.684 258>
+VStem: 64 78<109.667 409.652> 358 78<0 91 106.077 520>
+AnchorPoint: "JaketoTopSp" 300 590 basechar 0
+AnchorPoint: "JaketoBottom" 250 -20 basechar 0
+AnchorPoint: "JaketoTop" 285 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+250 62 m 4xb8
+ 272 62 358 67 358 200 c 6
+ 358 520 l 5
+ 436 520 l 5
+ 436 0 l 5
+ 358 0 l 5x78
+ 358 91 l 5
+ 341 47 304 -8 220 -8 c 4
+ 134 -8 64 51 64 200 c 6
+ 64 320 l 6
+ 64 359 69 528 258 528 c 5
+ 258 458 l 5
+ 228 456 142 451 142 320 c 6
+ 142 200 l 6
+ 142 157 153 62 250 62 c 4xb8
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.da
+Encoding: 7 59143 5
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: -8 70<184.602 298.487> 0 21G<358 436> 408 112<166.75 213> 450 70<64 152>
+VStem: 64 149<450 520> 64 78<109.667 382.448> 358 78<0 91 106.077 520>
+AnchorPoint: "JaketoTopSp" 300 590 basechar 0
+AnchorPoint: "JaketoBottom" 250 -20 basechar 0
+AnchorPoint: "JaketoTop" 250 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+64 278 m 2x86
+ 64 295 65 313 68 330 c 0
+ 71 347 75 362 82 378 c 0
+ 89 394 98 408 110 421 c 0
+ 122 434 136 443 152 450 c 1
+ 64 450 l 1
+ 64 520 l 1x9a
+ 213 520 l 1
+ 213 408 l 1x2a
+ 209 408 l 2
+ 200 408 192 405 184 400 c 0
+ 176 395 169 389 164 382 c 0
+ 159 375 156 367 153 358 c 0
+ 150 349 148 341 146 332 c 0
+ 144 323 142 315 142 306 c 0
+ 142 297 142 287 142 278 c 2
+ 142 200 l 2
+ 142 157 153 62 250 62 c 0xa6
+ 272 62 358 67 358 200 c 2
+ 358 520 l 1
+ 436 520 l 1
+ 436 0 l 5
+ 358 0 l 1x56
+ 358 91 l 1
+ 341 47 304 -8 220 -8 c 0
+ 134 -8 64 51 64 200 c 2
+ 64 278 l 2x86
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.na
+Encoding: 8 59144 6
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: -8 70<184.602 298.487> 0 21G<358 436> 225 70<142 358> 458 70<188.684 258>
+VStem: 64 78<109.667 225 295 409.652> 358 78<0 91 106.077 225 295 520>
+AnchorPoint: "JaketoTopSp" 300 590 basechar 0
+AnchorPoint: "JaketoBottom" 250 -20 basechar 0
+AnchorPoint: "JaketoTop" 250 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+250 62 m 0xbc
+ 272 62 358 67 358 200 c 2
+ 358 225 l 1
+ 142 225 l 5
+ 142 200 l 2
+ 142 157 153 62 250 62 c 0xbc
+358 295 m 1
+ 358 520 l 1
+ 436 520 l 1
+ 436 0 l 1
+ 358 0 l 1x7c
+ 358 91 l 1
+ 341 47 304 -8 220 -8 c 0
+ 134 -8 64 51 64 200 c 2
+ 64 320 l 2
+ 64 359 69 528 258 528 c 1
+ 258 458 l 1
+ 228 456 142 451 142 320 c 2
+ 142 295 l 1
+ 358 295 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.ba
+Encoding: 4 59140 7
+Width: 500
+Flags: HW
+HStem: -8 70<165.869 310.768> 0 21G<368 446> 275 70<168.537 276>
+VStem: 48 78<100.046 235.34> 64 78<371.608 748> 368 78<0 91 107.557 520>
+AnchorPoint: "JaketoTopSp" 400 590 basechar 0
+AnchorPoint: "JaketoBottom" 250 -20 basechar 0
+AnchorPoint: "JaketoTop" 405 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+230 -8 m 0xb4
+ 140 -8 87 18 58 100 c 0
+ 53 115 48 143 48 169 c 0xb4
+ 48 256 111 300 139 311 c 1
+ 97 330 64 358 64 421 c 2
+ 64 748 l 1
+ 142 748 l 1
+ 142 421 l 2xac
+ 143 403 161 345 225 345 c 2
+ 276 345 l 1
+ 276 275 l 1
+ 225 275 l 2
+ 186 275 126 243 126 170 c 0
+ 126 139 135 62 247 62 c 0xb4
+ 269 62 278 63 293 66 c 0
+ 304 68 313 74 322 81 c 0
+ 331 88 338 96 344 105 c 0
+ 350 114 356 124 359 134 c 0
+ 362 144 365 155 366 166 c 0
+ 367 177 368 189 368 200 c 2
+ 368 520 l 1
+ 446 520 l 1
+ 446 0 l 1
+ 368 0 l 1x74
+ 368 91 l 1
+ 363 77 356 64 347 51 c 0
+ 338 38 328 27 316 18 c 0
+ 304 9 289 1 274 -3 c 0
+ 259 -7 245 -8 230 -8 c 0xb4
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.ma
+Encoding: 5 59141 8
+Width: 500
+Flags: HW
+HStem: -8 70<183.924 300.768> 0 21G<358 436> 225 70<142 358>
+VStem: 64 78<107.75 225 295 735> 358 78<0 91 107.557 225 295 520>
+AnchorPoint: "JaketoTopSp" 395 590 basechar 0
+AnchorPoint: "JaketoBottom" 250 -20 basechar 0
+AnchorPoint: "JaketoTop" 395 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+216 401 m 1048x38
+220 -8 m 0xb8
+ 203 -8 187 -6 171 -1 c 0
+ 155 4 140 12 128 22 c 0
+ 116 32 106 44 97 58 c 0
+ 88 72 81 88 76 104 c 0
+ 71 120 68 136 66 152 c 0
+ 64 168 64 184 64 200 c 2
+ 64 735 l 1
+ 142 735 l 5
+ 142 295 l 1
+ 358 295 l 1
+ 358 520 l 1
+ 436 520 l 1
+ 436 0 l 1
+ 358 0 l 1x78
+ 358 91 l 1
+ 353 77 346 64 337 51 c 0
+ 328 38 318 27 306 18 c 0
+ 294 9 279 2 264 -2 c 0
+ 249 -6 235 -8 220 -8 c 0xb8
+358 225 m 1
+ 142 225 l 1
+ 142 200 l 2
+ 142 189 143 177 144 166 c 0
+ 145 155 148 144 151 134 c 0
+ 154 124 160 114 166 105 c 0
+ 172 96 179 88 188 81 c 0
+ 197 74 206 69 217 66 c 0
+ 228 63 239 62 250 62 c 0xb8
+ 261 62 272 63 283 66 c 0
+ 294 69 303 74 312 81 c 0
+ 321 88 328 96 334 105 c 0
+ 340 114 346 124 349 134 c 0
+ 352 144 355 155 356 166 c 0
+ 357 177 358 189 358 200 c 2
+ 358 225 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.ka
+Encoding: 9 59145 9
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: -8 70<184.602 298.487> 458 70<188.684 258>
+VStem: 64 78<109.667 409.652> 358 78<-215 91 106.077 520>
+AnchorPoint: "JaketoTopSp" 300 590 basechar 0
+AnchorPoint: "JaketoBottom" 210 -20 basechar 0
+AnchorPoint: "JaketoTop" 250 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+250 62 m 0
+ 272 62 358 67 358 200 c 2
+ 358 520 l 1
+ 436 520 l 5
+ 436 -215 l 1
+ 358 -215 l 1
+ 358 91 l 1
+ 341 47 304 -8 220 -8 c 0
+ 134 -8 64 51 64 200 c 2
+ 64 320 l 2
+ 64 359 69 528 258 528 c 1
+ 258 458 l 1
+ 228 456 142 451 142 320 c 2
+ 142 200 l 2
+ 142 157 153 62 250 62 c 0
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.ga
+Encoding: 10 59146 10
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: -8 70<184.602 298.487> 408 112<166.75 213> 450 70<64 152>
+VStem: 64 149<450 520> 64 78<109.667 382.448> 358 78<-215 91 106.077 520>
+AnchorPoint: "JaketoTopSp" 300 590 basechar 0
+AnchorPoint: "JaketoBottom" 210 -20 basechar 0
+AnchorPoint: "JaketoTop" 250 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+64 278 m 2xac
+ 64 295 65 313 68 330 c 0
+ 71 347 75 362 82 378 c 0
+ 89 394 98 408 110 421 c 0
+ 122 434 136 443 152 450 c 1
+ 64 450 l 1
+ 64 520 l 1xb4
+ 213 520 l 1
+ 213 408 l 1
+ 209 408 l 2xd4
+ 200 408 192 405 184 400 c 0
+ 176 395 169 389 164 382 c 0
+ 159 375 156 367 153 358 c 0
+ 150 349 148 341 146 332 c 0
+ 144 323 142 315 142 306 c 0
+ 142 297 142 287 142 278 c 2
+ 142 200 l 2
+ 142 157 153 62 250 62 c 0
+ 272 62 358 67 358 200 c 2
+ 358 520 l 1
+ 436 520 l 1
+ 436 -215 l 5
+ 358 -215 l 1
+ 358 91 l 1
+ 341 47 304 -8 220 -8 c 0
+ 134 -8 64 51 64 200 c 2
+ 64 278 l 2xac
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.nga
+Encoding: 11 59147 11
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: -8 70<184.602 298.487> 225 70<142 358> 458 70<188.684 258>
+VStem: 64 78<109.667 225 295 409.652> 358 78<-215 91 106.077 225 295 520>
+CounterMasks: 1 e0
+AnchorPoint: "JaketoTopSp" 300 590 basechar 0
+AnchorPoint: "JaketoBottom" 210 -20 basechar 0
+AnchorPoint: "JaketoTop" 250 570 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+250 62 m 0
+ 272 62 358 67 358 200 c 2
+ 358 225 l 1
+ 142 225 l 1
+ 142 200 l 2
+ 142 157 153 62 250 62 c 0
+358 295 m 1
+ 358 520 l 1
+ 436 520 l 1
+ 436 -215 l 5
+ 358 -215 l 5
+ 358 91 l 1
+ 341 47 304 -8 220 -8 c 0
+ 134 -8 64 51 64 200 c 2
+ 64 320 l 2
+ 64 359 69 528 258 528 c 1
+ 258 458 l 1
+ 228 456 142 451 142 320 c 2
+ 142 295 l 1
+ 358 295 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.Cl
+Encoding: 12 59148 12
+Width: 0
+VWidth: 1000
+Flags: HW
+HStem: 490 125<-50.5879 50.6101>
+VStem: -62 125<501.412 602.61>
+AnchorPoint: "JaketoTopSp" 0 500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 490 m 260
+ -9 490 -17 492 -25 494 c 4
+ -33 496 -40 500 -46 506 c 4
+ -52 512 -56 519 -58 527 c 4
+ -60 535 -62 543 -62 552 c 260
+ -62 561 -60 569 -58 577 c 4
+ -56 585 -52 592 -46 598 c 4
+ -40 604 -33 608 -25 611 c 4
+ -17 614 -9 615 0 615 c 260
+ 9 615 17 614 25 611 c 4
+ 33 608 40 604 46 598 c 4
+ 52 592 56 585 59 577 c 4
+ 62 569 63 561 63 552 c 260
+ 63 543 62 535 59 527 c 4
+ 56 519 52 512 46 506 c 4
+ 40 500 33 496 25 494 c 4
+ 17 492 9 490 0 490 c 260
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.Cr
+Encoding: 13 59149 13
+Width: 0
+VWidth: 1000
+Flags: HW
+HStem: 480 117<-153.311 -46.5753 46.689 153.425>
+VStem: -162 125<487.412 588.61> 38 125<487.412 588.61>
+AnchorPoint: "JaketoTop" 0 460 mark 0
+LayerCount: 2
+Fore
+SplineSet
+100 476 m 260
+ 91 476 83 478 75 480 c 4
+ 67 482 60 486 54 492 c 4
+ 48 498 44 505 42 513 c 4
+ 40 521 38 529 38 538 c 260
+ 38 547 40 555 42 563 c 4
+ 44 571 48 578 54 584 c 4
+ 60 590 67 594 75 597 c 4
+ 83 600 91 601 100 601 c 260
+ 109 601 117 600 125 597 c 4
+ 133 594 140 590 146 584 c 4
+ 152 578 156 571 159 563 c 4
+ 162 555 163 547 163 538 c 260
+ 163 529 162 521 159 513 c 4
+ 156 505 152 498 146 492 c 4
+ 140 486 133 482 125 480 c 4
+ 117 478 109 476 100 476 c 260
+-100 476 m 260
+ -109 476 -117 478 -125 480 c 4
+ -133 482 -140 486 -146 492 c 4
+ -152 498 -156 505 -158 513 c 4
+ -160 521 -162 529 -162 538 c 260
+ -162 547 -160 555 -158 563 c 4
+ -156 571 -152 578 -146 584 c 4
+ -140 590 -133 594 -125 597 c 4
+ -117 600 -109 601 -100 601 c 260
+ -91 601 -83 600 -75 597 c 4
+ -67 594 -60 590 -54 584 c 4
+ -48 578 -44 571 -41 563 c 4
+ -38 555 -37 547 -37 538 c 260
+ -37 529 -38 521 -41 513 c 4
+ -44 505 -48 498 -54 492 c 4
+ -60 486 -67 482 -75 480 c 4
+ -83 478 -91 476 -100 476 c 260
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.Cj
+Encoding: 14 59150 14
+Width: 0
+VWidth: 1000
+Flags: HW
+HStem: 432 169
+VStem: -140 280
+AnchorPoint: "JaketoTop" -1 430 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-97 432 m 1
+ -140 462 l 1
+ -49 601 l 1
+ 49 601 l 1
+ 140 462 l 1
+ 97 432 l 1
+ 0 545 l 1
+ -97 432 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.Cw
+Encoding: 15 59151 15
+Width: 0
+VWidth: 1000
+Flags: HW
+HStem: 450 169
+VStem: -140 280
+AnchorPoint: "JaketoTop" 0 420 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-49 450 m 1
+ -140 590 l 1
+ -97 619 l 1
+ 0 507 l 1
+ 97 619 l 1
+ 140 590 l 1
+ 49 450 l 1
+ -49 450 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.y
+Encoding: 16 59152 16
+Width: 0
+VWidth: 1000
+Flags: HW
+HStem: -162 125<-50.5879 50.6101>
+VStem: -62 125<-150.588 -49.3899>
+AnchorPoint: "JaketoBottom" 0 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 -162 m 260
+ -9 -162 -17 -160 -25 -158 c 4
+ -33 -156 -40 -152 -46 -146 c 4
+ -52 -140 -56 -133 -58 -125 c 4
+ -60 -117 -62 -109 -62 -100 c 260
+ -62 -91 -60 -83 -58 -75 c 4
+ -56 -67 -52 -60 -46 -54 c 4
+ -40 -48 -33 -44 -25 -41 c 4
+ -17 -38 -9 -37 0 -37 c 260
+ 9 -37 17 -38 25 -41 c 4
+ 33 -44 40 -48 46 -54 c 4
+ 52 -60 56 -67 59 -75 c 4
+ 62 -83 63 -91 63 -100 c 260
+ 63 -109 62 -117 59 -125 c 4
+ 56 -133 52 -140 46 -146 c 4
+ 40 -152 33 -156 25 -158 c 4
+ 17 -160 9 -162 0 -162 c 260
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.i
+Encoding: 17 59153 17
+Width: 0
+VWidth: 1000
+Flags: HW
+HStem: -188 158
+VStem: -127 254
+AnchorPoint: "JaketoBottom" 0 9 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-73 -188 m 5
+ -127 -152 l 5
+ -40 -30 l 5
+ 40 -30 l 5
+ 127 -152 l 5
+ 73 -188 l 5
+ 0 -86 l 5
+ -73 -188 l 5
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.e
+Encoding: 18 59154 18
+Width: 0
+VWidth: 1000
+Flags: HW
+HStem: -208 246
+VStem: -95 209
+AnchorPoint: "JaketoBottom" 20 50 mark 0
+LayerCount: 2
+Fore
+SplineSet
+27 -50 m 1
+ 114 -172 l 1
+ 60 -208 l 1
+ -13 -106 l 1
+ -41 -144 l 1
+ -95 -107 l 1
+ 8 38 l 1
+ 62 1 l 1
+ 27 -50 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.q
+Encoding: 21 59157 19
+Width: 0
+VWidth: 1000
+Flags: HW
+HStem: -120 70<-152 153>
+VStem: -152 305<-120 -50>
+AnchorPoint: "JaketoBottom" 0 -10 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-152 -50 m 1
+ 153 -50 l 1
+ 153 -120 l 1
+ -152 -120 l 1
+ -152 -50 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.u
+Encoding: 19 59155 20
+Width: 0
+VWidth: 1000
+Flags: HW
+HStem: -159 198
+VStem: -111 211
+AnchorPoint: "JaketoBottom" 0 60 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-89 -159 m 5
+ -111 -101 l 5
+ 18 -60 l 5
+ -111 -19 l 5
+ -89 39 l 5
+ 100 -34 l 5
+ 100 -86 l 5
+ -89 -159 l 5
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.o
+Encoding: 20 59156 21
+Width: 0
+VWidth: 1000
+Flags: HW
+HStem: -182 231
+VStem: -111 211
+AnchorPoint: "JaketoBottom" 10 60 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-57 -126 m 1
+ 18 -100 l 1
+ -111 -59 l 1
+ -110 -57 l 1
+ -112 0 l 1
+ 16 49 l 1
+ 34 -5 l 1
+ -23 -26 l 1
+ 100 -74 l 1
+ 100 -126 l 1
+ -38 -182 l 1
+ -57 -126 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.Vn
+Encoding: 22 59158 22
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: 0 70<64 163 247 436> 450 70<64 253 337 436>
+LayerCount: 2
+Fore
+SplineSet
+64 0 m 1
+ 64 70 l 1
+ 163 70 l 1
+ 253 450 l 1
+ 64 450 l 1
+ 64 520 l 1
+ 436 520 l 1
+ 436 450 l 1
+ 337 450 l 1
+ 247 70 l 1
+ 436 70 l 1
+ 436 0 l 1
+ 64 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.Vm
+Encoding: 23 59159 23
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: 0 70<75 211 289 425> 665 70<75 211 289 425>
+VStem: 211 78<70 665>
+LayerCount: 2
+Fore
+SplineSet
+75 0 m 1
+ 75 70 l 1
+ 211 70 l 1
+ 211 665 l 1
+ 75 665 l 1
+ 75 735 l 1
+ 425 735 l 1
+ 425 665 l 1
+ 289 665 l 1
+ 289 70 l 1
+ 425 70 l 1
+ 425 0 l 1
+ 75 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.Vj
+Encoding: 24 59160 24
+Width: 500
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+80 0 m 1
+ 80 520 l 1
+ 157 520 l 1
+ 157 278 l 1
+ 348 520 l 1
+ 443 520 l 1
+ 256 283 l 1
+ 443 0 l 1
+ 353 0 l 1
+ 207 221 l 1
+ 157 158 l 1
+ 157 0 l 1
+ 80 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.Vw
+Encoding: 25 59161 25
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: 580 125<159.412 260.61>
+VStem: 148 125<591.412 692.61>
+LayerCount: 2
+Fore
+SplineSet
+80 0 m 1
+ 80 520 l 1
+ 157 520 l 1
+ 157 278 l 1
+ 348 520 l 1
+ 443 520 l 1
+ 256 283 l 1
+ 443 0 l 1
+ 353 0 l 1
+ 207 221 l 1
+ 157 158 l 1
+ 157 0 l 1
+ 80 0 l 1
+260 580 m 260
+ 251 580 243 582 235 584 c 4
+ 227 586 220 590 214 596 c 4
+ 208 602 204 609 202 617 c 4
+ 200 625 198 633 198 642 c 260
+ 198 651 200 659 202 667 c 4
+ 204 675 208 682 214 688 c 4
+ 220 694 227 698 235 701 c 4
+ 243 704 251 705 260 705 c 260
+ 269 705 277 704 285 701 c 4
+ 293 698 300 694 306 688 c 4
+ 312 682 316 675 319 667 c 4
+ 322 659 323 651 323 642 c 260
+ 323 633 322 625 319 617 c 4
+ 316 609 312 602 306 596 c 4
+ 300 590 293 586 285 584 c 4
+ 277 582 269 580 260 580 c 260
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.Vs
+Encoding: 26 59162 26
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: 0 21G<44 131.764 368.236 456>
+LayerCount: 2
+Fore
+SplineSet
+44 0 m 5
+ 205 520 l 5
+ 295 520 l 5
+ 456 0 l 5
+ 374 0 l 5
+ 274 347 l 6
+ 268 368 268 368 262 389 c 4
+ 258 403 254 417 250 432 c 5
+ 246 417 242 403 238 389 c 4
+ 232 368 232 368 226 347 c 6
+ 126 0 l 5
+ 44 0 l 5
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.Vz
+Encoding: 27 59163 27
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: 0 21G<44 131.764 368.236 456> 580 125<199.412 300.61>
+VStem: 188 125<591.412 692.61>
+LayerCount: 2
+Fore
+SplineSet
+44 0 m 1
+ 205 520 l 1
+ 295 520 l 1
+ 456 0 l 1
+ 374 0 l 1
+ 274 347 l 2
+ 268 368 268 368 262 389 c 0
+ 258 403 254 417 250 432 c 1
+ 246 417 242 403 238 389 c 0
+ 232 368 232 368 226 347 c 2
+ 126 0 l 1
+ 44 0 l 1
+250 580 m 260
+ 241 580 233 582 225 584 c 4
+ 217 586 210 590 204 596 c 4
+ 198 602 194 609 192 617 c 4
+ 190 625 188 633 188 642 c 260
+ 188 651 190 659 192 667 c 4
+ 194 675 198 682 204 688 c 4
+ 210 694 217 698 225 701 c 4
+ 233 704 241 705 250 705 c 260
+ 259 705 267 704 275 701 c 4
+ 283 698 290 694 296 688 c 4
+ 302 682 306 675 309 667 c 4
+ 312 659 313 651 313 642 c 260
+ 313 633 312 625 309 617 c 4
+ 306 609 302 602 296 596 c 4
+ 290 590 283 586 275 584 c 4
+ 267 582 259 580 250 580 c 260
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.Vx
+Encoding: 28 59164 28
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: 0 21G<64 171.361 358 436>
+VStem: 64 78<83.8274 520> 64 69<82 318.5> 358 78<0 436.173> 367 69<201.5 438>
+LayerCount: 2
+Fore
+SplineSet
+64 0 m 1xa8
+ 64 520 l 1
+ 142 520 l 1
+ 142 312 l 2xc0
+ 142 273 140 235 138 197 c 0
+ 136 159 134 121 133 82 c 1
+ 338 520 l 1
+ 436 520 l 1xa8
+ 436 0 l 1
+ 358 0 l 1
+ 358 208 l 2x90
+ 358 247 360 285 362 323 c 0
+ 364 361 366 399 367 438 c 1
+ 162 0 l 1
+ 64 0 l 1xa8
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.Vl
+Encoding: 29 59165 29
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: -8 70<369.448 440> 0 70<39 91 169 221> 450 70<39 91 169 221>
+VStem: 39 182<0 70 450 520> 246 78<108.168 411.832>
+LayerCount: 2
+Fore
+SplineSet
+440 458 m 261xb8
+ 429 458 417 457 406 454 c 4
+ 395 451 384 446 375 440 c 4
+ 366 434 357 426 350 417 c 4
+ 343 408 338 398 334 387 c 4
+ 330 376 327 365 326 354 c 4
+ 325 343 324 331 324 320 c 6
+ 324 200 l 6
+ 324 189 325 177 326 166 c 4
+ 327 155 330 144 334 133 c 4
+ 338 122 343 112 350 103 c 4
+ 357 94 366 86 375 80 c 4
+ 384 74 395 69 406 66 c 4
+ 417 63 429 62 440 62 c 261
+ 440 -8 l 261
+ 422 -8 404 -6 386 -2 c 4
+ 368 2 351 7 336 16 c 4
+ 321 25 306 36 294 50 c 4
+ 282 64 272 78 265 94 c 4
+ 258 110 253 128 250 146 c 4
+ 247 164 246 182 246 200 c 6
+ 246 320 l 6
+ 246 338 247 356 250 374 c 4
+ 253 392 258 410 265 426 c 4
+ 272 442 282 456 294 470 c 4
+ 306 484 321 495 336 504 c 4
+ 351 513 368 518 386 522 c 4
+ 404 526 422 528 440 528 c 261
+ 440 458 l 261xb8
+39 0 m 1x78
+ 39 70 l 1
+ 91 70 l 1
+ 91 450 l 1
+ 39 450 l 1
+ 39 520 l 1
+ 221 520 l 1
+ 221 450 l 1
+ 169 450 l 1
+ 169 70 l 1
+ 221 70 l 1
+ 221 0 l 1
+ 39 0 l 1x78
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.TOP
+Encoding: 32 59168 30
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: 0 21G<64 142 359.076 463> 457 70<203.904 343.131>
+VStem: 64 78<0 407.69 421 520> 366 78<300.673 434.472>
+AnchorPoint: "JaketoTop" 250 570 basechar 0
+AnchorPoint: "JaketoTopSp" 250 590 basechar 0
+AnchorPoint: "JaketoBottom" 250 -20 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+193 277 m 1
+ 281 277 l 2
+ 292 277 304 279 316 283 c 0
+ 328 287 337 293 345 302 c 0
+ 353 311 359 321 362 332 c 0
+ 365 343 366 355 366 367 c 0
+ 366 379 365 391 362 402 c 0
+ 359 413 353 424 345 433 c 0
+ 337 442 328 447 316 451 c 0
+ 304 455 292 457 281 457 c 2
+ 250 457 l 2
+ 228 457 142 445 142 312 c 2
+ 142 0 l 1
+ 64 0 l 1
+ 64 520 l 1
+ 142 520 l 1
+ 142 450 l 1
+ 142 421 l 1
+ 159 465 196 527 280 527 c 0
+ 291 527 301 526 324 523 c 0
+ 338 521 351 517 364 511 c 0
+ 377 505 389 495 400 485 c 0
+ 411 475 419 464 426 451 c 0
+ 433 438 437 425 440 411 c 0
+ 443 397 444 382 444 367 c 0
+ 444 349 442 331 438 313 c 0
+ 434 295 425 279 414 265 c 0
+ 403 251 390 238 374 229 c 0
+ 358 220 344 213 326 210 c 1
+ 463 0 l 1
+ 372 0 l 1
+ 193 277 l 1
+EndSplineSet
+EndChar
+
+StartChar: space
+Encoding: 64 32 31
+Width: 500
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: Jaketo.DIR
+Encoding: 33 59169 32
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: -8 70<236 358.991> 0 21G<64 142> 223 70<238 331.979> 457 70<206.16 344.386>
+VStem: 64 78<0 407.69 421 520> 367 78<327.328 434.965> 393 78<91.1685 195.444>
+AnchorPoint: "JaketoTop" 250 570 basechar 0
+AnchorPoint: "JaketoTopSp" 250 590 basechar 0
+AnchorPoint: "JaketoBottom" 250 -35 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+379 260 m 1x7c
+ 409 251 471 224 471 141 c 0
+ 471 107 466 26 359 1 c 0
+ 329 -6 283 -8 236 -8 c 1
+ 236 62 l 1
+ 310 62 393 69 393 143 c 0xba
+ 393 200 343 223 276 223 c 2
+ 238 223 l 1
+ 238 293 l 1
+ 276 293 l 2
+ 299 293 367 317 367 384 c 0
+ 367 399 364 457 276 457 c 2
+ 250 457 l 2
+ 228 457 142 445 142 312 c 2
+ 142 0 l 1
+ 64 0 l 1
+ 64 520 l 1
+ 142 520 l 1
+ 142 421 l 1
+ 159 465 203 527 276 527 c 0
+ 326 527 445 514 445 386 c 0
+ 445 358 441 293 379 260 c 1x7c
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.ERG
+Encoding: 34 59170 33
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: 0 21G<64 142 252 349.231> 225 70<142 356>
+VStem: 64 78<0 225 295 520>
+AnchorPoint: "JaketoTop" 250 570 basechar 0
+AnchorPoint: "JaketoTopSp" 250 590 basechar 0
+AnchorPoint: "JaketoBottom" 250 -35 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+252 520 m 1
+ 340 520 l 1
+ 460 260 l 1
+ 340 0 l 1
+ 252 0 l 1
+ 356 225 l 1
+ 142 225 l 1
+ 142 0 l 1
+ 64 0 l 1
+ 64 520 l 1
+ 142 520 l 1
+ 142 295 l 1
+ 356 295 l 1
+ 252 520 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.ACC
+Encoding: 35 59171 34
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: -8 70<195.912 324.753> 0 21G<64 142> 254 70<260.991 350.62> 449 71<264.192 347.647>
+VStem: 64 78<0 91 107.63 735> 172 78<334.661 434.333> 368 78<107.205 295> 408 75<478.487 532.478>
+AnchorPoint: "JaketoTop" 250 570 basechar 0
+AnchorPoint: "JaketoTopSp" 250 590 basechar 0
+AnchorPoint: "JaketoBottom" 250 -10 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+363 387 m 1x3c
+ 359 415 343 449 310 449 c 0
+ 295 449 250 439 250 383 c 0
+ 250 333 287 324 305 324 c 0
+ 346 324 359 351 363 387 c 1x3c
+255 62 m 0xbe
+ 290 62 368 75 368 192 c 2
+ 368 295 l 1xbe
+ 364 281 349 254 295 254 c 0
+ 229 254 172 312 172 382 c 0
+ 172 477 248 520 302 520 c 0
+ 357 520 382 502 396 477 c 1
+ 406 499 406 509 408 537 c 1
+ 483 532 l 1xbd
+ 475 481 462 425 438 385 c 1
+ 444 363 446 340 446 312 c 2
+ 446 192 l 2
+ 446 133 428 -8 264 -8 c 0xbe
+ 226 -8 196 4 163 51 c 0
+ 154 64 147 77 142 91 c 1
+ 142 0 l 1
+ 64 0 l 1x7e
+ 64 735 l 1
+ 142 735 l 1
+ 142 200 l 2
+ 142 180 142 117 188 81 c 0
+ 201 71 216 62 255 62 c 0xbe
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.ALL
+Encoding: 36 59172 35
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: -7 70<156.869 296.096>
+VStem: 56 78<85.5282 219.327> 358 78<-215 99 112.31 520>
+AnchorPoint: "JaketoTop" 250 570 basechar 0
+AnchorPoint: "JaketoTopSp" 250 590 basechar 0
+AnchorPoint: "JaketoBottom" 250 -20 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+307 243 m 1
+ 219 243 l 2
+ 208 243 196 241 184 237 c 0
+ 172 233 163 227 155 218 c 0
+ 147 209 141 199 138 188 c 0
+ 135 177 134 165 134 153 c 0
+ 134 141 135 129 138 118 c 0
+ 141 107 147 96 155 87 c 0
+ 163 78 172 73 184 69 c 0
+ 196 65 208 63 219 63 c 2
+ 250 63 l 2
+ 272 63 358 75 358 208 c 2
+ 358 520 l 1
+ 436 520 l 1
+ 436 -215 l 1
+ 358 -215 l 1
+ 358 70 l 1
+ 358 99 l 1
+ 341 55 304 -7 220 -7 c 0
+ 209 -7 199 -6 176 -3 c 0
+ 162 -1 149 3 136 9 c 0
+ 123 15 111 25 100 35 c 0
+ 89 45 81 56 74 69 c 0
+ 67 82 63 95 60 109 c 0
+ 57 123 56 138 56 153 c 0
+ 56 171 58 189 62 207 c 0
+ 66 225 75 241 86 255 c 0
+ 97 269 110 282 126 291 c 0
+ 142 300 156 307 174 310 c 1
+ 37 520 l 1
+ 128 520 l 1
+ 307 243 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.DAT
+Encoding: 37 59173 36
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: -7 70<156.869 296.096>
+VStem: 56 78<85.5282 219.327> 358 78<0 99 112.31 520>
+AnchorPoint: "JaketoTop" 250 570 basechar 0
+AnchorPoint: "JaketoTopSp" 250 590 basechar 0
+AnchorPoint: "JaketoBottom" 250 -20 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+307 243 m 1
+ 219 243 l 2
+ 208 243 196 241 184 237 c 0
+ 172 233 163 227 155 218 c 0
+ 147 209 141 199 138 188 c 0
+ 135 177 134 165 134 153 c 0
+ 134 141 135 129 138 118 c 0
+ 141 107 147 96 155 87 c 0
+ 163 78 172 73 184 69 c 0
+ 196 65 208 63 219 63 c 2
+ 250 63 l 2
+ 272 63 358 75 358 208 c 2
+ 358 520 l 1
+ 436 520 l 1
+ 436 0 l 1
+ 358 0 l 1
+ 358 70 l 1
+ 358 99 l 1
+ 341 55 304 -7 220 -7 c 0
+ 209 -7 199 -6 176 -3 c 0
+ 162 -1 149 3 136 9 c 0
+ 123 15 111 25 100 35 c 0
+ 89 45 81 56 74 69 c 0
+ 67 82 63 95 60 109 c 0
+ 57 123 56 138 56 153 c 0
+ 56 171 58 189 62 207 c 0
+ 66 225 75 241 86 255 c 0
+ 97 269 110 282 126 291 c 0
+ 142 300 156 307 174 310 c 1
+ 37 520 l 1
+ 128 520 l 1
+ 307 243 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.INS
+Encoding: 38 59174 37
+Width: 500
+VWidth: 1000
+Flags: HWO
+HStem: -8 70<295.911 366.626> 0 21G<48 126> 458 70<138.734 204.163>
+VStem: 48 78<0 452.713 461 520> 211 78<67.2871 452.5> 374 78<67.2871 735>
+CounterMasks: 1 1c
+LayerCount: 2
+Fore
+SplineSet
+331 -8 m 0xbc
+ 320 -8 309 -7 298 -5 c 0
+ 287 -3 278 0 268 6 c 0
+ 258 12 250 20 242 28 c 0
+ 234 36 228 45 223 55 c 0
+ 218 65 216 75 214 86 c 0
+ 212 97 211 109 211 120 c 2
+ 211 400 l 2
+ 211 407 211 413 210 420 c 0
+ 209 427 206 433 202 439 c 0
+ 198 445 194 450 188 453 c 0
+ 182 456 176 458 169 458 c 0
+ 162 458 155 456 149 453 c 0
+ 143 450 138 445 135 439 c 0
+ 132 433 129 427 128 420 c 0
+ 127 413 126 407 126 400 c 2
+ 126 0 l 1
+ 48 0 l 1x7c
+ 48 520 l 1
+ 126 520 l 1
+ 126 461 l 1
+ 129 490 130.41796875 495.405273438 141 510 c 4
+ 145.137695312 515.70703125 153 521 163 524 c 4
+ 173 527 186 528 192 528 c 0
+ 202 528 212 527 222 524 c 0
+ 232 521 240 516 248 510 c 0
+ 256 504 263 496 268 487 c 0
+ 273 478 278 470 281 460 c 0
+ 284 450 287 440 288 430 c 0
+ 289 420 289 410 289 400 c 2
+ 289 120 l 2
+ 289 113 289 107 290 100 c 0
+ 291 93 294 87 298 81 c 0
+ 302 75 306 70 312 67 c 0
+ 318 64 324 62 331 62 c 0
+ 338 62 345 64 351 67 c 0
+ 357 70 362 75 365 81 c 0
+ 368 87 371 93 372 100 c 0
+ 373 107 374 113 374 120 c 2
+ 374 735 l 1
+ 452 735 l 1
+ 452 120 l 2
+ 452 109 451 97 449 86 c 0
+ 447 75 444 65 440 55 c 0
+ 436 45 430 36 422 28 c 0
+ 414 20 406 12 396 6 c 0
+ 386 0 375 -3 364 -5 c 0
+ 353 -7 342 -8 331 -8 c 0xbc
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.LOC
+Encoding: 39 59175 38
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: 0 21G<198.808 301.192>
+LayerCount: 2
+Fore
+SplineSet
+205 0 m 5
+ 44 520 l 5
+ 126 520 l 5
+ 226 173 l 6
+ 232 152 232 152 238 131 c 4
+ 242 117 246 103 250 88 c 5
+ 254 103 258 117 262 131 c 4
+ 268 152 268 152 274 173 c 6
+ 374 520 l 5
+ 456 520 l 5
+ 295 0 l 5
+ 205 0 l 5
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.COM
+Encoding: 40 59176 39
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: 0 21G<104 181 319 396>
+VStem: 104 77<0 520> 319 77<0 520>
+LayerCount: 2
+Fore
+SplineSet
+396 0 m 1
+ 319 0 l 1
+ 319 520 l 1
+ 396 520 l 1
+ 396 0 l 1
+181 0 m 1
+ 104 0 l 1
+ 104 520 l 1
+ 181 520 l 1
+ 181 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.ANT
+Encoding: 41 59177 40
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: 0 21G<104 181 319 396> 580 125<199.412 300.61>
+VStem: 104 77<0 520> 188 125<591.412 692.61> 319 77<0 520>
+LayerCount: 2
+Fore
+SplineSet
+250 580 m 260
+ 241 580 233 582 225 584 c 4
+ 217 586 210 590 204 596 c 4
+ 198 602 194 609 192 617 c 4
+ 190 625 188 633 188 642 c 260
+ 188 651 190 659 192 667 c 4
+ 194 675 198 682 204 688 c 4
+ 210 694 217 698 225 701 c 4
+ 233 704 241 705 250 705 c 260
+ 259 705 267 704 275 701 c 4
+ 283 698 290 694 296 688 c 4
+ 302 682 306 675 309 667 c 4
+ 312 659 313 651 313 642 c 260
+ 313 633 312 625 309 617 c 4
+ 306 609 302 602 296 596 c 4
+ 290 590 283 586 275 584 c 4
+ 267 582 259 580 250 580 c 260
+396 0 m 1
+ 319 0 l 1
+ 319 520 l 1
+ 396 520 l 1
+ 396 0 l 1
+181 0 m 1
+ 104 0 l 1
+ 104 520 l 1
+ 181 520 l 1
+ 181 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.TERM
+Encoding: 42 59178 41
+Width: 500
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+252 520 m 5
+ 148 295 l 5
+ 362 295 l 5
+ 362 520 l 5
+ 440 520 l 5
+ 440 0 l 5
+ 362 0 l 5
+ 362 225 l 5
+ 148 225 l 5
+ 252 0 l 5
+ 164 0 l 5
+ 44 260 l 5
+ 164 520 l 5
+ 252 520 l 5
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.ID
+Encoding: 43 59179 42
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: 136 70<64 436> 314 70<64 436>
+LayerCount: 2
+Fore
+SplineSet
+64 314 m 5
+ 64 384 l 5
+ 436 384 l 5
+ 436 314 l 5
+ 64 314 l 5
+436 136 m 5
+ 64 136 l 5
+ 64 206 l 5
+ 436 206 l 5
+ 436 136 l 5
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.GEN
+Encoding: 44 59180 43
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: -8 70<183.864 316.136> 450 70<250 328.433>
+VStem: 64 78<106.756 520> 358 78<106.756 420.584>
+LayerCount: 2
+Fore
+SplineSet
+250 -8 m 256
+ 233 -8 216 -6 198 -2 c 0
+ 180 2 163 8 148 17 c 0
+ 133 26 120 38 109 52 c 0
+ 98 66 89 80 82 96 c 0
+ 75 112 71 130 68 148 c 0
+ 65 166 64 183 64 200 c 2
+ 64 520 l 1
+ 142 520 l 1
+ 142 200 l 2
+ 142 189 143 177 144 166 c 0
+ 145 155 148 144 151 134 c 0
+ 154 124 160 114 166 105 c 0
+ 172 96 179 88 188 81 c 0
+ 197 74 206 69 217 66 c 0
+ 228 63 239 62 250 62 c 256
+ 261 62 272 63 283 66 c 0
+ 294 69 303 74 312 81 c 0
+ 321 88 328 96 334 105 c 0
+ 340 114 346 124 349 134 c 0
+ 352 144 355 155 356 166 c 0
+ 357 177 358 189 358 200 c 2
+ 358 348 l 2
+ 358 361 356 375 353 388 c 0
+ 350 401 343 412 334 422 c 0
+ 325 432 315 440 302 444 c 0
+ 289 448 275 450 262 450 c 2
+ 250 450 l 1
+ 250 520 l 1
+ 262 520 l 2
+ 277 520 293 519 308 516 c 0
+ 323 513 338 509 352 502 c 0
+ 366 495 379 487 390 476 c 0
+ 401 465 411 452 418 438 c 0
+ 425 424 429 409 432 394 c 0
+ 435 379 436 363 436 348 c 2
+ 436 200 l 2
+ 436 183 435 166 432 148 c 0
+ 429 130 425 112 418 96 c 0
+ 411 80 402 66 391 52 c 0
+ 380 38 367 26 352 17 c 0
+ 337 8 320 2 302 -2 c 0
+ 284 -6 267 -8 250 -8 c 256
+EndSplineSet
+EndChar
+
+StartChar: comma
+Encoding: 76 44 44
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: -165 330<213 287>
+VStem: 213 74<-165 165>
+LayerCount: 2
+Fore
+SplineSet
+213 -165 m 5
+ 211 -110 209 -55 208 -0 c 4
+ 207 55 207 110 207 165 c 5
+ 293 165 l 5
+ 293 110 293 55 292 -0 c 4
+ 291 -55 289 -110 287 -165 c 5
+ 213 -165 l 5
+EndSplineSet
+EndChar
+
+StartChar: hyphen
+Encoding: 77 45 45
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: 235 70<64 436>
+LayerCount: 2
+Fore
+SplineSet
+64 235 m 1
+ 64 305 l 1
+ 436 305 l 1
+ 436 235 l 1
+ 64 235 l 1
+EndSplineSet
+EndChar
+
+StartChar: period
+Encoding: 78 46 46
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: -165 330<113 187 313 387>
+VStem: 113 74<-165 165> 313 74<-165 165>
+LayerCount: 2
+Fore
+SplineSet
+313 -165 m 5
+ 311 -110 309 -55 308 -0 c 4
+ 307 55 307 110 307 165 c 5
+ 393 165 l 5
+ 393 110 393 55 392 -0 c 4
+ 391 -55 389 -110 387 -165 c 5
+ 313 -165 l 5
+113 -165 m 1
+ 111 -110 109 -55 108 -0 c 0
+ 107 55 107 110 107 165 c 1
+ 193 165 l 1
+ 193 110 193 55 192 -0 c 0
+ 191 -55 189 -110 187 -165 c 1
+ 113 -165 l 1
+EndSplineSet
+EndChar
+
+StartChar: parenleft
+Encoding: 72 40 47
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: 1 21G<383.706 429.333>
+LayerCount: 2
+Fore
+SplineSet
+416 1 m 5
+ 64 219 l 5
+ 64 301 l 5
+ 416 519 l 5
+ 456 459 l 5
+ 131 260 l 5
+ 456 61 l 5
+ 416 1 l 5
+EndSplineSet
+EndChar
+
+StartChar: parenright
+Encoding: 73 41 48
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: 1 21G<70.6667 116.294>
+LayerCount: 2
+Fore
+SplineSet
+84 1 m 5
+ 44 61 l 5
+ 369 260 l 5
+ 44 459 l 5
+ 84 519 l 5
+ 436 301 l 5
+ 436 219 l 5
+ 84 1 l 5
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.NameLeft
+Encoding: 48 59184 49
+Width: 500
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+124 322 m 5
+ 124 590 l 5
+ 400 590 l 5
+ 400 520 l 5
+ 202 520 l 5
+ 202 322 l 5
+ 124 322 l 5
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.NameRight
+Encoding: 49 59185 50
+Width: 500
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+396 199 m 5
+ 396 -69 l 5
+ 120 -69 l 5
+ 120 1 l 5
+ 318 1 l 5
+ 318 199 l 5
+ 396 199 l 5
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.QuoteLeft
+Encoding: 50 59186 51
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: 1 21G<383.706 429.333>
+LayerCount: 2
+Fore
+SplineSet
+420 198 m 260
+ 411 198 403 200 395 202 c 4
+ 387 204 380 208 374 214 c 4
+ 368 220 364 227 362 235 c 4
+ 360 243 358 251 358 260 c 260
+ 358 269 360 277 362 285 c 4
+ 364 293 368 300 374 306 c 4
+ 380 312 387 316 395 319 c 4
+ 403 322 411 323 420 323 c 260
+ 429 323 437 322 445 319 c 4
+ 453 316 460 312 466 306 c 4
+ 472 300 476 293 479 285 c 4
+ 482 277 483 269 483 260 c 260
+ 483 251 482 243 479 235 c 4
+ 476 227 472 220 466 214 c 4
+ 460 208 453 204 445 202 c 4
+ 437 200 429 198 420 198 c 260
+416 1 m 1
+ 64 219 l 1
+ 64 301 l 1
+ 416 519 l 1
+ 456 459 l 1
+ 131 260 l 1
+ 456 61 l 1
+ 416 1 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jaketo.QuoteRight
+Encoding: 51 59187 52
+Width: 500
+VWidth: 1000
+Flags: HW
+HStem: 1 21G<70.6667 116.294>
+LayerCount: 2
+Fore
+SplineSet
+79 198 m 260
+ 70 198 62 200 54 202 c 4
+ 46 204 39 208 33 214 c 4
+ 27 220 23 227 21 235 c 4
+ 19 243 17 251 17 260 c 260
+ 17 269 19 277 21 285 c 4
+ 23 293 27 300 33 306 c 4
+ 39 312 46 316 54 319 c 4
+ 62 322 70 323 79 323 c 260
+ 88 323 96 322 104 319 c 4
+ 112 316 119 312 125 306 c 4
+ 131 300 135 293 138 285 c 4
+ 141 277 142 269 142 260 c 260
+ 142 251 141 243 138 235 c 4
+ 135 227 131 220 125 214 c 4
+ 119 208 112 204 104 202 c 4
+ 96 200 88 198 79 198 c 260
+84 1 m 1
+ 44 61 l 1
+ 369 260 l 1
+ 44 459 l 1
+ 84 519 l 1
+ 436 301 l 1
+ 436 219 l 1
+ 84 1 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont

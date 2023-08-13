@@ -214,8 +214,8 @@ if __name__ == "__main__":
 
     psr.add_argument(
         '-f', '--folder',
-        default="D:/study/My Language/vocabulary"
-    )
+        default="../vocabulary/"
+    ) # TODO : settings.yml needed !!!
 
     args = psr.parse_args()
 

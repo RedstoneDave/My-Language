@@ -1,12 +1,13 @@
 # this file is to be preserved
 # numerals have special attributes
-__default__:
-  type: u.
-  operands: 0
 acu:
   trans:
     en: half
     ja: hanbun
+baroj:
+  trans:
+    en: type
+  operands: 1
 da:
   trans:
     en: ten, 10

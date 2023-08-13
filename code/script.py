@@ -1,3 +1,4 @@
+import argparse
 from itertools import zip_longest
 import random
 
@@ -33,8 +34,8 @@ def syll_is_valid(s: str) -> bool:
         # an input with length 1 can only be valid
         # stopping here to avoid unexpected errors later
         return True
-    if s[-2] in (vowel["y"], vowel["q"]):
-        # y (the void vowel or schwa) and q (the silence mark) can only be seen at the end
+    if s[-2] == vowel["q"]:
+        # q (the silence mark) can only be seen at the end
         return False
     if (s[0] in (base["m"], base["n"])) and (s[1] in (glide["l"], glide["r"])):
         # nasal start combined with l/r glide is invalid
@@ -159,6 +160,5 @@ class JaketoWord:
 
 
 if __name__ == "__main__":
-    # lst = rand_valid_sylls(100)
-    # print(*lst, sep="<br />\n")
-    pass
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--fromtex", "store_true")
