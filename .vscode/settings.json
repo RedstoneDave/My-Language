@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.md": "markdown",
+        "*.LaTeX": "latex",
+        "*.sys": "plaintext",
+        "LICENSE": "restructuredtext",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    }
+}

@@ -23,11 +23,11 @@ There are no words that correspond to “good” or “bad”, “right” or �
 The pronounciation (shown in IPA):
 
 > <div style="font-family: Times New roman; font-size:120%;">
-> ˈkʰop̚.pu ˈsa.ja pʰo ɲiː ɾɯsˈhet͡s tʰa tʰoˈmi.t͡sɯ.keː, ˈkʰaŋ.ɡo̞.ɬɯ ɯ oˈta.pin ˈsa.e.va
-> ˈve.a ˈt͡sɯ.kɯ ˈve.pɯʔ. ˈt͡se.mɯ pʰa ˈy.vɯ ˈt͡se.ma ˈve.a ˈvɯ.cin ɾɯsˈhet͡s sta waj.teʔ.
-> ˈkʰop̚.pu ˈte.t͡se ɬi tʰoˈɾa.t͡sɯ.ke ɕi, ɾɯsˈhe̞.vɯ tʰoˈɾa.t͡sɯj, oˈta.pin ujˈhe.vɯ t͡sɯ.kɯʔ.
-> t͡se ˈwaj.pɯ ˈnos.t͡sɯ ɕa.fɯʔ. ˈsa.ja ˈsa.e.vɯ tʰaˈɾi.sɯ.keː, oˈta.pin oˈfan.vɯ ˈve.a
-> mʲo.kɯʔ. ˈpɾa.t͡se vo̞, ˈkʰop̚.pu ˈsa.ja.sɯ ɾɯsˈhe̞t͡s tʰa ˈb̪͡va.i.tʰe.de.ɾɯʔ.
+> ˈkʰop̚.pɯ ˈsa.ja po ɲiː ɾɯsˈhet͡s ta toˈmi.t͡sɯ.keː, ˈkʰaŋ.ɡo̞.ɬɯ ɯ oˈɾa.sɯː ˈsa.e.va
+> ˈve.a ˈt͡sɯ.kɯ ˈve.pɯʔ. ˈt͡se.mɯ pa ˈy.vɯ ˈt͡se.ma ˈve.a ˈvɯ.cin ɾɯsˈhet͡s sta waj.teʔ.
+> ˈkʰop̚.pɯ ˈte.t͡se ɬi tʰoˈɾa.t͡sɯ.ke ɕi, ɾɯsˈhe̞.vɯ tʰoˈɾa.t͡sɯj, oˈɾa.sɯː ujˈhe.vɯ t͡sɯ.kɯʔ.
+> t͡se ˈwaj.pɯ ˈnos.t͡sɯ ɕa.fɯʔ. ˈsa.ja ˈsa.e.vɯ tʰaˈɾi.sɯ.keː, oˈɾa.sɯː oˈfan.vɯ ˈve.a
+> mʲo.kɯʔ. ˈpɾa.t͡se vo, ˈkʰop̚.pɯ ˈsa.ja.sɯ ɾɯsˈhet͡s ta ˈb̪͡va.i.tʰe.de.ɾɯʔ.
 > </div>
 
 ## Phonology
@@ -60,6 +60,7 @@ A glide is basically a consonant after the base, apart from the void glide (whic
 - ⟨j⟩
   - the approximant \[j\]
   - ⟨tj⟩ = ⟨zj⟩ = \[tɕ\]; ⟨sj⟩ = \[ɕ\]; ⟨dj⟩ = \[dʑ\]; ⟨kj⟩ = \[c\]; ⟨gj⟩ = \[ɟ\]
+  - ⟨pj⟩ = ⟨bj⟩ = \[psV\], specially, ⟨pi⟩ and ⟨bi⟩ reads \[psɯː\], and nasal terminals after these forms become the ⟨l⟩ terminal.
 - ⟨w⟩
   - the approximant \[w\], sometimes realised as \[v\] or \[ʋ\]
 
@@ -101,6 +102,10 @@ The terminal is basically the ending consonant of a syllable, apart from the voi
   - for example: ⟨mexka⟩ reads \[mek̚.ka\]
 - l
   - lengthens the vowel
+
+### Special Cases
+
+- \[ta\] not being the first syllable of a word read \[ɾa\]
 
 ## Grammar in a nutshell
 

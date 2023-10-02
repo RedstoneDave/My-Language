@@ -152,7 +152,7 @@ class JaketoWord:
     def __repr__(self) -> str:
         return f"JaketoWord({repr(self.s)})"
 
-    def __getstate__(self) -> dict:
+    def __getstate__(self) -> str:
         return self.s
 
     def __setstate__(self, s: str):

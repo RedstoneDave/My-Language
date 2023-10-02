@@ -19,7 +19,7 @@ Here are the forms of the word `fesa`:
   - e.g. `fesazu kasasu udazy` means “Human have long legs” (lit. humans (are of which) legs (are) long), where `kasa` means “leg” and `udaz` is the adjective “long”.
   - To avoid ambiguity, the sentence above can also be said as `fesazu bruma kasasu udazy`, the `bru-ma` here indecates which part the topic belongs to, specifically the genitive for the word `kasa`.
 - `fesa'je`
-  - `ye` indecates the ablative, meaning “from”, and the ergative in non-ergative trigger forms (as “by ...” in English)
+  - `je` indecates the ablative, meaning “from”, and the ergative in non-ergative trigger forms (as “by ...” in English)
   - e.g. `prazu zeke'je vepq` means “I come from there” where `zeke` means “there” and `vep` means “to come”
   - and `prazu bew'je nocinsq` means “I’m abandoned by the society” where `bew` means “the world” and “the society” and `noc` means “to abandon; to desert”, `-insq` makes a verb passive
 - `fesabu`

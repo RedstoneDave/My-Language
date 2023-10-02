@@ -80,6 +80,7 @@ ki:
     en: three, 3
     ja: mi, san
 laj:
+  operands: 1
   trans:
     en: other
     ja: hokano
@@ -107,7 +108,7 @@ mu:
   trans:
     en: hundred, 100
     ja: hyaku
-myu:
+mju:
   trans:
     en: any
     ja: nin'i na
