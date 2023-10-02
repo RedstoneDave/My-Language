@@ -60,7 +60,9 @@ A glide is basically a consonant after the base, apart from the void glide (whic
 - ⟨j⟩
   - the approximant \[j\]
   - ⟨tj⟩ = ⟨zj⟩ = \[tɕ\]; ⟨sj⟩ = \[ɕ\]; ⟨dj⟩ = \[dʑ\]; ⟨kj⟩ = \[c\]; ⟨gj⟩ = \[ɟ\]
-  - ⟨pj⟩ = ⟨bj⟩ = \[psV\], specially, ⟨pi⟩ and ⟨bi⟩ reads \[psɯː\], and nasal terminals after these forms become the ⟨l⟩ terminal.
+  - ⟨pj⟩ = ⟨bj⟩ = \[psV\], specially, ⟨pi⟩ and ⟨bi⟩ reads \[psɯː\]
+    - nasal terminals after these forms become the ⟨l⟩ terminal.
+    - if the last syllable ends in ⟨a⟩ or ⟨s⟩ or ⟨z⟩, the initial \[p\] is omitted
 - ⟨w⟩
   - the approximant \[w\], sometimes realised as \[v\] or \[ʋ\]
 
